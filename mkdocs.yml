@@ -1,0 +1,15 @@
+site_name: I Segreti della Scrittura
+theme:
+  name: readthedocs
+docs_dir: docs
+site_dir: site
+site_name: I Segreti della Scrittura
+theme:
+  name: readthedocs
+docs_dir: docs
+site_dir: site
+nav:
+  - Home: index.md
+  - Apocalisse (Livello Profondo): apocalisse.md
+  - Le Radici in Daniele: daniele.md
+  - I 5 Segreti di Isaia: isaia.md
