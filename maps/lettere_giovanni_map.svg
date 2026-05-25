@@ -24,7 +24,7 @@
   <circle cx="557" cy="429" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="557" y="429" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOCETISMO</text>
   <circle cx="309" cy="390" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="309" y="390" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LETTERE</text>
+  <text x="309" y="390" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REALE</text>
   <circle cx="564" cy="203" r="27" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="564" y="203" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REALE</text>
+  <text x="564" y="203" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ATTO</text>
 </svg>

@@ -14,15 +14,15 @@
   <circle cx="522" cy="381" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="522" y="381" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DESERTO</text>
   <circle cx="329" cy="147" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="329" y="147" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUMERI</text>
+  <text x="329" y="147" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RIBELLIONE</text>
   <circle cx="391" cy="477" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="391" y="477" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RIBELLIONE</text>
+  <text x="391" y="477" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TERRA</text>
   <circle cx="298" cy="416" r="30" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="298" y="416" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TERRA</text>
+  <text x="298" y="416" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SABBIA</text>
   <circle cx="240" cy="174" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="240" y="174" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FORNACE</text>
+  <text x="240" y="174" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUARDA</text>
   <circle cx="445" cy="100" r="18" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="445" y="100" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SABBIA</text>
+  <text x="445" y="100" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VELENO</text>
   <circle cx="607" cy="182" r="27" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="607" y="182" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUARDA</text>
+  <text x="607" y="182" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SERPENTE</text>
 </svg>

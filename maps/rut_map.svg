@@ -15,15 +15,15 @@
   <circle cx="587" cy="322" r="19" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="587" y="322" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BOAZ</text>
   <circle cx="536" cy="415" r="25" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="536" y="415" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">STRANIERA</text>
+  <text x="536" y="415" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GOEL</text>
   <circle cx="427" cy="420" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="427" y="420" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REDENTORE</text>
+  <text x="427" y="420" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PARENTE</text>
   <circle cx="377" cy="525" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="377" y="525" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GOEL</text>
+  <text x="377" y="525" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">STRANIERA</text>
   <circle cx="635" cy="372" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="635" y="372" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PARENTE</text>
+  <text x="635" y="372" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MANTELLO</text>
   <circle cx="476" cy="164" r="20" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="476" y="164" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MANTELLO</text>
+  <text x="476" y="164" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MOABITA</text>
   <circle cx="192" cy="207" r="19" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="192" y="207" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MOABITA</text>
+  <text x="192" y="207" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LEGGE</text>
 </svg>

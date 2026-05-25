@@ -18,11 +18,11 @@
   <circle cx="490" cy="244" r="16" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="490" y="244" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OGNI</text>
   <circle cx="282" cy="211" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="282" y="211" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESODO</text>
+  <text x="282" y="211" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UMANO</text>
   <circle cx="571" cy="274" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="571" y="274" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UMANO</text>
+  <text x="571" y="274" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
   <circle cx="603" cy="176" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="603" y="176" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
+  <text x="603" y="176" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IDENTITÀ</text>
   <circle cx="472" cy="477" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="472" y="477" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEOPOLITIC</text>
+  <text x="472" y="477" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIBERAZION</text>
 </svg>

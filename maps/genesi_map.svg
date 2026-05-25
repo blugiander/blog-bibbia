@@ -16,15 +16,15 @@
   <circle cx="365" cy="67" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="365" y="67" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIORNO</text>
   <circle cx="483" cy="161" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="483" y="161" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GENESI</text>
+  <text x="483" y="161" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="571" cy="357" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="571" y="357" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="571" y="357" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ALBERO</text>
   <circle cx="254" cy="372" r="16" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="254" y="372" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <text x="254" y="372" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TRONO</text>
   <circle cx="488" cy="362" r="15" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="488" y="362" fill="#003B00" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ALBERO</text>
+  <text x="488" y="362" fill="#003B00" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TOHU</text>
   <circle cx="329" cy="151" r="18" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="329" y="151" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TRONO</text>
+  <text x="329" y="151" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BOHU</text>
   <circle cx="479" cy="418" r="27" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="479" y="418" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TOHU</text>
+  <text x="479" y="418" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
 </svg>

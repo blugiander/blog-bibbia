@@ -15,15 +15,15 @@
   <circle cx="467" cy="399" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="467" y="399" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
   <circle cx="495" cy="429" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="495" y="429" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DESERTO</text>
+  <text x="495" y="429" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PACE</text>
   <circle cx="310" cy="171" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="310" y="171" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PACE</text>
+  <text x="310" y="171" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DESERTO</text>
   <circle cx="478" cy="421" r="27" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="478" y="421" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GAZA</text>
+  <text x="478" y="421" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SOLO</text>
   <circle cx="322" cy="471" r="26" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="322" y="471" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SOLO</text>
+  <text x="322" y="471" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPIRITUALE</text>
   <circle cx="378" cy="132" r="27" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="378" y="132" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISRAELE</text>
+  <text x="378" y="132" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ODIO</text>
   <circle cx="315" cy="221" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="315" y="221" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPIRITUALE</text>
+  <text x="315" y="221" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ENTITÀ</text>
 </svg>

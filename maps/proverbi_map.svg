@@ -14,17 +14,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="400" y="300" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PROVERBI</text>
   <circle cx="272" cy="258" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="272" y="258" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SAPIENZA</text>
+  <text x="272" y="258" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VITA</text>
   <circle cx="353" cy="189" r="23" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="353" y="189" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VITA</text>
+  <text x="353" y="189" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TIMORE</text>
   <circle cx="506" cy="270" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="506" y="270" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PROVERBI</text>
+  <text x="506" y="270" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SAPIENZA</text>
   <circle cx="266" cy="112" r="28" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="266" y="112" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TIMORE</text>
+  <text x="266" y="112" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FOLLIA</text>
   <circle cx="317" cy="122" r="18" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="317" y="122" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FOLLIA</text>
+  <text x="317" y="122" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LINGUA</text>
   <circle cx="593" cy="172" r="23" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="593" y="172" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LINGUA</text>
+  <text x="593" y="172" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BRUCIA</text>
   <circle cx="502" cy="322" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="502" y="322" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BRUCIA</text>
+  <text x="502" y="322" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DISCIPLINA</text>
 </svg>

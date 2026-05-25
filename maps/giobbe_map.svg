@@ -18,13 +18,13 @@
   <circle cx="271" cy="141" r="25" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="271" y="141" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEOLOGIA</text>
   <circle cx="556" cy="384" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="556" y="384" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RIBELLIONE</text>
+  <text x="556" y="384" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="445" cy="527" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="445" y="527" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="445" y="527" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AMICI</text>
   <circle cx="258" cy="270" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="258" y="270" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AMICI</text>
+  <text x="258" y="270" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RIBELLIONE</text>
   <circle cx="431" cy="105" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="431" y="105" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTEGRITÀ</text>
+  <text x="431" y="105" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REALTÀ</text>
   <circle cx="560" cy="229" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="560" y="229" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REALTÀ</text>
+  <text x="560" y="229" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTEGRITÀ</text>
 </svg>

@@ -15,15 +15,15 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RE</text>
   <circle cx="425" cy="142" r="25" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="425" y="142" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <text x="425" y="142" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
   <circle cx="339" cy="516" r="22" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="339" y="516" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <text x="339" y="516" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
   <circle cx="475" cy="486" r="18" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="475" y="486" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
+  <text x="475" y="486" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
   <circle cx="337" cy="396" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="337" y="396" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
+  <text x="337" y="396" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NORD</text>
   <circle cx="287" cy="218" r="27" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="287" y="218" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NORD</text>
+  <text x="287" y="218" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="284" cy="316" r="15" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="284" y="316" fill="#003B00" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BAAL</text>
   <circle cx="580" cy="260" r="16" fill="#030303" stroke="#00FF41" stroke-width="3"/>
