@@ -3,13 +3,13 @@ title: "Tito (Architettura nel Caos)"
 description: "> "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..." Creta..."
 keywords: "Matrix, codici, tito, analisi, teologia, geometria"
 tags:
-  - tito
-  - caos
   - carattere
   - dottrina
-  - addestra
   - creta
   - ordine
+  - caos
+  - mondo
+  - fare
 ---
 
 # Tito: Architettura nel Caos e la Grazia che Addestra
@@ -19,16 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Tito: Architettura nel Caos e la Grazia che Addestra
+<p>
 
-! [Header tito](/blog-bibbia/assets/images/header_tito.svg)
+
 
 
 
 > 
 "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..."
 
-Creta non è una vacanza. Paolo cita un loro stesso poeta: "I Cretesi sono sempre bugiardi, male bestie, ventri pigri". L'isola è dominata dalla truffa, dall'edonismo e dal caos morale. Cosa fai quando la chiesa si trova in mezzo a una cultura completamente corrotta?</p>
+Creta non è una vacanza. Paolo cita un loro stesso poeta: "I Cretesi sono sempre bugiardi, male bestie, ventri pigri". L'isola è dominata dalla truffa, dall'edonismo e dal caos morale. Cosa fai quando la chiesa si trova in mezzo a una cultura completamente corrotta? Il Libro di Tito è un manuale su come costruire architettura spirituale nel mezzo dell'anarchia.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

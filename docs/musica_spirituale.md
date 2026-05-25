@@ -3,13 +3,13 @@ title: "L"
 description: "Target: Frequenze, Industria Musicale, Guerra Spirituale Protocollo: Caveman (Fuoco, Suono, Codice) Status: Decodifica delle frequenze. Filtro: Nessuna..."
 keywords: "Matrix, codici, l, analisi, teologia, geometria"
 tags:
-  - musica
   - frequenze
-  - sonora
-  - spirituale
   - suono
-  - arma
+  - musica
+  - sonora
   - industria
+  - mondo
+  - babilonia
 ---
 
 # L'Arma Sonora: Influenza Spirituale della Musica
@@ -19,15 +19,15 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># L'Arma Sonora: Influenza Spirituale della Musica
+<p>
 
-! [Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
+
 
 
 
 **Target:** Frequenze, Industria Musicale, Guerra Spirituale
 **Protocollo:** Caveman (Fuoco, Suono, Codice)
-**Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso. È un codice che bypassa l'intelletto e programma direttamente lo spirito.</p>
+**Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso. È un codice che bypassa l'intelletto e programma direttamente lo spirito. L'aria è un campo di battaglia e le frequenze sono artiglieria.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

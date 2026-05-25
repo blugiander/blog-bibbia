@@ -17,15 +17,15 @@
   <circle cx="490" cy="127" r="16" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="490" y="127" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESDRA</text>
   <circle cx="208" cy="417" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="208" y="417" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ALTARE</text>
+  <text x="208" y="417" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RICOSTRUZI</text>
   <circle cx="412" cy="412" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="412" y="412" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RICOSTRUZI</text>
+  <text x="412" y="412" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
   <circle cx="174" cy="195" r="17" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="174" y="195" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
+  <text x="174" y="195" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PATTO</text>
   <circle cx="366" cy="61" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="366" y="61" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PATTO</text>
+  <text x="366" y="61" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
   <circle cx="536" cy="474" r="17" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="536" y="474" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <text x="536" y="474" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GERUSALEMM</text>
   <circle cx="217" cy="314" r="23" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="217" y="314" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GERUSALEMM</text>
+  <text x="217" y="314" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESILIO</text>
 </svg>

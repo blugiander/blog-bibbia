@@ -3,13 +3,13 @@ title: "Proverbi (Il Codice della Sapienza)"
 description: "> "Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
 keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
 tags:
-  - sapienza
   - vita
-  - proverbi
   - timore
+  - sapienza
   - follia
   - lingua
   - brucia
+  - disciplina
 ---
 
 # I Proverbi: Il Codice della Sapienza Viva
@@ -19,14 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># I Proverbi: Il Codice della Sapienza Viva
+<p>
 
-! [Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
+
 
 
 
 > 
-"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte. La carne viene crocifissa dalla verità.</p>
+"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte. La carne viene crocifissa dalla verità. Il Timore di Dio: La Scossa Ontologica
+
+Il "timore" non è paura umana.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

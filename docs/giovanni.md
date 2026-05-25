@@ -7,8 +7,8 @@ tags:
   - logos
   - luce
   - gloria
-  - vangelo
   - vita
+  - vangelo
   - segni
 ---
 
@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 📜 Il Vangelo di Giovanni: L'Architettura del Logos
+<p>
 
-! [Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
+
 
 
 
@@ -30,7 +30,17 @@ tags:
 Giovanni non inizia con Betlemme, ma con l'eternità. > 
 *En arch─ô ─ôn ho Logos* — "Nel principio era il Logos"
 
-È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione.</p>
+È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione. ### 🜂 Il doppio senso di *katelaben*
+
+*"Le tenebre non l'hanno ricevuta"*
+
+Il verbo significa contemporaneamente:
+
+- non l'hanno **compresa**
+
+- non l'hanno **sopraffatta**
+
+Il cosmo cieco non capisce la luce, e proprio per questo non può vincerla.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

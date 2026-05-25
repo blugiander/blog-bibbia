@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 📜 Gli Atti: Autobiografia dello Spirito Santo
+<p>
 
-! [Header atti](/blog-bibbia/assets/images/header_atti.svg)
+
 
 
 
@@ -43,7 +43,7 @@ Eppure:
 
 Il soggetto grammaticale è sempre lo Spirito, non gli apostoli. ### 🔥 Codice teologico
 
-- La missione non è guidata da logica umana.</p>
+- La missione non è guidata da logica umana. - La geografia non è scelta dagli uomini.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

@@ -22,7 +22,7 @@
   <circle cx="200" cy="349" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="200" y="349" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="508" cy="203" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="508" y="203" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
+  <text x="508" y="203" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PARADOSSO</text>
   <circle cx="260" cy="219" r="15" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="260" y="219" fill="#008F11" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PARADOSSO</text>
+  <text x="260" y="219" fill="#008F11" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CEPPO</text>
 </svg>

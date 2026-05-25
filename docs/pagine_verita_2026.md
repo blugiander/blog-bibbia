@@ -3,13 +3,13 @@ title: "42 Pagine (Polvere alla Polvere)"
 description: "MODO: Caveman. Zero compromessi. 1. ANATEMA O ECO: Eco. Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
 keywords: "Matrix, codici, 42, analisi, teologia, geometria"
 tags:
-  - pagine
-  - verità
-  - header
-  - verita
   - anatema
   - nessun
   - vangelo
+  - esulta
+  - stata
+  - modo
+  - caveman
 ---
 
 # 42 Pagine - Ipotesi Verità
@@ -19,9 +19,7 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 42 Pagine - Ipotesi Verità
-
-! Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di Paolo (Codice H). Il testo conferma la Croce, non la altera. Non aggiungono una virgola alla salvezza.</p>
+<p>Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di Paolo (Codice H). Il testo conferma la Croce, non la altera. Non aggiungono una virgola alla salvezza. Nessun anatema, solo polvere medievale riportata alla luce.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

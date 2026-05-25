@@ -14,15 +14,15 @@
   <circle cx="283" cy="390" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="283" y="390" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
   <circle cx="314" cy="232" r="19" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="314" y="232" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TESSALONIC</text>
+  <text x="314" y="232" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIORNO</text>
   <circle cx="553" cy="267" r="28" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="553" y="267" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESCATOLOGI</text>
+  <text x="553" y="267" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRIMA</text>
   <circle cx="377" cy="477" r="19" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="377" y="477" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIORNO</text>
+  <text x="377" y="477" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESCATOLOGI</text>
   <circle cx="265" cy="449" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="265" y="449" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRIMA</text>
+  <text x="265" y="449" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PANICO</text>
   <circle cx="483" cy="149" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="483" y="149" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PANICO</text>
+  <text x="483" y="149" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUNO</text>
   <circle cx="290" cy="147" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="290" y="147" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="290" y="147" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GENERA</text>
 </svg>

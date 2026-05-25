@@ -6,10 +6,10 @@ tags:
   - timoteo
   - paolo
   - deposito
-  - struttura
   - verità
   - spirituale
   - ultimi
+  - giorni
 ---
 
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
+<p>
 
-! [Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
+
 
 
 
 > 
-"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione. Timoteo è giovane, forse timido, con problemi di stomaco.</p>
+"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione. Timoteo è giovane, forse timido, con problemi di stomaco. Si trova a Efeso, una metropoli dominata dall'occulto, dal culto di Diana e da maestri eretici.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

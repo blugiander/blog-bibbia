@@ -4,12 +4,12 @@ description: "> "I vostri cadaveri cadranno in questo deserto." Il Libro dei Num
 keywords: "Matrix, codici, numeri, analisi, teologia, geometria"
 tags:
   - deserto
-  - numeri
   - ribellione
   - terra
-  - fornace
   - sabbia
   - guarda
+  - veleno
+  - serpente
 ---
 
 # I Numeri: La Fornace del Deserto
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># I Numeri: La Fornace del Deserto
+<p>
 
-! [Header numeri](/blog-bibbia/assets/images/header_numeri.svg)
+
 
 
 
 > 
-"I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è alle spalle, ma la schiavitù è ancora nel sangue.</p>
+"I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è alle spalle, ma la schiavitù è ancora nel sangue. Dio non fa entrare schiavi nella Terra Promessa.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

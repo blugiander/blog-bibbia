@@ -16,15 +16,15 @@
   <circle cx="432" cy="510" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="432" y="510" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDA</text>
   <circle cx="621" cy="282" r="28" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="621" y="282" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUERRA</text>
+  <text x="621" y="282" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">COMBATTERE</text>
   <circle cx="273" cy="435" r="20" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="273" y="435" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">COMBATTERE</text>
+  <text x="273" y="435" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SENZA</text>
   <circle cx="312" cy="466" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="312" y="466" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SENZA</text>
+  <text x="312" y="466" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">STRENUAMEN</text>
   <circle cx="611" cy="231" r="27" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="611" y="231" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EPISTOLA</text>
+  <text x="611" y="231" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANTI</text>
   <circle cx="467" cy="438" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="467" y="438" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INFILTRAZI</text>
+  <text x="467" y="438" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CREDENTI</text>
   <circle cx="296" cy="411" r="19" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="296" y="411" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPIRITUALE</text>
+  <text x="296" y="411" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DISSOLUTEZ</text>
 </svg>

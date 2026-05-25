@@ -4,12 +4,12 @@ description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno 
 keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
 tags:
   - giorno
-  - genesi
   - uomo
-  - tempio
   - albero
   - trono
   - tohu
+  - bohu
+  - tempio
 ---
 
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 📜 La Genesi: L'Architettura del Tempio Cosmico
+<p>
 
-! [Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
+
 
 
 
@@ -33,7 +33,11 @@ Genesi 1 non descrive l'*ex nihilo* (che verrà formulato molto più tardi). Des
 
 - *Bohu* = assenza di contenuto
 
-Non è "nulla": è materia non strutturata, potenzialità pura.</p>
+Non è "nulla": è materia non strutturata, potenzialità pura. ### 🜂 Lo Spirito che "cova"
+
+*"Lo Spirito di Dio aleggiava"*
+
+Il verbo *rachaf* è lo stesso dell'aquila che incuba le uova (Dt 32:11).</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

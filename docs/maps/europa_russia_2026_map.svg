@@ -13,15 +13,15 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="400" y="300" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EUROPA_RUS</text>
   <circle cx="637" cy="278" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="637" y="278" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EUROPA</text>
+  <text x="637" y="278" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CATENE</text>
   <circle cx="553" cy="364" r="22" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="553" y="364" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RUSSIA</text>
+  <text x="553" y="364" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BABILONIA</text>
   <circle cx="555" cy="483" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="555" y="483" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CATENE</text>
+  <text x="555" y="483" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRESTITO</text>
   <circle cx="215" cy="400" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="215" y="400" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BABILONIA</text>
+  <text x="215" y="400" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EUROPA</text>
   <circle cx="459" cy="521" r="17" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="459" y="521" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRESTITO</text>
+  <text x="459" y="521" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RUSSIA</text>
   <circle cx="238" cy="308" r="18" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="238" y="308" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BANCHE</text>
   <circle cx="378" cy="190" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>

@@ -3,13 +3,13 @@ title: "Giudici (Il Collasso e gli Eroi Rotti)"
 description: "> "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. È..."
 keywords: "Matrix, codici, giudici, analisi, teologia, geometria"
 tags:
-  - giudici
   - sansone
   - israele
   - giudice
   - carne
   - carattere
   - unzione
+  - ognuno
 ---
 
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti
@@ -19,14 +19,15 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Giudici: Il Ciclo del Collasso e gli Eroi Rotti
+<p>
 
-! [Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
+
 
 
 
 > 
-"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta. Quello che resta è il caos: compromesso, idolatria, guerra civile e collasso totale della struttura.</p>
+"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta. Quello che resta è il caos: compromesso, idolatria, guerra civile e collasso totale della struttura. Il libro segue un algoritmo spietato, una spirale discendente:
+**Apostasia ÔåÆ Schiavitù ÔåÆ Grido d'Aiuto ÔåÆ Liberatore (Giudice) ÔåÆ Pace ÔåÆ Nuova Apostasia (peggiore della prima).</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

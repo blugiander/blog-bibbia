@@ -3,11 +3,11 @@ title: "1 e 2 Re (Fuoco, Idoli e Rovina)"
 description: "> "Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 tags:
-  - fuoco
   - tempio
   - eterno
   - regno
   - nord
+  - fuoco
   - baal
   - salomone
 ---
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni
+<p>
 
-! [Header re](/blog-bibbia/assets/images/header_re.svg)
+
 
 
 
 > 
-"Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della monarchia. Sono la cronaca della sua disintegrazione.</p>
+"Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della monarchia. Sono la cronaca della sua disintegrazione. È il collasso inevitabile di chi cerca sicurezza nel potere politico, nelle alleanze umane e negli idoli di legno e pietra.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

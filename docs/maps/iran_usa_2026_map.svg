@@ -17,13 +17,13 @@
   <circle cx="207" cy="201" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="207" y="201" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RUMORI</text>
   <circle cx="611" cy="356" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="611" y="356" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUERRA</text>
+  <text x="611" y="356" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MISSILI</text>
   <circle cx="605" cy="359" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="605" y="359" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IRAN</text>
+  <text x="605" y="359" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">POLVERE</text>
   <circle cx="294" cy="402" r="17" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="294" y="402" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MISSILI</text>
+  <text x="294" y="402" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUERRA</text>
   <circle cx="287" cy="427" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="287" y="427" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">POLVERE</text>
+  <text x="287" y="427" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
   <circle cx="575" cy="468" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="575" y="468" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
+  <text x="575" y="468" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CIELO</text>
 </svg>

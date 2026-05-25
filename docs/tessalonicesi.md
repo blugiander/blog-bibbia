@@ -4,12 +4,12 @@ description: "> "Nessuno vi inganni in alcun modo; poiché quel giorno non verr�
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 tags:
   - paolo
-  - tessalonicesi
-  - escatologia
   - giorno
   - prima
+  - escatologia
   - panico
-  - uomo
+  - nessuno
+  - genera
 ---
 
 # 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato
+<p>
 
-! [Header tessalonicesi](/blog-bibbia/assets/images/header_tessalonicesi.svg)
+
 
 
 
 > 
-"Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale.</p>
+"Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale. Per i Tessalonicesi, il ritorno di Cristo non è un dibattito teologico accademico.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

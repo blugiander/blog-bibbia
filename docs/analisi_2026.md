@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># ­ƒôí Aprile 2026 — Codici Biblici nel Presente
+<p>
 
-! [Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
+
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR, avatar, metaverso, identità digitali, intelligenze artificiali: tutto tende a separare la persona dalla carne. ### ­ƒöì Lettura biblica
 
-`1Gv 1:1` insiste sulla materialità: *"ciò che abbiamo udito, visto, toccato"*.</p>
+`1Gv 1:1` insiste sulla materialità: *"ciò che abbiamo udito, visto, toccato"*. Il docetismo antico negava la carne di Cristo; il docetismo digitale nega la carne dell'uomo.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

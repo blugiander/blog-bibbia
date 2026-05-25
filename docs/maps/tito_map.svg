@@ -14,17 +14,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TITO</text>
   <circle cx="250" cy="410" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="250" y="410" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TITO</text>
+  <text x="250" y="410" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARATTERE</text>
   <circle cx="294" cy="111" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="294" y="111" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAOS</text>
+  <text x="294" y="111" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOTTRINA</text>
   <circle cx="447" cy="410" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="447" y="410" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARATTERE</text>
+  <text x="447" y="410" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CRETA</text>
   <circle cx="521" cy="187" r="18" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="521" y="187" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOTTRINA</text>
+  <text x="521" y="187" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORDINE</text>
   <circle cx="353" cy="174" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="353" y="174" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ADDESTRA</text>
+  <text x="353" y="174" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAOS</text>
   <circle cx="563" cy="247" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="563" y="247" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CRETA</text>
+  <text x="563" y="247" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDO</text>
   <circle cx="270" cy="265" r="30" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="270" y="265" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORDINE</text>
+  <text x="270" y="265" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FARE</text>
 </svg>

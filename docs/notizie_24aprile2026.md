@@ -3,13 +3,13 @@ title: "Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)"
 description: "> "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Spegni l'intelletto. Brucia..."
 keywords: "Matrix, codici, notizie, analisi, teologia, geometria"
 tags:
-  - notizie
   - doglie
   - mondo
   - terra
   - trema
   - solo
-  - header
+  - brucia
+  - apocalisse
 ---
 
 # 24 Aprile 2026: I Codici Nascosti Nelle Notizie
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 24 Aprile 2026: I Codici Nascosti Nelle Notizie
+<p>
 
-! [Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
+
 
 
 
 > 
-"Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Quelli che i giornali chiamano "fatti del giorno", lo Spirito li chiama "le doglie del parto". Il mondo è una macchina che va in pezzi esattamente secondo il manuale.</p>
+"Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Quelli che i giornali chiamano "fatti del giorno", lo Spirito li chiama "le doglie del parto". Il mondo è una macchina che va in pezzi esattamente secondo il manuale. Leggi il telegiornale attraverso la lente dell'Apocalisse.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

@@ -3,12 +3,12 @@ title: "Lamentazioni (L"
 description: "> "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."..."
 keywords: "Matrix, codici, lamentazioni, analisi, teologia, geometria"
 tags:
-  - lamentazioni
-  - dolore
   - giudizio
   - eterno
   - libro
+  - dolore
   - ogni
+  - lamentazioni
   - lettera
 ---
 
@@ -19,16 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie
+<p>
 
-! [Header lamentazioni](/blog-bibbia/assets/images/header_lamentazioni.svg)
+
 
 
 
 > 
 "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."
 
-Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue. Geremia guarda la città ridotta in cenere.</p>
+Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue. Geremia guarda la città ridotta in cenere. Il Libro delle Lamentazioni è il funerale di una nazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

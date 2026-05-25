@@ -13,17 +13,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="400" y="300" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SAMUELE</text>
   <circle cx="403" cy="547" r="16" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="403" y="547" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UNZIONE</text>
+  <text x="403" y="547" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="415" cy="414" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="415" y="414" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="415" y="414" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
   <circle cx="226" cy="213" r="20" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="226" y="213" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
+  <text x="226" y="213" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UNZIONE</text>
   <circle cx="218" cy="156" r="27" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="218" y="156" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SAMUELE</text>
+  <text x="218" y="156" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
   <circle cx="538" cy="388" r="17" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="538" y="388" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
+  <text x="538" y="388" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UMANA</text>
   <circle cx="297" cy="248" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="297" y="248" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UMANA</text>
+  <text x="297" y="248" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ARMATURA</text>
   <circle cx="307" cy="125" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="307" y="125" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ARMATURA</text>
+  <text x="307" y="125" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SAUL</text>
 </svg>

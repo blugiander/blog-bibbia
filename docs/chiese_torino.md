@@ -4,12 +4,12 @@ description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: C
 keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
 tags:
   - mappa
-  - torino
-  - chiese
   - fuoco
   - sangue
   - unzione
   - apocalisse
+  - umane
+  - torino
 ---
 
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
@@ -19,15 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
+<p>
 
-! [Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
+
 
 
 
 **Target:** Mappa Istituzionale (Torino, evangelici.net)
 **Protocollo:** Caveman (Fuoco e Sangue)
-**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono. È tempo di setacciare la carne e rivelare l'osso.</p>
+**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono. È tempo di setacciare la carne e rivelare l'osso. Moltiplicazione vs Unzione
+
+**Tante insegne, quanto Fuoco?</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

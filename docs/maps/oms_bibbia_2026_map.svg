@@ -23,7 +23,7 @@
   <circle cx="340" cy="103" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="340" y="103" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIVENTA</text>
   <circle cx="288" cy="261" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="288" y="261" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCRITTURE</text>
+  <text x="288" y="261" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="445" cy="86" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="445" y="86" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="445" y="86" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUOVA</text>
 </svg>

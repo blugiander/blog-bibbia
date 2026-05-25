@@ -376,6 +376,10 @@ def process_file(filepath, all_files):
         if match:
             text_for_nlp = text_for_nlp[match.end():]
             
+    # Rimuovi H1 e immagini per non includerle nel riassunto
+    text_for_nlp = re.sub(r'^#\s+.*$', '', text_for_nlp, flags=re.MULTILINE)
+    text_for_nlp = re.sub(r'!\[.*?\]\(.*?\)', '', text_for_nlp)
+            
     # Fase 1: Riassunto
     summary = generate_summary(text_for_nlp)
     

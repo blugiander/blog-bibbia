@@ -4,12 +4,12 @@ description: "> "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e 
 keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
 tags:
   - esdra
-  - altare
   - ricostruzione
   - codice
   - patto
   - tempio
   - gerusalemme
+  - esilio
 ---
 
 # Esdra: Il Ritorno, l'Altare e la Radice Santa
@@ -19,16 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Esdra: Il Ritorno, l'Altare e la Radice Santa
+<p>
 
-! [Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
+
 
 
 
 > 
 "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
 
-L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il Libro di Esdra non è la cronaca di un trionfo, è la mappa della ricostruzione dalle macerie. L'impero babilonese è stato schiacciato dai Persiani.</p>
+L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il Libro di Esdra non è la cronaca di un trionfo, è la mappa della ricostruzione dalle macerie. L'impero babilonese è stato schiacciato dai Persiani. Ciro, un re pagano, diventa lo strumento operativo dell'Eterno per rimandare a casa un residuo.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

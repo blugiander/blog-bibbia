@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># I Codici della Stampa: Aprile 2026
+<p>
 
-! [Header lastampa_2026](/blog-bibbia/assets/images/header_lastampa_2026.svg)
+
 
 
 
 > 
-"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi. Stagflazione, liti di palazzo, petizioni online, sondaggi.</p>
+"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi. Stagflazione, liti di palazzo, petizioni online, sondaggi. Il Caveman prende lo schermo, lo frantuma e guarda cosa c'è dietro.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

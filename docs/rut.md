@@ -4,12 +4,12 @@ description: "> "Non insistere perch'io ti lasci... il tuo popolo sarà il mio p
 keywords: "Matrix, codici, rut, analisi, teologia, geometria"
 tags:
   - boaz
-  - straniera
-  - redentore
   - goel
   - parente
+  - straniera
   - mantello
   - moabita
+  - legge
 ---
 
 # Rut: Il Redentore e la Grazia Straniera
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Rut: Il Redentore e la Grazia Straniera
+<p>
 
-! [Header rut](/blog-bibbia/assets/images/header_rut.svg)
+
 
 
 
 > 
-"Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo dei Giudici. Elimelec porta la sua famiglia in Moab. Ma mentre i Giudici raccontano la macro-storia di un collasso nazionale, Rut rivela la micro-storia di una redenzione silenziosa.</p>
+"Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo dei Giudici. Elimelec porta la sua famiglia in Moab. Ma mentre i Giudici raccontano la macro-storia di un collasso nazionale, Rut rivela la micro-storia di una redenzione silenziosa. Dio non agisce con terremoti in questo libro.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

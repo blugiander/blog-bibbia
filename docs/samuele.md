@@ -3,13 +3,13 @@ title: "1 e 2 Samuele (Il Re e l"
 description: "> "L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 tags:
-  - unzione
   - uomo
   - carne
-  - samuele
+  - unzione
   - eterno
   - umana
   - armatura
+  - saul
 ---
 
 # 1 e 2 Samuele: Il Re e l'Unzione
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 1 e 2 Samuele: Il Re e l'Unzione
+<p>
 
-! [Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
+
 
 
 
 > 
-"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina. Vuole un re visibile, un uomo alto, un re come tutte le altre nazioni.</p>
+"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina. Vuole un re visibile, un uomo alto, un re come tutte le altre nazioni. Qui si scontrano l'unzione e l'ambizione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

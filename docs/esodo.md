@@ -6,10 +6,10 @@ tags:
   - sistema
   - controllo
   - ogni
-  - esodo
   - umano
   - codice
-  - teopolitica
+  - identità
+  - liberazione
 ---
 
 # Esodo (Versione Teopolitica Integrata 2026)
@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Esodo (Versione Teopolitica Integrata 2026)
+<p>
 
-! [Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
+
 
 
 
@@ -37,7 +37,9 @@ Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende
 
 - identità come concessione, non come natura  
 
-Il grido degli schiavi non è solo dolore: è **la rottura del consenso**. È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta.</p>
+Il grido degli schiavi non è solo dolore: è **la rottura del consenso**. È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta. **Codice 1:**
+
+LÔÇÖEsodo inizia quando lÔÇÖidentità non è più negoziabile.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

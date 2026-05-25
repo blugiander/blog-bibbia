@@ -15,13 +15,13 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCRIFI</text>
   <circle cx="489" cy="444" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="489" y="444" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCRIFI</text>
+  <text x="489" y="444" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
   <circle cx="250" cy="251" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="250" y="251" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
+  <text x="250" y="251" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCRIFI</text>
   <circle cx="511" cy="404" r="16" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="511" y="404" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GNOSI</text>
+  <text x="511" y="404" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MATERIA</text>
   <circle cx="351" cy="130" r="30" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="351" y="130" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MATERIA</text>
+  <text x="351" y="130" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GNOSI</text>
   <circle cx="500" cy="141" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="500" y="141" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELI</text>
   <circle cx="321" cy="364" r="17" fill="#030303" stroke="#003B00" stroke-width="3"/>

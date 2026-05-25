@@ -4,12 +4,12 @@ description: "> "E io vidi, ed ecco un vento tempestoso venire dal settentrione,
 keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
 tags:
   - uomo
-  - ezechiele
   - fuoco
   - cuore
   - ossa
-  - esilio
   - abisso
+  - sangue
+  - pietra
 ---
 
 # Ezechiele: La Gloria nell'Esilio
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Ezechiele: La Gloria nell'Esilio
+<p>
 
-! [Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
+
 
 
 
 > 
-"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia.</p>
+"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia. Ma l'Eterno non è confinato tra quattro mura.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

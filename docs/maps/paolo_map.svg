@@ -14,15 +14,15 @@
   <circle cx="607" cy="175" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="607" y="175" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LEGGE</text>
   <circle cx="222" cy="129" r="20" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="222" y="129" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <text x="222" y="129" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESTERIORE</text>
   <circle cx="530" cy="264" r="26" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="530" y="264" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EBREI</text>
+  <text x="530" y="264" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTERIORE</text>
   <circle cx="385" cy="404" r="30" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="385" y="404" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESTERIORE</text>
+  <text x="385" y="404" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EBREI</text>
   <circle cx="201" cy="366" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="201" y="366" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTERIORE</text>
+  <text x="201" y="366" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESSERE</text>
   <circle cx="559" cy="262" r="15" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="559" y="262" fill="#008F11" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ONTOLOGICO</text>
+  <text x="559" y="262" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
   <circle cx="449" cy="72" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="449" y="72" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESSERE</text>
+  <text x="449" y="72" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORGANISMO</text>
 </svg>

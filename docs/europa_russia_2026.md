@@ -3,11 +3,11 @@ title: "Attualità 2026 (Europa e Russia)"
 description: "> "Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta." Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che..."
 keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
 tags:
-  - europa
-  - russia
   - catene
   - babilonia
   - prestito
+  - europa
+  - russia
   - banche
   - umano
 ---
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Aprile 2026: Europa, Russia e le Catene d'Oro
+<p>
 
-! [Header europa_russia_2026](/blog-bibbia/assets/images/header_europa_russia_2026.svg)
+
 
 
 
 > 
-"Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta." Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che l'uomo chiama economia, lo Spirito chiama Babilonia. L'Europa presta, la Russia sanziona, l'Ucraina brucia.</p>
+"Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta." Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che l'uomo chiama economia, lo Spirito chiama Babilonia. L'Europa presta, la Russia sanziona, l'Ucraina brucia. Apocalisse 18 non è futuro, è il telegiornale di oggi.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

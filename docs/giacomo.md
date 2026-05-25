@@ -3,8 +3,8 @@ title: "Giacomo (La Fede e le Opere)"
 description: "> "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo..."
 keywords: "Matrix, codici, giacomo, analisi, teologia, geometria"
 tags:
-  - giacomo
   - opere
+  - giacomo
   - lingua
   - senza
   - paolo
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua
+<p>
 
-! [Header giacomo](/blog-bibbia/assets/images/header_giacomo.svg)
+
 
 
 
 > 
-"Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo è il fratello di Gesù. Ha vissuto nella stessa casa con il Messia, ma non ha creduto in Lui finché non Lo ha visto risorto. Ora guida la chiesa di Gerusalemme.</p>
+"Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo è il fratello di Gesù. Ha vissuto nella stessa casa con il Messia, ma non ha creduto in Lui finché non Lo ha visto risorto. Ora guida la chiesa di Gerusalemme. E non ha tempo per la teologia astratta.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

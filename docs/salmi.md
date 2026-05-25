@@ -3,13 +3,13 @@ title: "I Salmi (Carne, Sangue e Fuoco)"
 description: "> "Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. Non è poesia per l'anima. È un manuale di..."
 keywords: "Matrix, codici, i, analisi, teologia, geometria"
 tags:
-  - fuoco
   - salmo
-  - salmi
+  - fuoco
   - lode
-  - sangue
   - niente
   - uomo
+  - quando
+  - silenzio
 ---
 
 # I Salmi: Carne, Sangue e Fuoco
@@ -19,16 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># I Salmi: Carne, Sangue e Fuoco
+<p>
 
-! [Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
+
 
 
 
 > 
 "Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco. La Lode come Arma
 
-La lode non è un sentimento.</p>
+La lode non è un sentimento. È una spada di fuoco contro i demoni.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

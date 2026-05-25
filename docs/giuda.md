@@ -4,12 +4,12 @@ description: "> "Carissimi, avendo un gran desiderio di scrivervi... mi sono tro
 keywords: "Matrix, codici, giuda, analisi, teologia, geometria"
 tags:
   - giuda
-  - guerra
   - combattere
   - senza
-  - epistola
-  - infiltrazione
-  - spirituale
+  - strenuamente
+  - santi
+  - credenti
+  - dissolutezza
 ---
 
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
+<p>
 
-! [Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
+
 
 
 
 > 
-"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte.</p>
+"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte. Si è seduto ai tavoli delle comunità, mangia con i credenti, e usa il linguaggio della grazia per giustificare la dissolutezza.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

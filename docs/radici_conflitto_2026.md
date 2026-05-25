@@ -4,12 +4,12 @@ description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Cavema
 keywords: "Matrix, codici, radici, analisi, teologia, geometria"
 tags:
   - israele
-  - conflitto
-  - radici
-  - iran
   - invisibile
   - sangue
   - carnale
+  - orologio
+  - guerra
+  - moderno
 ---
 
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
@@ -19,15 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
+<p>
 
-! [Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
+
 
 
 
 **Target:** L'Architettura Invisibile del Conflitto
 **Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
-**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico.</p>
+**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico. Israele vs Palestina (Isacco e Ismaele)
+
+**Genesi.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

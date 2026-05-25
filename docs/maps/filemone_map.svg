@@ -13,11 +13,11 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="400" y="300" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
   <circle cx="309" cy="185" r="15" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="309" y="185" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
+  <text x="309" y="185" fill="#008F11" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
   <circle cx="619" cy="291" r="22" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="619" y="291" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <text x="619" y="291" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCHIAVO</text>
   <circle cx="613" cy="201" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="613" y="201" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCHIAVO</text>
+  <text x="613" y="201" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
   <circle cx="646" cy="333" r="28" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="646" y="333" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ONESIMO</text>
   <circle cx="536" cy="372" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>

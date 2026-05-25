@@ -15,15 +15,15 @@
   <circle cx="587" cy="217" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="587" y="217" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="398" cy="176" r="26" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="398" y="176" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EZECHIELE</text>
+  <text x="398" y="176" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="197" cy="348" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="197" y="348" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <text x="197" y="348" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CUORE</text>
   <circle cx="479" cy="96" r="23" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="479" y="96" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CUORE</text>
+  <text x="479" y="96" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OSSA</text>
   <circle cx="239" cy="370" r="19" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="239" y="370" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OSSA</text>
+  <text x="239" y="370" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ABISSO</text>
   <circle cx="303" cy="220" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="303" y="220" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESILIO</text>
+  <text x="303" y="220" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
   <circle cx="615" cy="334" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="615" y="334" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ABISSO</text>
+  <text x="615" y="334" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PIETRA</text>
 </svg>

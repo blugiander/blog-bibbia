@@ -3,10 +3,10 @@ title: "Apocrifi e Testi Nascosti"
 description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna..."
 keywords: "Matrix, codici, apocrifi, analisi, teologia, geometria"
 tags:
-  - apocrifi
   - corpo
-  - gnosi
+  - apocrifi
   - materia
+  - gnosi
   - vangeli
   - stati
   - incompatibili
@@ -19,9 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
+<p>
 
-! [Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
+
 
 
 
@@ -31,7 +31,7 @@ Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili 
 
 ### 🜂 La via gnostica: salvezza per conoscenza
 
-- La materia è male.</p>
+- La materia è male. - Il mondo è una prigione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

@@ -11,9 +11,9 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="400" y="300" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIACOMO</text>
   <circle cx="365" cy="404" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="365" y="404" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIACOMO</text>
+  <text x="365" y="404" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OPERE</text>
   <circle cx="481" cy="467" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="481" y="467" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OPERE</text>
+  <text x="481" y="467" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIACOMO</text>
   <circle cx="187" cy="385" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="187" y="385" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LINGUA</text>
   <circle cx="275" cy="188" r="22" fill="#030303" stroke="#33FF66" stroke-width="3"/>

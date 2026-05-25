@@ -3,13 +3,13 @@ title: "Il Cantico dei Cantici (L"
 description: "> "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
 keywords: "Matrix, codici, il, analisi, teologia, geometria"
 tags:
-  - cantico
-  - amore
-  - fuoco
   - cerca
   - sposa
   - sete
+  - amore
   - sigillo
+  - cuore
+  - solo
 ---
 
 # Il Cantico dei Cantici: L'Amore di Fuoco
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Il Cantico dei Cantici: L'Amore di Fuoco
+<p>
 
-! [Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
+
 
 
 
 > 
-"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo incandescente della rivelazione.</p>
+"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo incandescente della rivelazione. L'intimità violenta tra il Creatore e la creatura.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 

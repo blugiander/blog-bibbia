@@ -5,11 +5,11 @@ keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
 tags:
   - solo
   - rumori
-  - guerra
-  - iran
   - missili
   - polvere
+  - guerra
   - carne
+  - cielo
 ---
 
 # Aprile 2026: Rumori di Guerra tra Iran e USA
@@ -19,14 +19,14 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p># Aprile 2026: Rumori di Guerra tra Iran e USA
+<p>
 
-! [Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
+
 
 
 
 > 
-"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere. Ma la Scrittura ha già decodificato lo schermo del telegiornale.</p>
+"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere. Ma la Scrittura ha già decodificato lo schermo del telegiornale. C'è solo spiritualità sotto mentite spoglie.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
 
