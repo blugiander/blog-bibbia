@@ -89,16 +89,4 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lamentazioni_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/lamentazioni.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/lamentazioni.pdf)
-
-- 📚 **EPUB**: [Download](../export/lamentazioni.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/lamentazioni.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

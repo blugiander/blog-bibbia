@@ -93,16 +93,4 @@ Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un c
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/chiese_torino_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/chiese_torino.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/chiese_torino.pdf)
-
-- 📚 **EPUB**: [Download](../export/chiese_torino.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/chiese_torino.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

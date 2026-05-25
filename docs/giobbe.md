@@ -184,16 +184,4 @@ Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giobbe_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/giobbe.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/giobbe.pdf)
-
-- 📚 **EPUB**: [Download](../export/giobbe.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giobbe.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

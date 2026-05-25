@@ -104,16 +104,4 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giudici_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/giudici.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/giudici.pdf)
-
-- 📚 **EPUB**: [Download](../export/giudici.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giudici.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

@@ -197,16 +197,4 @@ La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/apocrifi_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/apocrifi.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/apocrifi.pdf)
-
-- 📚 **EPUB**: [Download](../export/apocrifi.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/apocrifi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

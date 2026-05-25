@@ -92,16 +92,4 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/tito_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/tito.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/tito.pdf)
-
-- 📚 **EPUB**: [Download](../export/tito.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/tito.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

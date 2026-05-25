@@ -91,16 +91,4 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/timoteo_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/timoteo.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/timoteo.pdf)
-
-- 📚 **EPUB**: [Download](../export/timoteo.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/timoteo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

@@ -91,16 +91,4 @@ Il Regno si aspetta lavorando, non oziando.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/tessalonicesi_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/tessalonicesi.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/tessalonicesi.pdf)
-
-- 📚 **EPUB**: [Download](../export/tessalonicesi.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/tessalonicesi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

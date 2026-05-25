@@ -95,16 +95,4 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/esdra_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/esdra.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/esdra.pdf)
-
-- 📚 **EPUB**: [Download](../export/esdra.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/esdra.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

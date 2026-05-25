@@ -110,16 +110,4 @@ Mille cadranno al tuo fianco, ma tu resterai.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/salmi_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/salmi.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/salmi.pdf)
-
-- 📚 **EPUB**: [Download](../export/salmi.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/salmi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

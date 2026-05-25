@@ -487,16 +487,4 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/apocalisse_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/apocalisse.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/apocalisse.pdf)
-
-- 📚 **EPUB**: [Download](../export/apocalisse.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/apocalisse.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

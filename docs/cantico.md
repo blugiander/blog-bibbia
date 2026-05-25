@@ -96,16 +96,4 @@ Il letargo è morte. La voce è resurrezione.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/cantico_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/cantico.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/cantico.pdf)
-
-- 📚 **EPUB**: [Download](../export/cantico.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/cantico.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

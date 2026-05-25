@@ -90,16 +90,4 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/religioni_mondiali_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/religioni_mondiali.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/religioni_mondiali.pdf)
-
-- 📚 **EPUB**: [Download](../export/religioni_mondiali.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/religioni_mondiali.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

@@ -95,16 +95,4 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/ezechiele_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/ezechiele.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/ezechiele.pdf)
-
-- 📚 **EPUB**: [Download](../export/ezechiele.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/ezechiele.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

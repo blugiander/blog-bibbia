@@ -167,16 +167,4 @@ Non come concetto, ma come ontologia:
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/analisi_2026_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/analisi_2026.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/analisi_2026.pdf)
-
-- 📚 **EPUB**: [Download](../export/analisi_2026.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/analisi_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

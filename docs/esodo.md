@@ -231,16 +231,4 @@ Resta umano.**
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/esodo_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/esodo.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/esodo.pdf)
-
-- 📚 **EPUB**: [Download](../export/esodo.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/esodo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

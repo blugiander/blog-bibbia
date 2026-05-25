@@ -92,16 +92,4 @@ I missili cadranno o non cadranno. Il tuo spirito deve essere in piedi prima che
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/iran_usa_2026_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/iran_usa_2026.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/iran_usa_2026.pdf)
-
-- 📚 **EPUB**: [Download](../export/iran_usa_2026.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/iran_usa_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

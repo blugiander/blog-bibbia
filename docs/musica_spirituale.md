@@ -88,16 +88,4 @@ Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la t
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/musica_spirituale_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/musica_spirituale.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/musica_spirituale.pdf)
-
-- 📚 **EPUB**: [Download](../export/musica_spirituale.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/musica_spirituale.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

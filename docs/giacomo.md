@@ -89,16 +89,4 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giacomo_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/giacomo.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/giacomo.pdf)
-
-- 📚 **EPUB**: [Download](../export/giacomo.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giacomo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

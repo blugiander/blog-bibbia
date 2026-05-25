@@ -92,16 +92,4 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/matteo_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/matteo.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/matteo.pdf)
-
-- 📚 **EPUB**: [Download](../export/matteo.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/matteo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

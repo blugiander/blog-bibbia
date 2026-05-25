@@ -22,23 +22,7 @@ try:
 except ImportError:
     HAVE_NLTK = False
 
-try:
-    import pyttsx3
-    HAVE_TTS = True
-except ImportError:
-    HAVE_TTS = False
-
-try:
-    from fpdf import FPDF
-    HAVE_FPDF = True
-except ImportError:
-    HAVE_FPDF = False
-
-try:
-    from ebooklib import epub
-    HAVE_EPUB = True
-except ImportError:
-    HAVE_EPUB = False
+# Rimossi import audio/pdf/epub per Versione Leggera
 
 try:
     import matplotlib
@@ -63,10 +47,9 @@ DOCS_DIR = "docs"
 MAPS_DIR = os.path.join(DOCS_DIR, "maps")
 TIMELINE_DIR = os.path.join(DOCS_DIR, "timeline")
 ANALYTICS_DIR = os.path.join(DOCS_DIR, "analytics")
-EXPORT_DIR = os.path.join(DOCS_DIR, "export")
 ASSETS_DIR = os.path.join(DOCS_DIR, "assets", "images")
 
-for d in [MAPS_DIR, TIMELINE_DIR, ANALYTICS_DIR, EXPORT_DIR, ASSETS_DIR]:
+for d in [MAPS_DIR, TIMELINE_DIR, ANALYTICS_DIR, ASSETS_DIR]:
     os.makedirs(d, exist_ok=True)
 
 # Parole religiose da escludere dai tag per mantenere lo stile "Matrix neutro"
@@ -74,9 +57,9 @@ RELIGIOUS_STOPWORDS = {"dio", "gesù", "cristo", "spirito", "santo", "chiesa", "
                        "angelo", "angeli", "demonio", "satana", "peccato", "salvezza", "grazia", 
                        "religione", "religioso", "fede", "credere", "preghiera", "pregare"}
 
-# Colori Matrix
-MATRIX_BG = "#030303"
-MATRIX_GREENS = ["#00FF41", "#008F11", "#003B00", "#33FF66"]
+# Colori Matrix Elegante (Versione Leggera)
+MATRIX_BG = "#1A1A1A"
+MATRIX_GREENS = ["#8FBC8F", "#98FB98", "#66CDAA", "#7CB342"]
 
 # ==========================================
 # FUNZIONI NLP E TESTO
@@ -165,9 +148,9 @@ def generate_matrix_svg_map(basename, tags):
         
     # Draw connections
     for i in range(1, len(nodes)):
-        svg += f'  <line x1="{nodes[0]["x"]}" y1="{nodes[0]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#00FF41" stroke-width="2" opacity="0.5"/>\n'
+        svg += f'  <line x1="{nodes[0]["x"]}" y1="{nodes[0]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>\n'
         if i > 1 and random.random() > 0.5:
-            svg += f'  <line x1="{nodes[i-1]["x"]}" y1="{nodes[i-1]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#008F11" stroke-width="1" opacity="0.3"/>\n'
+            svg += f'  <line x1="{nodes[i-1]["x"]}" y1="{nodes[i-1]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>\n'
 
     # Draw nodes
     for node in nodes:
@@ -191,14 +174,14 @@ def generate_timeline_svg(basename, dates):
     width, height = 800, 200
     svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" height="100%">\n'
     svg += f'  <rect width="100%" height="100%" fill="{MATRIX_BG}"/>\n'
-    svg += f'  <line x1="50" y1="{height//2}" x2="{width-50}" y2="{height//2}" stroke="#00FF41" stroke-width="4"/>\n'
+    svg += f'  <line x1="50" y1="{height//2}" x2="{width-50}" y2="{height//2}" stroke="#8FBC8F" stroke-width="4"/>\n'
     
     step = (width - 100) / max(1, len(dates) - 1)
     for i, date in enumerate(dates):
         x = 50 + (i * step)
         y_text = height//2 - 20 if i % 2 == 0 else height//2 + 35
-        svg += f'  <circle cx="{x}" cy="{height//2}" r="8" fill="#00FF41"/>\n'
-        svg += f'  <text x="{x}" y="{y_text}" fill="#33FF66" font-family="monospace" font-size="16" text-anchor="middle">{date}</text>\n'
+        svg += f'  <circle cx="{x}" cy="{height//2}" r="8" fill="#8FBC8F"/>\n'
+        svg += f'  <text x="{x}" y="{y_text}" fill="#98FB98" font-family="monospace" font-size="16" text-anchor="middle">{date}</text>\n'
         
     svg += '</svg>'
     filepath = os.path.join(TIMELINE_DIR, f"{basename}_timeline.svg")
@@ -218,120 +201,22 @@ def generate_analytics_png(basename, tags):
     values = [random.randint(10, 100) for _ in tags]
     values.sort(reverse=True)
     
-    bars = plt.bar(tags, values, color='#00FF41')
+    bars = plt.bar(tags, values, color='#8FBC8F')
     for bar in bars:
-        bar.set_edgecolor('#33FF66')
+        bar.set_edgecolor('#98FB98')
         
-    plt.title(f"ANALISI FREQUENZE: {basename.upper()}", color='#00FF41', fontname='monospace')
-    plt.xticks(rotation=45, color='#00FF41', fontname='monospace')
-    plt.yticks(color='#00FF41', fontname='monospace')
-    plt.grid(color='#008F11', linestyle='--', linewidth=0.5, alpha=0.5)
+    plt.title(f"ANALISI FREQUENZE: {basename.upper()}", color='#8FBC8F', fontname='monospace')
+    plt.xticks(rotation=45, color='#8FBC8F', fontname='monospace')
+    plt.yticks(color='#8FBC8F', fontname='monospace')
+    plt.grid(color='#66CDAA', linestyle='--', linewidth=0.5, alpha=0.5)
     plt.tight_layout()
     
     filepath = os.path.join(ANALYTICS_DIR, f"{basename}_analytics.png")
-    plt.savefig(filepath, facecolor='#030303', dpi=150)
+    plt.savefig(filepath, facecolor='#1A1A1A', dpi=150)
     plt.close()
     return filepath
 
-# ==========================================
-# GENERAZIONE FORMATI (PDF, EPUB, AUDIO)
-# ==========================================
-
-def safe_latin1(s):
-    return str(s).encode('latin-1', 'replace').decode('latin-1')
-
-def generate_pdf(basename, title, text):
-    """Fase 7: Versione PDF (tema Matrix)"""
-    if not HAVE_FPDF:
-        return None
-    try:
-        from fpdf.enums import XPos, YPos
-        pdf = FPDF()
-        pdf.add_page()
-        # Set dark background hack for PDF
-        pdf.set_fill_color(3, 3, 3)
-        pdf.rect(0, 0, 210, 297, 'F')
-        
-        pdf.set_text_color(0, 255, 65)
-        pdf.set_font("Courier", size=16)
-        
-        safe_title = safe_latin1(title.upper())
-        pdf.cell(200, 10, text=f"SYSTEM_FILE: {safe_title}", new_x=XPos.LMARGIN, new_y=YPos.NEXT, align='C')
-        pdf.ln(10)
-        
-        pdf.set_font("Courier", size=11)
-        pdf.set_text_color(51, 255, 102)
-        
-        clean = clean_text(text)
-        # Tronco per evitare PDF immensi e lenti
-        if len(clean) > 3000:
-            clean = clean[:3000] + " ... [DATA_TRUNCATED_FOR_PDF]"
-            
-        safe_clean = safe_latin1(clean)
-        pdf.multi_cell(0, 8, text=safe_clean)
-        
-        filepath = os.path.join(EXPORT_DIR, f"{basename}.pdf")
-        pdf.output(filepath)
-        return filepath
-    except Exception as e:
-        safe_err = str(e).encode('ascii', 'replace').decode('ascii')
-        print(f"Errore PDF per {basename}: {safe_err}")
-        return None
-
-def generate_epub(basename, title, text):
-    """Fase 7: Versione EPUB"""
-    if not HAVE_EPUB:
-        return None
-    try:
-        book = epub.EpubBook()
-        book.set_identifier(f"matrix_{basename}")
-        book.set_title(title)
-        book.set_language('it')
-        
-        c = epub.EpubHtml(title=title, file_name=f'{basename}.xhtml', lang='it')
-        html_content = f"<h1>{title}</h1><p>{text[:2000].replace(chr(10), '<br>')}</p>"
-        c.content = html_content
-        book.add_item(c)
-        book.toc = (epub.Link(f'{basename}.xhtml', title, basename),)
-        book.add_item(epub.EpubNcx())
-        book.add_item(epub.EpubNav())
-        
-        style = 'BODY { color: #00FF41; background-color: #030303; font-family: monospace; }'
-        nav_css = epub.EpubItem(uid="style_nav", file_name="style/nav.css", media_type="text/css", content=style)
-        book.add_item(nav_css)
-        book.spine = ['nav', c]
-        
-        filepath = os.path.join(EXPORT_DIR, f"{basename}.epub")
-        epub.write_epub(filepath, book, {})
-        return filepath
-    except Exception as e:
-        print(f"Errore EPUB per {basename}: {e}")
-        return None
-
-def generate_audio(basename, text):
-    """Fase 7: Versione Audio (voce sintetica)"""
-    if not HAVE_TTS:
-        return None
-    try:
-        engine = pyttsx3.init()
-        # Setta una voce neutra se possibile
-        voices = engine.getProperty('voices')
-        for voice in voices:
-            if "italian" in voice.name.lower() or "it" in voice.languages:
-                engine.setProperty('voice', voice.id)
-                break
-        
-        engine.setProperty('rate', 150) # Velocità di lettura
-        filepath = os.path.join(EXPORT_DIR, f"{basename}.mp3")
-        
-        # Sintetizza solo il primo paragrafo/riassunto per evitare blocchi
-        short_text = " ".join(text.split()[:150])
-        engine.save_to_file(short_text, filepath)
-        engine.runAndWait()
-        return filepath
-    except Exception as e:
-        print(f"Errore Audio per {basename}: {e}")
-        return None
+# PDF, EPUB, AUDIO rimossi nella Versione Leggera
 
 # ==========================================
 # MOTORE PRINCIPALE
@@ -398,10 +283,7 @@ def process_file(filepath, all_files):
     # Fase 6: Analisi e Grafici
     analytics_path = generate_analytics_png(basename, tags)
     
-    # Fase 7: Esportazioni
-    pdf_path = generate_pdf(basename, title, content)
-    epub_path = generate_epub(basename, title, content)
-    audio_path = generate_audio(basename, summary) # Audio solo del riassunto
+    # Nessuna esportazione (Versione Leggera)
     
     # Fase 3: Link Interni
     # Trova altri 3 file casuali (in un sistema reale userebbe similarità vettoriale)
@@ -445,16 +327,7 @@ def process_file(filepath, all_files):
         footer += f"- 📊 **Analisi Semantica**: [Visualizza PNG](../analytics/{os.path.basename(analytics_path)})\n"
     footer += "</div>\n\n"
     
-    footer += '## EXPORT FILES\n<div class="matrix-exports">\n'
-    if pdf_path:
-        pdf_file = os.path.basename(pdf_path)
-        footer += f"### 📄 Documento PDF\n<embed src=\"../export/{pdf_file}\" width=\"100%\" height=\"400px\" type=\"application/pdf\">\n<br>\n- [Download PDF Diretto](../export/{pdf_file})\n\n"
-    if epub_path:
-        footer += f"- 📚 **EPUB**: [Download](../export/{os.path.basename(epub_path)})\n\n"
-    if audio_path:
-        audio_file = os.path.basename(audio_path)
-        footer += f"### 🔊 Audio Summary\n<audio controls style=\"width: 100%; margin-top: 10px; margin-bottom: 20px;\"><source src=\"../export/{audio_file}\" type=\"audio/mpeg\">Il tuo browser non supporta l'audio.</audio>\n"
-    footer += "</div>\n<!-- MATRIX_FOOTER_END -->\n"
+    footer += "<!-- MATRIX_FOOTER_END -->\n"
     
     content += footer
     

@@ -186,16 +186,4 @@ Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte 
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lettere_giovanni_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/lettere_giovanni.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/lettere_giovanni.pdf)
-
-- 📚 **EPUB**: [Download](../export/lettere_giovanni.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/lettere_giovanni.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

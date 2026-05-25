@@ -201,16 +201,4 @@ La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è 
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/genesi_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/genesi.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/genesi.pdf)
-
-- 📚 **EPUB**: [Download](../export/genesi.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/genesi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

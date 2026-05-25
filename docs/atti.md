@@ -202,16 +202,4 @@ Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/atti_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/atti.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/atti.pdf)
-
-- 📚 **EPUB**: [Download](../export/atti.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/atti.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

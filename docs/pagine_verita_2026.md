@@ -63,16 +63,4 @@ Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata p
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/pagine_verita_2026_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/pagine_verita_2026.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/pagine_verita_2026.pdf)
-
-- 📚 **EPUB**: [Download](../export/pagine_verita_2026.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/pagine_verita_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

@@ -100,16 +100,4 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/proverbi_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/proverbi.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/proverbi.pdf)
-
-- 📚 **EPUB**: [Download](../export/proverbi.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/proverbi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

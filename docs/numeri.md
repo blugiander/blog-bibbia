@@ -92,16 +92,4 @@ Se non sei pronto a combattere, non vedrai mai la Terra.
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/numeri_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/numeri.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/numeri.pdf)
-
-- 📚 **EPUB**: [Download](../export/numeri.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/numeri.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

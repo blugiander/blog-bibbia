@@ -457,16 +457,4 @@ Isaia è:
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/isaia_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/isaia.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/isaia.pdf)
-
-- 📚 **EPUB**: [Download](../export/isaia.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/isaia.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

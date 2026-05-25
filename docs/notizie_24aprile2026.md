@@ -86,16 +86,4 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 - ⏱️ **Timeline**: [Visualizza SVG](../timeline/notizie_24aprile2026_timeline.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/notizie_24aprile2026.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/notizie_24aprile2026.pdf)
-
-- 📚 **EPUB**: [Download](../export/notizie_24aprile2026.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/notizie_24aprile2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->

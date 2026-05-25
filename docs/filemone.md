@@ -85,16 +85,4 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 - 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/filemone_map.svg)
 </div>
 
-## EXPORT FILES
-<div class="matrix-exports">
-### 📄 Documento PDF
-<embed src="../export/filemone.pdf" width="100%" height="400px" type="application/pdf">
-<br>
-- [Download PDF Diretto](../export/filemone.pdf)
-
-- 📚 **EPUB**: [Download](../export/filemone.epub)
-
-### 🔊 Audio Summary
-<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/filemone.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
-</div>
 <!-- MATRIX_FOOTER_END -->
