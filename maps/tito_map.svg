@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
   <rect width="100%" height="100%" fill="#1A1A1A"/>
-  <line x1="400" y1="300" x2="250" y2="410" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="294" y2="111" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="250" y1="410" x2="294" y2="111" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="447" y2="410" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="521" y2="187" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="447" y1="410" x2="521" y2="187" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="353" y2="174" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="563" y2="247" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="353" y1="174" x2="563" y2="247" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="270" y2="265" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="563" y1="247" x2="270" y2="265" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="400" y="300" fill="#66CDAA" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TITO</text>
-  <circle cx="250" cy="410" r="26" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="250" y="410" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARATTERE</text>
-  <circle cx="294" cy="111" r="28" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="294" y="111" fill="#7CB342" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOTTRINA</text>
-  <circle cx="447" cy="410" r="15" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="447" y="410" fill="#7CB342" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CRETA</text>
-  <circle cx="521" cy="187" r="18" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="521" y="187" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORDINE</text>
-  <circle cx="353" cy="174" r="30" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="353" y="174" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAOS</text>
-  <circle cx="563" cy="247" r="24" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="563" y="247" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDO</text>
-  <circle cx="270" cy="265" r="30" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="270" y="265" fill="#7CB342" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FARE</text>
+  <line x1="400" y1="300" x2="250" y2="410" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="294" y2="111" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="250" y1="410" x2="294" y2="111" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="447" y2="410" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="521" y2="187" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="447" y1="410" x2="521" y2="187" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="353" y2="174" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="563" y2="247" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="353" y1="174" x2="563" y2="247" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="270" y2="265" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="563" y1="247" x2="270" y2="265" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="400" y="300" fill="#4CD06A" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TITO</text>
+  <circle cx="250" cy="410" r="26" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="250" y="410" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARATTERE</text>
+  <circle cx="294" cy="111" r="28" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="294" y="111" fill="#78F596" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOTTRINA</text>
+  <circle cx="447" cy="410" r="15" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="447" y="410" fill="#78F596" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CRETA</text>
+  <circle cx="521" cy="187" r="18" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="521" y="187" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORDINE</text>
+  <circle cx="353" cy="174" r="30" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="353" y="174" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAOS</text>
+  <circle cx="563" cy="247" r="24" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="563" y="247" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDO</text>
+  <circle cx="270" cy="265" r="30" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="270" y="265" fill="#78F596" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FARE</text>
 </svg>

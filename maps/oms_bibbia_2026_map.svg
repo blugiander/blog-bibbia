@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
   <rect width="100%" height="100%" fill="#1A1A1A"/>
-  <line x1="400" y1="300" x2="627" y2="351" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="544" y2="146" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="627" y1="351" x2="544" y2="146" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="255" y2="248" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="576" y2="296" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="255" y1="248" x2="576" y2="296" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="340" y2="103" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="576" y1="296" x2="340" y2="103" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="288" y2="261" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="445" y2="86" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="400" y="300" fill="#7CB342" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OMS_BIBBIA</text>
-  <circle cx="627" cy="351" r="29" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="627" y="351" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GLOBALE</text>
-  <circle cx="544" cy="146" r="18" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="544" y="146" fill="#7CB342" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
-  <circle cx="255" cy="248" r="24" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="255" y="248" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANITÀ</text>
-  <circle cx="576" cy="296" r="24" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="576" y="296" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
-  <circle cx="340" cy="103" r="25" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="340" y="103" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIVENTA</text>
-  <circle cx="288" cy="261" r="24" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="288" y="261" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
-  <circle cx="445" cy="86" r="24" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="445" y="86" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUOVA</text>
+  <line x1="400" y1="300" x2="627" y2="351" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="544" y2="146" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="627" y1="351" x2="544" y2="146" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="255" y2="248" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="576" y2="296" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="255" y1="248" x2="576" y2="296" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="340" y2="103" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="576" y1="296" x2="340" y2="103" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="288" y2="261" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="445" y2="86" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="400" y="300" fill="#78F596" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OMS_BIBBIA</text>
+  <circle cx="627" cy="351" r="29" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="627" y="351" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GLOBALE</text>
+  <circle cx="544" cy="146" r="18" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="544" y="146" fill="#78F596" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
+  <circle cx="255" cy="248" r="24" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="255" y="248" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANITÀ</text>
+  <circle cx="576" cy="296" r="24" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="576" y="296" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <circle cx="340" cy="103" r="25" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="340" y="103" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIVENTA</text>
+  <circle cx="288" cy="261" r="24" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="288" y="261" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <circle cx="445" cy="86" r="24" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="445" y="86" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUOVA</text>
 </svg>

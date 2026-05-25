@@ -1,0 +1,114 @@
+/* Tema Cyber Minimal */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');
+
+:root {
+  --cyber-bg: #1A1A1A;
+  --cyber-sidebar: #161616;
+  --cyber-text: #E0E0E0;
+  --cyber-accent: #6AF089;
+  --cyber-accent-hover: #98FBB0;
+  --cyber-border: #2A2A2A;
+  --cyber-code-bg: #111111;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--cyber-bg);
+  --md-default-fg-color: var(--cyber-text);
+  --md-primary-fg-color: #000;
+  --md-primary-bg-color: var(--cyber-accent);
+  --md-accent-fg-color: var(--cyber-accent-hover);
+  --md-code-bg-color: var(--cyber-code-bg);
+  --md-typeset-a-color: var(--cyber-accent);
+}
+
+body, html {
+    font-family: 'Fira Code', 'Courier New', monospace !important;
+    background-color: var(--cyber-bg);
+    color: var(--cyber-text);
+}
+
+/* Sidebar e header */
+.md-header, .md-tabs {
+    background-color: var(--cyber-sidebar) !important;
+    border-bottom: 1px solid var(--cyber-border) !important;
+    box-shadow: none !important;
+}
+
+.md-nav {
+    background-color: var(--cyber-sidebar) !important;
+}
+
+.md-sidebar--primary {
+    border-right: 1px solid var(--cyber-border);
+}
+
+/* Link e testo */
+.md-typeset a {
+    color: var(--cyber-accent) !important;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.md-typeset a:hover {
+    color: var(--cyber-accent-hover) !important;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+    color: var(--cyber-text) !important;
+    border-bottom: 1px solid var(--cyber-border);
+    padding-bottom: 0.3em;
+    font-weight: 300;
+}
+
+/* Immagini */
+img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--cyber-border);
+}
+
+/* Tabelle */
+.md-typeset table {
+    background-color: var(--cyber-sidebar);
+    border-collapse: collapse;
+}
+.md-typeset table th, .md-typeset table td {
+    border: 1px solid var(--cyber-border);
+}
+
+/* Blocchi di codice */
+.md-typeset pre > code {
+    background-color: var(--cyber-code-bg) !important;
+    color: var(--cyber-accent) !important;
+    border: 1px solid var(--cyber-border);
+    border-radius: 4px;
+}
+
+/* Bottoni */
+.md-button {
+    border: 1px solid var(--cyber-accent) !important;
+    color: var(--cyber-accent) !important;
+    background: transparent !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.md-button:hover {
+    background-color: var(--cyber-accent) !important;
+    color: var(--cyber-bg) !important;
+}
+
+/* Scrollbar Minimal */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: var(--cyber-bg);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--cyber-border);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--cyber-accent);
+}
