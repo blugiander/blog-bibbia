@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 **Target:** L'Architettura Invisibile del Conflitto
 **Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
 **Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -96,6 +102,9 @@ Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cad
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -113,8 +122,14 @@ Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cad
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/radici_conflitto_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/radici_conflitto_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/radici_conflitto_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/radici_conflitto_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/radici_conflitto_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/radici_conflitto_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

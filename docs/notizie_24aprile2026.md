@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta."</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -93,6 +99,9 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -110,8 +119,14 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/notizie_24aprile2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/notizie_24aprile2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/notizie_24aprile2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/notizie_24aprile2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/notizie_24aprile2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/notizie_24aprile2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

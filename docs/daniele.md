@@ -521,6 +521,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
 Gli imperi sono visti dall'esterno come splendore, dall'interno come fragilità.
 
@@ -727,6 +730,9 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -744,8 +750,14 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/daniele.pdf)
+### 📄 Documento PDF
+<embed src="../export/daniele.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/daniele.pdf)
+
 - 📚 **EPUB**: [Download](../export/daniele.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/daniele.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/daniele.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -99,6 +105,9 @@ Il Regno si aspetta lavorando, non oziando.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -115,8 +124,14 @@ Il Regno si aspetta lavorando, non oziando.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/tessalonicesi.pdf)
+### 📄 Documento PDF
+<embed src="../export/tessalonicesi.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/tessalonicesi.pdf)
+
 - 📚 **EPUB**: [Download](../export/tessalonicesi.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/tessalonicesi.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/tessalonicesi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

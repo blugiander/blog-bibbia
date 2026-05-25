@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -101,6 +107,9 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -118,8 +127,14 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/lastampa_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/lastampa_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/lastampa_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/lastampa_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/lastampa_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/lastampa_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

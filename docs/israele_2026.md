@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 **Target:** Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12)
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Orologio escatologico in marcia. L'orologio di Dio non segna le ore, segna le epoche. Israele non è una fazione politica; è il quadrante.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -100,6 +106,9 @@ Orologio agli sgoccioli. Fuoco in arrivo.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -117,8 +126,14 @@ Orologio agli sgoccioli. Fuoco in arrivo.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/israele_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/israele_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/israele_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/israele_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/israele_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/israele_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

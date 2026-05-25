@@ -436,11 +436,13 @@ def process_file(filepath, all_files):
     
     footer += '## EXPORT FILES\n<div class="matrix-exports">\n'
     if pdf_path:
-        footer += f"- 📄 **PDF**: [Download](../export/{os.path.basename(pdf_path)})\n"
+        pdf_file = os.path.basename(pdf_path)
+        footer += f"### 📄 Documento PDF\n<embed src=\"../export/{pdf_file}\" width=\"100%\" height=\"400px\" type=\"application/pdf\">\n<br>\n- [Download PDF Diretto](../export/{pdf_file})\n\n"
     if epub_path:
-        footer += f"- 📚 **EPUB**: [Download](../export/{os.path.basename(epub_path)})\n"
+        footer += f"- 📚 **EPUB**: [Download](../export/{os.path.basename(epub_path)})\n\n"
     if audio_path:
-        footer += f"- 🔊 **Audio Summary**: [Ascolta MP3](../export/{os.path.basename(audio_path)})\n"
+        audio_file = os.path.basename(audio_path)
+        footer += f"### 🔊 Audio Summary\n<audio controls style=\"width: 100%; margin-top: 10px; margin-bottom: 20px;\"><source src=\"../export/{audio_file}\" type=\"audio/mpeg\">Il tuo browser non supporta l'audio.</audio>\n"
     footer += "</div>\n<!-- MATRIX_FOOTER_END -->\n"
     
     content += footer

@@ -43,11 +43,17 @@ keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
 
 
 
+
+
+
 *Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. Il Caos (*Tohu wa-Bohu*): Potenzialità, non Nulla
 
 Genesi 1 non descrive l'*ex nihilo* (che verrà formulato molto più tardi). Descrive l'azione di Dio che ordina un caos preesistente.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -213,6 +219,9 @@ La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è 
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -229,8 +238,14 @@ La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è 
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/genesi.pdf)
+### 📄 Documento PDF
+<embed src="../export/genesi.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/genesi.pdf)
+
 - 📚 **EPUB**: [Download](../export/genesi.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/genesi.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/genesi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

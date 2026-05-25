@@ -43,11 +43,17 @@ keywords: "Matrix, codici, paolo, analisi, teologia, geometria"
 
 
 
+
+
+
 *Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. Il Pedagogo e l'Effetto Paradosso (Galati / Romani)
 
 Paolo non demonizza la Legge: la colloca nella storia dell'essere.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -229,6 +235,9 @@ Non è un cambiamento morale. È un cambiamento dell'essere.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -245,8 +254,14 @@ Non è un cambiamento morale. È un cambiamento dell'essere.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/paolo.pdf)
+### 📄 Documento PDF
+<embed src="../export/paolo.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/paolo.pdf)
+
 - 📚 **EPUB**: [Download](../export/paolo.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/paolo.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/paolo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

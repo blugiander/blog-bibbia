@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 **Target:** Frequenze, Industria Musicale, Guerra Spirituale
 **Protocollo:** Caveman (Fuoco, Suono, Codice)
 **Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -97,6 +103,9 @@ Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la t
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -113,8 +122,14 @@ Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la t
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/musica_spirituale.pdf)
+### 📄 Documento PDF
+<embed src="../export/musica_spirituale.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/musica_spirituale.pdf)
+
 - 📚 **EPUB**: [Download](../export/musica_spirituale.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/musica_spirituale.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/musica_spirituale.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

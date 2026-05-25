@@ -40,12 +40,18 @@ tags:
 
 
 
+
+
+
 > 
 "Egli ha detto nella sua superbia: 'Io sono un dio, siedo sul trono di Dio...'. Eppure tu sei un uomo e non Dio, per quanto tu faccia il tuo cuore simile al cuore di Dio." (Ezechiele 28:2)
 
 L'Organizzazione Mondiale della Sanità non è solo un'agenzia burocratica.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -95,6 +101,9 @@ I medici diventano i nuovi sacerdoti. I vaccini e le terapie genetiche i nuovi s
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -111,8 +120,14 @@ I medici diventano i nuovi sacerdoti. I vaccini e le terapie genetiche i nuovi s
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/oms_bibbia_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/oms_bibbia_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/oms_bibbia_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/oms_bibbia_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/oms_bibbia_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/oms_bibbia_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

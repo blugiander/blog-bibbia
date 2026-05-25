@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -99,6 +105,9 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -115,8 +124,14 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/timoteo.pdf)
+### 📄 Documento PDF
+<embed src="../export/timoteo.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/timoteo.pdf)
+
 - 📚 **EPUB**: [Download](../export/timoteo.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/timoteo.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/timoteo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

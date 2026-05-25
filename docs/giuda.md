@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -99,6 +105,9 @@ Grazia assoluta, intolleranza zero per l'infezione.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -115,8 +124,14 @@ Grazia assoluta, intolleranza zero per l'infezione.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/giuda.pdf)
+### 📄 Documento PDF
+<embed src="../export/giuda.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/giuda.pdf)
+
 - 📚 **EPUB**: [Download](../export/giuda.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/giuda.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giuda.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

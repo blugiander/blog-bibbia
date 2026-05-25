@@ -43,11 +43,17 @@ keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
 
 
 
+
+
+
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo. Il "Satan": Il Pubblico Ministero della Corte Celeste
 
 Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -196,6 +202,9 @@ Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -212,8 +221,14 @@ Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/giobbe.pdf)
+### 📄 Documento PDF
+<embed src="../export/giobbe.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/giobbe.pdf)
+
 - 📚 **EPUB**: [Download](../export/giobbe.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/giobbe.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giobbe.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

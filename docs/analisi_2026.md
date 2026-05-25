@@ -43,11 +43,17 @@ keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
 
 
 
+
+
+
 *La carne contro il codice: una mappa teologica dell'era digitale. Anticristo Digitale: Docetismo 2.0
 
 Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -178,6 +184,9 @@ Non come concetto, ma come ontologia:
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -195,8 +204,14 @@ Non come concetto, ma come ontologia:
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/analisi_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/analisi_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/analisi_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/analisi_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/analisi_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/analisi_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

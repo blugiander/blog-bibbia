@@ -40,12 +40,18 @@ tags:
 
 
 
+
+
+
 > 
 "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..."
 
 Creta non è una vacanza. Paolo cita un loro stesso poeta: "I Cretesi sono sempre bugiardi, male bestie, ventri pigri". L'isola è dominata dalla truffa, dall'edonismo e dal caos morale. Cosa fai quando la chiesa si trova in mezzo a una cultura completamente corrotta?</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -102,6 +108,9 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -118,8 +127,14 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/tito.pdf)
+### 📄 Documento PDF
+<embed src="../export/tito.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/tito.pdf)
+
 - 📚 **EPUB**: [Download](../export/tito.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/tito.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/tito.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

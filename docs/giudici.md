@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -112,6 +118,9 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -128,8 +137,14 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/giudici.pdf)
+### 📄 Documento PDF
+<embed src="../export/giudici.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/giudici.pdf)
+
 - 📚 **EPUB**: [Download](../export/giudici.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/giudici.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giudici.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 **Target:** Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Fuoco incrociato spirituale. Il conflitto in Medio Oriente non si risolve a livello territoriale. La terra è solo il palcoscenico; la guerra è invisibile e primordiale.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -101,6 +107,9 @@ Il Medio Oriente non attende una risoluzione umana. Attende il ritorno del Re.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -118,8 +127,14 @@ Il Medio Oriente non attende una risoluzione umana. Attende il ritorno del Re.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/gaza_israele_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/gaza_israele_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/gaza_israele_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/gaza_israele_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/gaza_israele_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/gaza_israele_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

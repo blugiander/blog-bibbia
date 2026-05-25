@@ -41,6 +41,9 @@ keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 
 
 
+
+
+
 *Il fuoco non si analizza. *
 
 ---
@@ -50,6 +53,9 @@ keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 Non siederà su un trono dorato.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -272,6 +278,9 @@ Svegliati.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -289,8 +298,14 @@ Svegliati.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/teopolitica_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/teopolitica_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/teopolitica_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/teopolitica_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/teopolitica_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/teopolitica_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

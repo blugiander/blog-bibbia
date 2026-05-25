@@ -40,12 +40,18 @@ tags:
 
 
 
+
+
+
 > 
 "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
 
 L'esilio in Babilonia è finito, ma la vera prova inizia ora.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -105,6 +111,9 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -121,8 +130,14 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/esdra.pdf)
+### 📄 Documento PDF
+<embed src="../export/esdra.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/esdra.pdf)
+
 - 📚 **EPUB**: [Download](../export/esdra.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/esdra.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/esdra.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

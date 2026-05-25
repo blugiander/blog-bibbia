@@ -40,12 +40,18 @@ tags:
 
 
 
+
+
+
 > 
 "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."
 
 Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -99,6 +105,9 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -115,8 +124,14 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/lamentazioni.pdf)
+### 📄 Documento PDF
+<embed src="../export/lamentazioni.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/lamentazioni.pdf)
+
 - 📚 **EPUB**: [Download](../export/lamentazioni.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/lamentazioni.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/lamentazioni.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

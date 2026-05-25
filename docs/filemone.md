@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una potenza nucleare sufficiente a far crollare l'Impero Romano dall'interno.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -93,6 +99,9 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -109,8 +118,14 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/filemone.pdf)
+### 📄 Documento PDF
+<embed src="../export/filemone.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/filemone.pdf)
+
 - 📚 **EPUB**: [Download](../export/filemone.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/filemone.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/filemone.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

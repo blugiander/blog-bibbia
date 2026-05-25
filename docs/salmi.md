@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -118,6 +124,9 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -134,8 +143,14 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/salmi.pdf)
+### 📄 Documento PDF
+<embed src="../export/salmi.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/salmi.pdf)
+
 - 📚 **EPUB**: [Download](../export/salmi.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/salmi.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/salmi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

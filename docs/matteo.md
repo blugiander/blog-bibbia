@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -100,6 +106,9 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -116,8 +125,14 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/matteo.pdf)
+### 📄 Documento PDF
+<embed src="../export/matteo.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/matteo.pdf)
+
 - 📚 **EPUB**: [Download](../export/matteo.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/matteo.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/matteo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

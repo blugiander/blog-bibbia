@@ -40,12 +40,18 @@ tags:
 
 
 
+
+
+
 > 
 "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12)
 
 Le religioni mondiali, nonostante le loro immense differenze culturali e dottrinali, condividono lo stesso codice sorgente. Sono variazioni dello stesso algoritmo umano: l'uomo che cerca di scalare il cielo. L'Evangelo biblico non è "la migliore delle religioni".</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -100,6 +106,9 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -116,8 +125,14 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/religioni_mondiali.pdf)
+### 📄 Documento PDF
+<embed src="../export/religioni_mondiali.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/religioni_mondiali.pdf)
+
 - 📚 **EPUB**: [Download](../export/religioni_mondiali.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/religioni_mondiali.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/religioni_mondiali.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

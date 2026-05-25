@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 **Target:** Mappa Istituzionale (Torino, evangelici.net)
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -102,6 +108,9 @@ Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un c
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -118,8 +127,14 @@ Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un c
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/chiese_torino.pdf)
+### 📄 Documento PDF
+<embed src="../export/chiese_torino.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/chiese_torino.pdf)
+
 - 📚 **EPUB**: [Download](../export/chiese_torino.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/chiese_torino.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/chiese_torino.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo è il fratello di Gesù. Ha vissuto nella stessa casa con il Messia, ma non ha creduto in Lui finché non Lo ha visto risorto. Ora guida la chiesa di Gerusalemme.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -97,6 +103,9 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -113,8 +122,14 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/giacomo.pdf)
+### 📄 Documento PDF
+<embed src="../export/giacomo.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/giacomo.pdf)
+
 - 📚 **EPUB**: [Download](../export/giacomo.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/giacomo.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giacomo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

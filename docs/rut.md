@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo dei Giudici. Elimelec porta la sua famiglia in Moab. Ma mentre i Giudici raccontano la macro-storia di un collasso nazionale, Rut rivela la micro-storia di una redenzione silenziosa.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -102,6 +108,9 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -118,8 +127,14 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/rut.pdf)
+### 📄 Documento PDF
+<embed src="../export/rut.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/rut.pdf)
+
 - 📚 **EPUB**: [Download](../export/rut.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/rut.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/rut.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

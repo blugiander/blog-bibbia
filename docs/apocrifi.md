@@ -40,11 +40,17 @@ tags:
 
 
 
+
+
+
 *Perché non è una questione politica, ma ontologica. *
 
 Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna della rivelazione biblica. Il cristianesimo canonico e la gnosi non sono due varianti della stessa fede: sono due cosmologie opposte.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -206,6 +212,9 @@ La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -222,8 +231,14 @@ La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/apocrifi.pdf)
+### 📄 Documento PDF
+<embed src="../export/apocrifi.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/apocrifi.pdf)
+
 - 📚 **EPUB**: [Download](../export/apocrifi.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/apocrifi.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/apocrifi.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

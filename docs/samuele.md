@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -100,6 +106,9 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -116,8 +125,14 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/samuele.pdf)
+### 📄 Documento PDF
+<embed src="../export/samuele.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/samuele.pdf)
+
 - 📚 **EPUB**: [Download](../export/samuele.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/samuele.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/samuele.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

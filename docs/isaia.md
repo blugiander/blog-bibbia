@@ -352,6 +352,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Isaia è un microcosmo canonico:
 
 - 66 capitoli Ôåö 66 libri della Bibbia
@@ -535,6 +538,9 @@ Isaia è:
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -552,8 +558,14 @@ Isaia è:
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/isaia.pdf)
+### 📄 Documento PDF
+<embed src="../export/isaia.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/isaia.pdf)
+
 - 📚 **EPUB**: [Download](../export/isaia.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/isaia.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/isaia.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

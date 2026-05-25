@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della monarchia.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -104,6 +110,9 @@ Dio vomita fuori la nazione dalla Terra Promessa.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -120,8 +129,14 @@ Dio vomita fuori la nazione dalla Terra Promessa.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/re.pdf)
+### 📄 Documento PDF
+<embed src="../export/re.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/re.pdf)
+
 - 📚 **EPUB**: [Download](../export/re.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/re.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/re.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

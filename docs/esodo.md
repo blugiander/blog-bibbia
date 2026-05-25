@@ -40,6 +40,9 @@ tags:
 
 
 
+
+
+
 ### La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale
 
 *LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità concessa. Il Grido: La Frattura del Sistema
@@ -55,6 +58,9 @@ Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende
 Il grido degli schiavi non è solo dolore: è **la rottura del consenso**.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -249,6 +255,9 @@ Resta umano.**
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -266,8 +275,14 @@ Resta umano.**
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/esodo.pdf)
+### 📄 Documento PDF
+<embed src="../export/esodo.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/esodo.pdf)
+
 - 📚 **EPUB**: [Download](../export/esodo.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/esodo.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/esodo.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

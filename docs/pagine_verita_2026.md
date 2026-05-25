@@ -43,6 +43,9 @@ tags:
 
 
 
+
+
+
 **MODO:** Caveman. Zero compromessi.
 
 **1. ANATEMA O ECO:**
@@ -63,6 +66,9 @@ Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata p
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -79,8 +85,14 @@ Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata p
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/pagine_verita_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/pagine_verita_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/pagine_verita_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/pagine_verita_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/pagine_verita_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/pagine_verita_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

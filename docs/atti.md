@@ -43,6 +43,9 @@ keywords: "Matrix, codici, atti, analisi, teologia, geometria"
 
 
 
+
+
+
 *Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. Lo Spirito come Protagonista: Il "No" di Dio (Atti 16)
 
 Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento. Gli apostoli:
@@ -62,6 +65,9 @@ Eppure:
 Il soggetto grammaticale è sempre lo Spirito, non gli apostoli.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -228,6 +234,9 @@ Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -244,8 +253,14 @@ Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/atti.pdf)
+### 📄 Documento PDF
+<embed src="../export/atti.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/atti.pdf)
+
 - 📚 **EPUB**: [Download](../export/atti.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/atti.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/atti.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

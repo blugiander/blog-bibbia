@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta." Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che l'uomo chiama economia, lo Spirito chiama Babilonia.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -99,6 +105,9 @@ Cerca la Città il cui architetto e costruttore è Dio.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -116,8 +125,14 @@ Cerca la Città il cui architetto e costruttore è Dio.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/europa_russia_2026.pdf)
+### 📄 Documento PDF
+<embed src="../export/europa_russia_2026.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/europa_russia_2026.pdf)
+
 - 📚 **EPUB**: [Download](../export/europa_russia_2026.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/europa_russia_2026.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/europa_russia_2026.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

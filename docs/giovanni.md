@@ -43,11 +43,17 @@ keywords: "Matrix, codici, il, analisi, teologia, geometria"
 
 
 
+
+
+
 *Il Vangelo che non narra la storia: la interpreta dall'eternità. Il Logos: Il Reset Cosmico
 
 Giovanni non inizia con Betlemme, ma con l'eternità.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -235,6 +241,9 @@ Giovanni non racconta la storia. Racconta la struttura dell'essere.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -251,8 +260,14 @@ Giovanni non racconta la storia. Racconta la struttura dell'essere.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/giovanni.pdf)
+### 📄 Documento PDF
+<embed src="../export/giovanni.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/giovanni.pdf)
+
 - 📚 **EPUB**: [Download](../export/giovanni.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/giovanni.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/giovanni.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

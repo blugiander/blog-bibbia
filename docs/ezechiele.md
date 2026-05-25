@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -103,6 +109,9 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -119,8 +128,14 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/ezechiele.pdf)
+### 📄 Documento PDF
+<embed src="../export/ezechiele.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/ezechiele.pdf)
+
 - 📚 **EPUB**: [Download](../export/ezechiele.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/ezechiele.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/ezechiele.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

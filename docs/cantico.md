@@ -40,10 +40,16 @@ tags:
 
 
 
+
+
+
 > 
 "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -104,6 +110,9 @@ Il letargo è morte. La voce è resurrezione.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -120,8 +129,14 @@ Il letargo è morte. La voce è resurrezione.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/cantico.pdf)
+### 📄 Documento PDF
+<embed src="../export/cantico.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/cantico.pdf)
+
 - 📚 **EPUB**: [Download](../export/cantico.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/cantico.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/cantico.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

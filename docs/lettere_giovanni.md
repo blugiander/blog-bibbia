@@ -43,6 +43,9 @@ keywords: "Matrix, codici, lettere, analisi, teologia, geometria"
 
 
 
+
+
+
 *Analisi tecnica contro l'eresia e definizione ontologica dell'amore. Anticristo: Categoria Presente, non Futuristica
 
 Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria teologica attuale. ### ­ƒöì Definizione tecnica
@@ -50,6 +53,9 @@ Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria
 - Negazione cristologica: *"Chi nega che Gesù è il Cristo"* (1Gv 2:22).</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -200,6 +206,9 @@ Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte 
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -216,8 +225,14 @@ Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte 
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/lettere_giovanni.pdf)
+### 📄 Documento PDF
+<embed src="../export/lettere_giovanni.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/lettere_giovanni.pdf)
+
 - 📚 **EPUB**: [Download](../export/lettere_giovanni.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/lettere_giovanni.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/lettere_giovanni.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->

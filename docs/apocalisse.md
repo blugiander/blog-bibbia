@@ -462,6 +462,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Nell'Apocalisse i numeri non contano quantità: definiscono essenze.
 
 ### 🜂 7 — La Completezza Divina
@@ -649,6 +652,9 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
 
 
 
+
+
+
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
@@ -666,8 +672,14 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
 
 ## EXPORT FILES
 <div class="matrix-exports">
-- 📄 **PDF**: [Download](../export/apocalisse.pdf)
+### 📄 Documento PDF
+<embed src="../export/apocalisse.pdf" width="100%" height="400px" type="application/pdf">
+<br>
+- [Download PDF Diretto](../export/apocalisse.pdf)
+
 - 📚 **EPUB**: [Download](../export/apocalisse.epub)
-- 🔊 **Audio Summary**: [Ascolta MP3](../export/apocalisse.mp3)
+
+### 🔊 Audio Summary
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 20px;"><source src="../export/apocalisse.mp3" type="audio/mpeg">Il tuo browser non supporta l'audio.</audio>
 </div>
 <!-- MATRIX_FOOTER_END -->
