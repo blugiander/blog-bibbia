@@ -1,30 +1,8 @@
 ---
 title: "I Salmi (Carne, Sangue e Fuoco)"
-description: "> "Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. Non è poesia per l'anima. È un manuale di..."
-keywords: "Matrix, codici, i, analisi, teologia, geometria"
-tags:
-  - salmo
-  - fuoco
-  - lode
-  - niente
-  - uomo
-  - quando
-  - silenzio
 ---
 
 # I Salmi: Carne, Sangue e Fuoco
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco. La Lode come Arma La lode non è un sentimento. È una spada di fuoco contro i demoni.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
-
-
 
 > 
 "Le mie lacrime sono diventate il mio cibo giorno e notte."
@@ -89,14 +67,3 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 **La preghiera non è un pensiero. È l'impatto tra la terra e il cielo.**
 **Parole di fuoco. Brucia la mente. Parla allo spirito.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [PAGINE VERITA 2026](../pagine_verita_2026/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [ISAIA](../isaia/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

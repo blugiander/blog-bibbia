@@ -1,8 +1,9 @@
 ---
 title: "I Segreti della Scrittura – Un Viaggio Oltre il Testo"
-description: "> "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto." Benvenuti in questo spazio di esplorazione...."
-keywords: "Matrix, codici, i, analisi, teologia, geometria"
+description: "Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi. Uomo, algoritmo e metodo Caveman."
+tags: [analisi, codice, simboli, struttura, testo]
 ---
+
 # I Segreti della Scrittura: Un Viaggio Oltre il Testo
 
 > "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto."
@@ -10,8 +11,6 @@ keywords: "Matrix, codici, i, analisi, teologia, geometria"
 Benvenuti in questo spazio di esplorazione.  
 *I Segreti della Scrittura* non è un blog religioso tradizionale, ma un laboratorio di analisi profonda dedicato a scardinare i codici, le strutture e le simbologie nascoste nei testi biblici.
 
-<div class="matrix-header-container" id="matrix-header-home"></div>
-<img src="copertina-matrix.jpg" style="width:100%; border-radius:6px; margin:20px 0; border: 1px solid #0f0; box-shadow: 0 0 10px #0f0;">
 
 ## La Nostra Missione
 Il nostro obiettivo è guardare dove l’occhio pigro si ferma.  

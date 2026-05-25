@@ -1,30 +1,8 @@
 ---
 title: "Il Vangelo di Matteo (Il Re e il Regno)"
-description: "> "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
-keywords: "Matrix, codici, il, analisi, teologia, geometria"
-tags:
-  - regno
-  - sangue
-  - viene
-  - terra
-  - vengono
-  - genealogia
-  - figlio
 ---
 
 # Il Vangelo di Matteo: Il Re e il Regno
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico. Il Re legittimo riprende il trono. Il Regno dei Cieli invade la terra con la violenza dell'amore.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
-
-
 
 > 
 "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo."
@@ -71,14 +49,3 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [ATTI](../atti/)
-- [GIOBBE](../giobbe/)
-- [RE](../re/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

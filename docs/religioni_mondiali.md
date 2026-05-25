@@ -1,30 +1,8 @@
 ---
 title: "Religioni Mondiali vs Evangelo (La Torre e la Croce)"
-description: "> "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12) Le religioni mondiali, nonostante le loro immense..."
-keywords: "Matrix, codici, religioni, analisi, teologia, geometria"
-tags:
-  - uomo
-  - evangelo
-  - nessuna
-  - religioni
-  - sforzo
-  - solo
-  - karma
 ---
 
 # Tutte le Religioni vs L'Evangelo: La Torre e la Croce
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." Proverbi 14:12 Le religioni mondiali, nonostante le loro immense differenze culturali e dottrinali, condividono lo stesso codice sorgente. Sono variazioni dello stesso algoritmo umano: l'uomo che cerca di scalare il cielo. L'Evangelo biblico non è "la migliore delle religioni". La religione è l'uomo che cerca di raggiungere Dio tramite lo sforzo.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header religioni_mondiali](/blog-bibbia/assets/images/header_religioni_mondiali.svg)
-
-
 
 > 
 "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12)
@@ -69,14 +47,3 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 **La religione ti dice cosa devi fare per sopravvivere. L'Evangelo ti dice che sei già morto e Cristo è la tua vita.**
 **Il karma esige il pagamento. La croce lo ha già effettuato.**
 **Tutte le torri di Babele crolleranno. Solo la croce resterà in piedi.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [EZECHIELE](../ezechiele/)
-- [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [SAMUELE](../samuele/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

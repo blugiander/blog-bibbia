@@ -1,30 +1,8 @@
 ---
 title: "Genesi (La Cosmologia Ebraica)"
-description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. --- Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
-keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
-tags:
-  - giorno
-  - uomo
-  - albero
-  - trono
-  - tohu
-  - bohu
-  - tempio
 ---
 
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. Il Caos Tohu wa Bohu : Potenzialità, non Nulla Genesi 1 non descrive l' ex nihilo che verrà formulato molto più tardi . Descrive l'azione di Dio che ordina un caos preesistente. 🜂 Tohu wa Bohu Tohu = assenza di forma Bohu = assenza di contenuto Non è "nulla": è materia non strutturata, potenzialità pura. 🜂 Lo Spirito che "cova" "Lo Spirito di Dio aleggiava" Il verbo rachaf è lo stesso dell'aquila che incuba le uova Dt 32:11 .</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
-
-
 
 *Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono.*
 
@@ -180,14 +158,3 @@ Genesi 1–3 non è cosmologia scientifica. È **cosmologia liturgica**.
 
 > 
 La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è sacro.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [NUMERI](../numeri/)
-- [RUT](../rut/)
-- [FILEMONE](../filemone/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

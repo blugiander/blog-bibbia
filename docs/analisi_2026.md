@@ -1,30 +1,8 @@
 ---
 title: "Analisi 2026 (Codici nel Presente)"
-description: "La carne contro il codice: una mappa teologica dell'era digitale. --- Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
-keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
-tags:
-  - carne
-  - digitale
-  - tesi
-  - lettura
-  - biblica
-  - dati
-  - caos
 ---
 
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>La carne contro il codice: una mappa teologica dell'era digitale. Anticristo Digitale: Docetismo 2.0 Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR, avatar, metaverso, identità digitali, intelligenze artificiali: tutto tende a separare la persona dalla carne. ­ƒöì Lettura biblica 1Gv 1:1 insiste sulla materialità: "ciò che abbiamo udito, visto, toccato" . Il docetismo antico negava la carne di Cristo; il docetismo digitale nega la carne dell'uomo.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
-
-
 
 *La carne contro il codice: una mappa teologica dell'era digitale.*
 
@@ -145,14 +123,3 @@ Non come concetto, ma come ontologia:
 - vulnerabilità
 
 - realtà non riducibile a dati
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [TITO](../tito/)
-- [ISRAELE 2026](../israele_2026/)
-- [PROVERBI](../proverbi/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

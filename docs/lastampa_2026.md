@@ -1,30 +1,8 @@
 ---
 title: "La Stampa 2026 (I Codici Nascosti)"
-description: "> "Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri,..."
-keywords: "Matrix, codici, la, analisi, teologia, geometria"
-tags:
-  - rumore
-  - regno
-  - cosa
-  - mondo
-  - guarda
-  - paura
-  - sistema
 ---
 
 # I Codici della Stampa: Aprile 2026
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi. Stagflazione, liti di palazzo, petizioni online, sondaggi. Il Caveman prende lo schermo, lo frantuma e guarda cosa c'è dietro.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header lastampa_2026](/blog-bibbia/assets/images/header_lastampa_2026.svg)
-
-
 
 > 
 "Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi."
@@ -72,14 +50,3 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 
 **I giornali stampano la paura del mondo.**
 **Noi leggiamo la fine del loro regno.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-- [IRAN USA 2026](../iran_usa_2026/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

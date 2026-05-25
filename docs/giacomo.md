@@ -1,30 +1,8 @@
 ---
 title: "Giacomo (La Fede e le Opere)"
-description: "> "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo..."
-keywords: "Matrix, codici, giacomo, analisi, teologia, geometria"
-tags:
-  - opere
-  - giacomo
-  - lingua
-  - senza
-  - paolo
-  - prova
-  - tentazione
 ---
 
 # Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo è il fratello di Gesù. Ha vissuto nella stessa casa con il Messia, ma non ha creduto in Lui finché non Lo ha visto risorto. Ora guida la chiesa di Gerusalemme. E non ha tempo per la teologia astratta.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header giacomo](/blog-bibbia/assets/images/header_giacomo.svg)
-
-
 
 > 
 "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede."
@@ -68,14 +46,3 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 **La teologia che non sporca le mani è filosofia morta.**
 **L'inferno non attacca solo dal di fuori, incendia le tue stesse parole.**
 **Dio ascolta il grido del povero prima del culto dell'ipocrita.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [RE](../re/)
-- [NUMERI](../numeri/)
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

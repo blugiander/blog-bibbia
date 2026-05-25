@@ -1,30 +1,8 @@
 ---
 title: "1 e 2 Re (Fuoco, Idoli e Rovina)"
-description: "> "Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della..."
-keywords: "Matrix, codici, 1, analisi, teologia, geometria"
-tags:
-  - tempio
-  - eterno
-  - regno
-  - nord
-  - fuoco
-  - baal
-  - salomone
 ---
 
 # 1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui." I Libri dei Re non sono la celebrazione della monarchia. Sono la cronaca della sua disintegrazione. È il collasso inevitabile di chi cerca sicurezza nel potere politico, nelle alleanze umane e negli idoli di legno e pietra.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header re](/blog-bibbia/assets/images/header_re.svg)
-
-
 
 > 
 "Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui."
@@ -75,14 +53,3 @@ Dio vomita fuori la nazione dalla Terra Promessa.
 **I troni umani sono polvere.**
 **La diplomazia non salva dal giudizio.**
 **Solo il fuoco dell'Eterno brucia gli altari di Baal.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [MUSICA SPIRITUALE](../musica_spirituale/)
-- [TESSALONICESI](../tessalonicesi/)
-- [PAOLO](../paolo/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

@@ -1,30 +1,8 @@
 ---
 title: "Apocrifi e Testi Nascosti"
-description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna..."
-keywords: "Matrix, codici, apocrifi, analisi, teologia, geometria"
-tags:
-  - corpo
-  - apocrifi
-  - materia
-  - gnosi
-  - vangeli
-  - stati
-  - incompatibili
 ---
 
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna della rivelazione biblica. Il cristianesimo canonico e la gnosi non sono due varianti della stessa fede: sono due cosmologie opposte. Gnosi vs Grazia — Due Meccanismi di Salvezza Inconciliabili 🜂 La via gnostica: salvezza per conoscenza La materia è male. Solo pochi eletti ricevono la "chiave" segreta.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
-
-
 
 *Perché non è una questione politica, ma ontologica.*
 
@@ -176,14 +154,3 @@ Vuole redimere il corpo
 
 > 
 La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-- [PAGINE VERITA 2026](../pagine_verita_2026/)
-- [RELIGIONI MONDIALI](../religioni_mondiali/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

@@ -1,30 +1,8 @@
 ---
-title: "Ezechiele (La Gloria nell"
-description: "> "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È..."
-keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
-tags:
-  - uomo
-  - fuoco
-  - cuore
-  - ossa
-  - abisso
-  - sangue
-  - pietra
+title: "Ezechiele (La Gloria nell'Esilio)"
 ---
 
 # Ezechiele: La Gloria nell'Esilio
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia. Ma l'Eterno non è confinato tra quattro mura.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
-
-
 
 > 
 "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato."
@@ -74,14 +52,3 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [ESODO](../esodo/)
-- [GIUDICI](../giudici/)
-- [TITO](../tito/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

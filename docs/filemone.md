@@ -1,30 +1,8 @@
 ---
-title: "Filemone (L"
-description: "> "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
-keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
-tags:
-  - paolo
-  - schiavo
-  - filemone
-  - onesimo
-  - viene
-  - addebitalo
-  - evangelo
+title: "Filemone (L'Esplosivo Ontologico)"
 ---
 
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una potenza nucleare sufficiente a far crollare l'Impero Romano dall'interno. Onesimo è uno schiavo in fuga. Ha derubato il suo padrone, Filemone un leader della chiesa locale , ed è scappato a Roma.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
-
-
 
 > 
 "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me."
@@ -64,14 +42,3 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 **Le leggi umane si limitano a marchiare; la grazia rigenera.**
 **Nessuna riconciliazione avviene senza che qualcuno paghi il debito.**
 **L'Evangelo trasforma la peggiore delle gerarchie nella più profonda delle fratellanze.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [TITO](../tito/)
-- [GENESI](../genesi/)
-- [PAOLO](../paolo/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

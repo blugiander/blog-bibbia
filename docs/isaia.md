@@ -1,17 +1,3 @@
----
-title: "Isaia"
-description: "﻿--- title: "I 5 Segreti di Isaia" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
-tags:
-  - isaia
-  - testamento
-  - messia
-  - segreti
-  - fuoco
-  - paradosso
-  - ceppo
----
-
 ﻿---
 title: "I 5 Segreti di Isaia"
 ---
@@ -242,19 +228,7 @@ I Segreti della Scrittura
 
 ---
 
-# 1. Il Codice "66": La Struttura Frattale della Bibbia
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>﻿ title: "I 5 Segreti di Isaia" I Segreti della Scrittura Home .. Antico Testamento Genesi La Cosmologia Ebraica ../genesi/ Esodo La Via dell'Uscita ../esodo/ Numeri La Fornace del Deserto ../numeri/ Giudici Il Collasso e gli Eroi Rotti ../giudici/ Rut Il Redentore e la Grazia Straniera ../rut/ 1 e 2 Samuele Il Re e l'Unzione ../samuele/ 1 e 2 Re Fuoco, Idoli e Rovina ../re/ Esdra Il Ritorno e l'Altare ../esdra/ Giobbe La Sofferenza Innocente ../giobbe/ I Salmi Carne, Sangue e Fuoco ../salmi/ Proverbi Il Codice della Sapienza ../proverbi/ Il Cantico dei Cantici L'Amore di Fuoco ../cantico/ I 5 Segreti di Isaia 1. Il Codice "66": La Struttura Frattale della Bibbia 1 il codice 66 la struttura frattale della bibbia 2. Il Salto Temporale: La Cucitura dei Secoli 2 il salto temporale la cucitura dei secoli 3. Ciro: Il Messia Pagano Isaia 45 3 ciro il messia pagano isaia 45 🜂 Significato teologico significato teologico 4.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header isaia](/blog-bibbia/assets/images/header_isaia.svg)
-
-
+## 1. Il Codice "66": La Struttura Frattale della Bibbia
 
 Isaia è un microcosmo canonico:
 
@@ -434,15 +408,3 @@ Isaia è:
     
     
       [Next &raquo;](../lamentazioni/)
-
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [GIACOMO](../giacomo/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

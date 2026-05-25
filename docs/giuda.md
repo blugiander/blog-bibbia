@@ -1,30 +1,8 @@
 ---
-title: "Giuda (L"
-description: "> "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
-keywords: "Matrix, codici, giuda, analisi, teologia, geometria"
-tags:
-  - giuda
-  - combattere
-  - senza
-  - strenuamente
-  - santi
-  - credenti
-  - dissolutezza
+title: "Giuda (L'Infiltrazione e il Fuoco)"
 ---
 
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte. Si è seduto ai tavoli delle comunità, mangia con i credenti, e usa il linguaggio della grazia per giustificare la dissolutezza.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
-
-
 
 > 
 "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre."
@@ -70,14 +48,3 @@ Grazia assoluta, intolleranza zero per l'infezione.
 **Il pericolo maggiore non è la persecuzione, è l'assimilazione.**
 **La grazia senza santità è un veleno letale.**
 **La battaglia si vince strappando anime dal fuoco, non negoziando con le fiamme.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [ESDRA](../esdra/)
-- [DANIELE](../daniele/)
-- [TITO](../tito/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

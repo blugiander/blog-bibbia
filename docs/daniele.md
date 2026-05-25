@@ -1,17 +1,3 @@
----
-title: "Daniele"
-description: "﻿--- title: "Le Radici in Daniele" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
-tags:
-  - daniele
-  - bestie
-  - apocalisse
-  - uomo
-  - figlio
-  - giovanni
-  - radici
----
-
 ﻿---
 title: "Le Radici in Daniele"
 ---
@@ -252,19 +238,7 @@ I Segreti della Scrittura
 
 ---
 
-# 1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>﻿ title: "Le Radici in Daniele" I Segreti della Scrittura Home .. Antico Testamento Genesi La Cosmologia Ebraica ../genesi/ Esodo La Via dell'Uscita ../esodo/ Numeri La Fornace del Deserto ../numeri/ Giudici Il Collasso e gli Eroi Rotti ../giudici/ Rut Il Redentore e la Grazia Straniera ../rut/ 1 e 2 Samuele Il Re e l'Unzione ../samuele/ 1 e 2 Re Fuoco, Idoli e Rovina ../re/ Esdra Il Ritorno e l'Altare ../esdra/ Giobbe La Sofferenza Innocente ../giobbe/ I Salmi Carne, Sangue e Fuoco ../salmi/ Proverbi Il Codice della Sapienza ../proverbi/ Il Cantico dei Cantici L'Amore di Fuoco ../cantico/ I 5 Segreti di Isaia ../isaia/ Lamentazioni L'Architettura del Dolore ../lamentazioni/ Ezechiele La Gloria nell'Esilio ../ezechiele/ Le Radici in Daniele 1. La Statua dei Metalli: Il Codice Politico Originario Daniele 2 1 la statua dei metalli il codice politico originario daniele 2 🜂 La Pietra "non tagliata da mano d'uomo" la pietra non tagliata da mano duomo 2. Le Quattro Bestie: La Visione dal Punto di Vista di Dio Daniele 7 2 le quattro bestie la visione dal punto di vista di dio daniele 7 🜂 Il collegamento con l'Apocalisse il collegamento con lapocalisse 3. Il Figlio dell'Uomo: L'Umano che Sconfigge le Bestie 3 il figlio delluomo lumano che sconfigge le bestie 🜂 Il paradosso il paradosso 🜂 Gesù e il titolo "Figlio dell'Uomo" gesu e il titolo figlio delluomo 4.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header daniele](/blog-bibbia/assets/images/header_daniele.svg)
-
-
+## 1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)
 
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
 Gli imperi sono visti dall'esterno come splendore, dall'interno come fragilità.
@@ -467,15 +441,3 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
     
     
       [Next &raquo;](../matteo/)
-
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [TITO](../tito/)
-- [SAMUELE](../samuele/)
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

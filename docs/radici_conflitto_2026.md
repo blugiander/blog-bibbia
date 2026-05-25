@@ -1,30 +1,8 @@
 ---
 title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
-description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
-keywords: "Matrix, codici, radici, analisi, teologia, geometria"
-tags:
-  - israele
-  - invisibile
-  - sangue
-  - carnale
-  - orologio
-  - guerra
-  - moderno
 ---
 
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman Fuoco, Sangue, Codice Puro Status: Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico. Israele vs Palestina Isacco e Ismaele Genesi.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
-
-
 
 **Target:** L'Architettura Invisibile del Conflitto
 **Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
@@ -66,14 +44,3 @@ Il credente non si schiera con nazioni carnali, né sventola bandiere fatte di s
 
 **Conclusione:**
 Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cadono sulla terra, ma la guerra si vince o si perde nello Spirito. Prepararsi all'impatto finale.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [SAMUELE](../samuele/)
-- [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [GENESI](../genesi/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

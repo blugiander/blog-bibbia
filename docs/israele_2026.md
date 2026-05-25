@@ -1,30 +1,8 @@
 ---
 title: "Israele, Shoah e 2026 (Fornace e Ritorno)"
-description: "Target: Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12) Protocollo: Caveman (Fuoco e Sangue) Status: Orologio escatologico in marcia. Filtro:..."
-keywords: "Matrix, codici, israele,, analisi, teologia, geometria"
-tags:
-  - israele
-  - zaccaria
-  - orologio
-  - ritorno
-  - gerusalemme
-  - zero
-  - codice
 ---
 
 # Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Target: Israele Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12 Protocollo: Caveman Fuoco e Sangue Status: Orologio escatologico in marcia. L'orologio di Dio non segna le ore, segna le epoche. Israele non è una fazione politica; è il quadrante. Leggiamo il codice: Fornace, Ritorno, Scontro, Rivelazione. La Fornace La Valle delle Ossa Secche Shoah.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
-
-
 
 **Target:** Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12)
 **Protocollo:** Caveman (Fuoco e Sangue)
@@ -70,14 +48,3 @@ Piangeranno guardando le mani bucate. Il riconoscimento brutale del Messia.
 Nessuna bandiera terrena salva. L'impalcatura geopolitica sta crollando verso il disegno finale.
 Israele non sarà salvato dalle armi, ma dal ritorno di Colui che hanno respinto.
 Orologio agli sgoccioli. Fuoco in arrivo.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [ATTI](../atti/)
-- [GIOVANNI](../giovanni/)
-- [TIMOTEO](../timoteo/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

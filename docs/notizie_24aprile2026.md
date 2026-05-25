@@ -1,30 +1,8 @@
 ---
 title: "Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)"
-description: "> "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Spegni l'intelletto. Brucia..."
-keywords: "Matrix, codici, notizie, analisi, teologia, geometria"
-tags:
-  - doglie
-  - mondo
-  - terra
-  - trema
-  - solo
-  - brucia
-  - apocalisse
 ---
 
 # 24 Aprile 2026: I Codici Nascosti Nelle Notizie
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Mentre diranno: Pace e sicurezza allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Quelli che i giornali chiamano "fatti del giorno", lo Spirito li chiama "le doglie del parto". Il mondo è una macchina che va in pezzi esattamente secondo il manuale. Leggi il telegiornale attraverso la lente dell'Apocalisse. Le Doglie del Mondo: Matteo 24 in Diretta Tregue di tre settimane in Libano.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
-
-
 
 > 
 "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta."
@@ -64,14 +42,3 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 
 **La terra si spacca, i cuori si gelano, l'oro si arrugginisce.**
 **Smetti di sperare nella riparazione del mondo. Preparati per il Regno.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [GIUDICI](../giudici/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-- [GIOVANNI](../giovanni/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

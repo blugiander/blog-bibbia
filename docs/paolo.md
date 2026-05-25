@@ -1,30 +1,8 @@
 ---
 title: "Paolo ed Ebrei (Il Cambio di Regime)"
-description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. --- Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
-keywords: "Matrix, codici, paolo, analisi, teologia, geometria"
-tags:
-  - legge
-  - esteriore
-  - interiore
-  - ebrei
-  - essere
-  - paolo
-  - organismo
 ---
 
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. Il Pedagogo e l'Effetto Paradosso Galati / Romani Paolo non demonizza la Legge: la colloca nella storia dell'essere. 🜂 La Legge come paidagogos Il pedagogo non è il maestro: è lo schiavo che accompagna il bambino. 🜂 L'Effetto Paradosso Romani 7 La Legge: nomina il peccato e nominandolo, lo attiva Il divieto genera il desiderio. La Legge è come un cartello "Vietato": non crea il male, ma lo risveglia .</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
-
-
 
 *Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere.*
 
@@ -196,14 +174,3 @@ Coscienza purificata
 > 
 Non è un cambiamento morale. È un cambiamento dell'essere.
 **Cristo non modifica il sistema: lo sostituisce.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [LASTAMPA 2026](../lastampa_2026/)
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

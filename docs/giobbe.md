@@ -1,30 +1,8 @@
 ---
 title: "Giobbe (La Sofferenza Innocente)"
-description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. --- Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è..."
-keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
-tags:
-  - giobbe
-  - teologia
-  - uomo
-  - amici
-  - ribellione
-  - realtà
-  - integrità
 ---
 
 # 📜 Giobbe: L'Integrità della Ribellione
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Il libro che smaschera la teologia facile e difende il grido dell'uomo. Il "Satan": Il Pubblico Ministero della Corte Celeste Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è ha ┼ø─üß╣¡─ün — l'Accusatore, con articolo determinativo. Funzione tecnica È un funzionario della corte divina, non un ribelle. Il suo compito è testare la sincerità della virtù umana.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
-
-
 
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo.*
 
@@ -163,14 +141,3 @@ Il Libro di Giobbe insegna che:
 
 > 
 Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più vero.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [RELIGIONI MONDIALI](../religioni_mondiali/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [NUMERI](../numeri/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

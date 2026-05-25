@@ -1,30 +1,8 @@
 ---
-title: "1 e 2 Tessalonicesi (Escatologia e l"
-description: "> "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il..."
-keywords: "Matrix, codici, 1, analisi, teologia, geometria"
-tags:
-  - paolo
-  - giorno
-  - prima
-  - escatologia
-  - panico
-  - nessuno
-  - genera
+title: "1 e 2 Tessalonicesi (Escatologia e l'Iniquo)"
 ---
 
 # 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>"Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale. Per i Tessalonicesi, il ritorno di Cristo non è un dibattito teologico accademico.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header tessalonicesi](/blog-bibbia/assets/images/header_tessalonicesi.svg)
-
-
 
 > 
 "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione."
@@ -70,14 +48,3 @@ Il Regno si aspetta lavorando, non oziando.
 **La falsa escatologia produce panico o pigrizia.**
 **La vera escatologia produce vigilanza, resurrezione e sudore.**
 **L'Anticristo non è un rivale alla pari, è un insetto che attende il soffio del Re.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [NUMERI](../numeri/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

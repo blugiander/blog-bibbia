@@ -1,17 +1,3 @@
----
-title: "Apocalisse"
-description: "﻿--- title: "Apocalisse (Livello Profondo)" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via..."
-keywords: "Matrix, codici, apocalisse, analisi, teologia, geometria"
-tags:
-  - apocalisse
-  - bestia
-  - male
-  - sempre
-  - fallimento
-  - imperiale
-  - numeri
----
-
 ﻿---
 title: "Apocalisse (Livello Profondo)"
 ---
@@ -268,19 +254,7 @@ I Segreti della Scrittura
 
 ---
 
-# 1. Il Simbolismo Numerico: La Matematica del Sacro
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>﻿ title: "Apocalisse Livello Profondo " I Segreti della Scrittura Home .. Antico Testamento Genesi La Cosmologia Ebraica ../genesi/ Esodo La Via dell'Uscita ../esodo/ Numeri La Fornace del Deserto ../numeri/ Giudici Il Collasso e gli Eroi Rotti ../giudici/ Rut Il Redentore e la Grazia Straniera ../rut/ 1 e 2 Samuele Il Re e l'Unzione ../samuele/ 1 e 2 Re Fuoco, Idoli e Rovina ../re/ Esdra Il Ritorno e l'Altare ../esdra/ Giobbe La Sofferenza Innocente ../giobbe/ I Salmi Carne, Sangue e Fuoco ../salmi/ Proverbi Il Codice della Sapienza ../proverbi/ Il Cantico dei Cantici L'Amore di Fuoco ../cantico/ I 5 Segreti di Isaia ../isaia/ Lamentazioni L'Architettura del Dolore ../lamentazioni/ Ezechiele La Gloria nell'Esilio ../ezechiele/ Le Radici in Daniele ../daniele/ Nuovo Testamento Il Vangelo di Matteo Il Re e il Regno ../matteo/ Il Vangelo di Giovanni ../giovanni/ Atti L'Azione dello Spirito ../atti/ Paolo ed Ebrei Il Cambio di Regime ../paolo/ 1 e 2 Tessalonicesi Escatologia e l'Iniquo ../tessalonicesi/ 1 e 2 Timoteo Il Deposito e la Struttura ../timoteo/ Tito Architettura nel Caos ../tito/ Filemone L'Esplosivo Ontologico ../filemone/ Giacomo La Fede e le Opere ../giacomo/ Lettere di Giovanni Carne e Amore ../lettere giovanni/ Giuda L'Infiltrazione e il Fuoco ../giuda/ Apocalisse Livello Profondo 1. Il Simbolismo Numerico: La Matematica del Sacro 1 il simbolismo numerico la matematica del sacro 🜂 7 — La Completezza Divina 7 la completezza divina 🜂 6 e 666 — Il Fallimento Ontologico 6 e 666 il fallimento ontologico 🜂 12 — Il Popolo di Dio 12 il popolo di dio 🜂 144.000 — La Totalità Perfetta 144000 la totalita perfetta 2. I Calcoli del Tempo: Il Male è Sempre a Metà 2 i calcoli del tempo il male e sempre a meta 3. Il Significato Politico: Il Codice Anti Imperiale 3 il significato politico il codice anti imperiale 🜂 Babilonia = Roma babilonia roma 🜂 La Bestia dal mare = l'Imperatore la bestia dal mare limperatore 🜂 La Bestia dalla terra = il culto imperiale la bestia dalla terra il culto imperiale 4.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header apocalisse](/blog-bibbia/assets/images/header_apocalisse.svg)
-
-
+## 1. Il Simbolismo Numerico: La Matematica del Sacro
 
 Nell'Apocalisse i numeri non contano quantità: definiscono essenze.
 
@@ -464,15 +438,3 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
     
     
       [Next &raquo;](../apocrifi/)
-
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [RUT](../rut/)
-- [GENESI](../genesi/)
-- [NUMERI](../numeri/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

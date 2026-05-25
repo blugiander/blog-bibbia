@@ -1,30 +1,8 @@
 ---
-title: "Esodo (La Via dell"
-description: "LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità..."
-keywords: "Matrix, codici, esodo, analisi, teologia, geometria"
-tags:
-  - sistema
-  - controllo
-  - ogni
-  - umano
-  - codice
-  - identità
-  - liberazione
+title: "Esodo (La Via dell'Uscita)"
 ---
 
 # Esodo (Versione Teopolitica Integrata 2026)
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità concessa. Il Grido: La Frattura del Sistema Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende: autenticazione per esistere obbedienza per accedere identità come concessione, non come natura Il grido degli schiavi non è solo dolore: è la rottura del consenso . È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta. Codice 1: LÔÇÖEsodo inizia quando lÔÇÖidentità non è più negoziabile.</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
-
-
 
 ### La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale
 
@@ -209,14 +187,3 @@ Esci dal sistema.
 Cammina nel Fuoco.
 
 Resta umano.**
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [ATTI](../atti/)
-- [CHIESE TORINO](../chiese_torino/)
-- [GIUDICI](../giudici/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->

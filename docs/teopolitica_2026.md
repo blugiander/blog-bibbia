@@ -1,30 +1,8 @@
 ---
 title: "Teopolitica 2026 (Evangelici e Cattolici)"
-description: "Il fuoco non si analizza. Si teme, o si attraversa. --- Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
-keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
-tags:
-  - senza
-  - vede
-  - faraone
-  - fuoco
-  - puoi
-  - pericolo
-  - parla
 ---
 
 # La Bestia Non Ha Corna. Ha un Profilo.
-
-<!-- MATRIX_SUMMARY_START -->
-<div class="admonition note matrix-summary">
-<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>Il Nuovo Faraone Non Ha Trono Non siederà su un trono dorato. Entrerà nella tua casa attraverso lo schermo. E tu la prenderai — perché senza di essa non puoi comprare, non puoi vendere, non puoi esistere. Il Libro dell'Apocalisse lo aveva già scritto. "Nessuno poteva comprare o vendere senza avere il marchio."</p>
-</div>
-<!-- MATRIX_SUMMARY_END -->
-
-
-![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
-
-
 
 *Il fuoco non si analizza. Si teme, o si attraversa.*
 
@@ -237,14 +215,3 @@ Non si sospende.
 È già adesso.
 
 Svegliati.
-
-<!-- MATRIX_FOOTER_START -->
-<hr>
-## COLLEGAMENTI UTILI
-<div class="matrix-links">
-- [PAGINE VERITA 2026](../pagine_verita_2026/)
-- [MATTEO](../matteo/)
-- [PROVERBI](../proverbi/)
-</div>
-
-<!-- MATRIX_FOOTER_END -->
