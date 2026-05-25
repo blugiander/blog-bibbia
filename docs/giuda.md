@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte. Si è seduto ai tavoli delle comunità, mangia con i credenti, e usa il linguaggio della grazia per giustificare la dissolutezza.</p>
+<p>"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte. Si è seduto ai tavoli delle comunità, mangia con i credenti, e usa il linguaggio della grazia per giustificare la dissolutezza.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -77,6 +73,9 @@ Grazia assoluta, intolleranza zero per l'infezione.
 **Il pericolo maggiore non è la persecuzione, è l'assimilazione.**
 **La grazia senza santità è un veleno letale.**
 **La battaglia si vince strappando anime dal fuoco, non negoziando con le fiamme.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

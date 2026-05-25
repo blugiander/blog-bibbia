@@ -19,18 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte. La carne viene crocifissa dalla verità. Il Timore di Dio: La Scossa Ontologica
-
-Il "timore" non è paura umana.</p>
+<p>"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte. La carne viene crocifissa dalla verità. Il Timore di Dio: La Scossa Ontologica Il "timore" non è paura umana.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -88,6 +82,9 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 
 **La Sapienza non si impara. Si incarna.**
 **Taglia l'orgoglio. Brucia le parole vane. Scegli la Vita.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

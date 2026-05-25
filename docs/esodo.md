@@ -19,29 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-### La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale
-
-*LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità concessa. Il Grido: La Frattura del Sistema
-
-Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende:
-
-- autenticazione per esistere  
-
-- obbedienza per accedere  
-
-- identità come concessione, non come natura  
-
-Il grido degli schiavi non è solo dolore: è **la rottura del consenso**. È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta. **Codice 1:**
-
-LÔÇÖEsodo inizia quando lÔÇÖidentità non è più negoziabile.</p>
+<p>La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità concessa. Il Grido: La Frattura del Sistema Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende: autenticazione per esistere obbedienza per accedere identità come concessione, non come natura Il grido degli schiavi non è solo dolore: è la rottura del consenso . È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta. Codice 1: LÔÇÖEsodo inizia quando lÔÇÖidentità non è più negoziabile.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -229,6 +212,9 @@ Esci dal sistema.
 Cammina nel Fuoco.
 
 Resta umano.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

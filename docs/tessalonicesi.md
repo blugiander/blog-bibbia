@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale. Per i Tessalonicesi, il ritorno di Cristo non è un dibattito teologico accademico.</p>
+<p>"Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione." La chiesa di Tessalonica è nata in mezzo alla rivolta. Paolo è dovuto scappare di notte dopo poche settimane. Eppure, questa comunità perseguitata diventa un modello globale. Per i Tessalonicesi, il ritorno di Cristo non è un dibattito teologico accademico.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -77,6 +73,9 @@ Il Regno si aspetta lavorando, non oziando.
 **La falsa escatologia produce panico o pigrizia.**
 **La vera escatologia produce vigilanza, resurrezione e sudore.**
 **L'Anticristo non è un rivale alla pari, è un insetto che attende il soffio del Re.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

@@ -19,19 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-**Target:** L'Architettura Invisibile del Conflitto
-**Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
-**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico. Israele vs Palestina (Isacco e Ismaele)
-
-**Genesi.</p>
+<p>Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman Fuoco, Sangue, Codice Puro Status: Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico. Israele vs Palestina Isacco e Ismaele Genesi.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -76,6 +69,9 @@ Il credente non si schiera con nazioni carnali, né sventola bandiere fatte di s
 
 **Conclusione:**
 Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cadono sulla terra, ma la guerra si vince o si perde nello Spirito. Prepararsi all'impatto finale.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina. Vuole un re visibile, un uomo alto, un re come tutte le altre nazioni. Qui si scontrano l'unzione e l'ambizione.</p>
+<p>"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina. Vuole un re visibile, un uomo alto, un re come tutte le altre nazioni. Qui si scontrano l'unzione e l'ambizione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -78,6 +74,9 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 **Smetti di cercare re di carne.**
 **L'armatura umana non ferma i giganti. Solo l'Unzione spezza il giogo.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

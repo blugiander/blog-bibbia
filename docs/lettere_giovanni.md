@@ -19,19 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-*Analisi tecnica contro l'eresia e definizione ontologica dell'amore. Anticristo: Categoria Presente, non Futuristica
-
-Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria teologica attuale. ### ­ƒöì Definizione tecnica
-
-- Negazione cristologica: *"Chi nega che Gesù è il Cristo"* (1Gv 2:22). - Natura pneumatica: non un individuo, ma uno spirito (1Gv 4:3). - Segno distintivo: negazione della *sarx* (¤â╬¼¤ü╬¥), cioè della carne reale.</p>
+<p>Analisi tecnica contro l'eresia e definizione ontologica dell'amore. Anticristo: Categoria Presente, non Futuristica Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria teologica attuale. ­ƒöì Definizione tecnica Negazione cristologica: "Chi nega che Gesù è il Cristo" 1Gv 2:22 . Natura pneumatica: non un individuo, ma uno spirito 1Gv 4:3 . Segno distintivo: negazione della sarx ¤â╬¼¤ü╬¥ , cioè della carne reale.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -175,6 +168,9 @@ Non è l'atto, ma la pratica che nega l'incarnazione.
 
 > 
 Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte entrambe.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

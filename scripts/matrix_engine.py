@@ -100,13 +100,14 @@ def clean_text(text):
 
 def generate_summary(text, num_sentences=5):
     """Fase 1: Genera un riassunto estrattivo (le prime frasi del testo pulito)"""
+    clean = clean_text(text)
     if HAVE_NLTK:
         try:
-            sentences = sent_tokenize(text, language='italian')
+            sentences = sent_tokenize(clean, language='italian')
         except:
-            sentences = [s.strip() + "." for s in re.split(r'[.!?]+', text) if s.strip()]
+            sentences = [s.strip() + "." for s in re.split(r'[.!?]+', clean) if s.strip()]
     else:
-        sentences = [s.strip() + "." for s in re.split(r'[.!?]+', text) if s.strip()]
+        sentences = [s.strip() + "." for s in re.split(r'[.!?]+', clean) if s.strip()]
     
     # Filtra intestazioni brevi e spazzatura
     valid_sentences = [s for s in sentences if len(s.split()) > 5]

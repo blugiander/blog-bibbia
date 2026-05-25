@@ -19,18 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco. La Lode come Arma
-
-La lode non è un sentimento. È una spada di fuoco contro i demoni.</p>
+<p>"Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco. La Lode come Arma La lode non è un sentimento. È una spada di fuoco contro i demoni.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -98,6 +92,9 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 **La preghiera non è un pensiero. È l'impatto tra la terra e il cielo.**
 **Parole di fuoco. Brucia la mente. Parla allo spirito.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

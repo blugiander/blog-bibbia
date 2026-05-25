@@ -19,27 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-*Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. Il Pedagogo e l'Effetto Paradosso (Galati / Romani)
-
-Paolo non demonizza la Legge: la colloca nella storia dell'essere. ### 🜂 La Legge come *paidagogos*
-
-Il pedagogo non è il maestro: è lo schiavo che accompagna il bambino. ### 🜂 L'Effetto Paradosso (Romani 7)
-
-La Legge:
-
-- nomina il peccato
-
-- e nominandolo, lo attiva
-
-Il divieto genera il desiderio. La Legge è come un cartello "Vietato": non crea il male, ma lo **risveglia**.</p>
+<p>Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. Il Pedagogo e l'Effetto Paradosso Galati / Romani Paolo non demonizza la Legge: la colloca nella storia dell'essere. 🜂 La Legge come paidagogos Il pedagogo non è il maestro: è lo schiavo che accompagna il bambino. 🜂 L'Effetto Paradosso Romani 7 La Legge: nomina il peccato e nominandolo, lo attiva Il divieto genera il desiderio. La Legge è come un cartello "Vietato": non crea il male, ma lo risveglia .</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -214,6 +199,9 @@ Coscienza purificata
 > 
 Non è un cambiamento morale. È un cambiamento dell'essere.
 **Cristo non modifica il sistema: lo sostituisce.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

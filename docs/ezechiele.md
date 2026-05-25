@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia. Ma l'Eterno non è confinato tra quattro mura.</p>
+<p>"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia. Ma l'Eterno non è confinato tra quattro mura.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -81,6 +77,9 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

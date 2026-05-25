@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo incandescente della rivelazione. L'intimità violenta tra il Creatore e la creatura.</p>
+<p>"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo incandescente della rivelazione. L'intimità violenta tra il Creatore e la creatura.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -82,6 +78,9 @@ Il letargo è morte. La voce è resurrezione.
 
 **La religione ti dà regole. Il Cantico ti dà fuoco.**
 **Non fermarti al cortile. Entra nella camera del Re e brucia.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

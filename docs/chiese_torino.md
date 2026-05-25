@@ -19,19 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-**Target:** Mappa Istituzionale (Torino, evangelici.net)
-**Protocollo:** Caveman (Fuoco e Sangue)
-**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono. È tempo di setacciare la carne e rivelare l'osso. Moltiplicazione vs Unzione
-
-**Tante insegne, quanto Fuoco?</p>
+<p>Target: Mappa Istituzionale Torino, evangelici.net Protocollo: Caveman Fuoco e Sangue Status: Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono. È tempo di setacciare la carne e rivelare l'osso. Moltiplicazione vs Unzione Tante insegne, quanto Fuoco?</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -82,6 +75,9 @@ L'etichetta "evangelica" non garantisce l'ingresso al banchetto. L'unica moneta 
 **Conclusione:**
 Bruciare le mappe umane. Cercare le coordinate dello Spirito.
 Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un consiglio d'amministrazione.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

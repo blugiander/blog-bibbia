@@ -19,33 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-*Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. Lo Spirito come Protagonista: Il "No" di Dio (Atti 16)
-
-Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento. Gli apostoli:
-
-- hanno un piano
-
-- hanno una strategia
-
-- hanno una missione chiara
-
-Eppure:
-
-> 
-*"Lo Spirito Santo vietò loroÔÇª"*
-*"Lo Spirito di Gesù non lo permiseÔÇª"*
-
-Il soggetto grammaticale è sempre lo Spirito, non gli apostoli. ### 🔥 Codice teologico
-
-- La missione non è guidata da logica umana. - La geografia non è scelta dagli uomini.</p>
+<p>Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. Lo Spirito come Protagonista: Il "No" di Dio Atti 16 Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento. Gli apostoli: hanno un piano hanno una strategia hanno una missione chiara Eppure: "Lo Spirito Santo vietò loroÔÇª" "Lo Spirito di Gesù non lo permiseÔÇª" Il soggetto grammaticale è sempre lo Spirito, non gli apostoli. 🔥 Codice teologico La missione non è guidata da logica umana. La geografia non è scelta dagli uomini.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -205,6 +184,9 @@ L'avverbio è il lieto fine. L'avverbio è la teologia. L'avverbio è la profezi
 
 > 
 Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

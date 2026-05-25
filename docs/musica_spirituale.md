@@ -19,17 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-**Target:** Frequenze, Industria Musicale, Guerra Spirituale
-**Protocollo:** Caveman (Fuoco, Suono, Codice)
-**Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso. È un codice che bypassa l'intelletto e programma direttamente lo spirito. L'aria è un campo di battaglia e le frequenze sono artiglieria.</p>
+<p>Target: Frequenze, Industria Musicale, Guerra Spirituale Protocollo: Caveman Fuoco, Suono, Codice Status: Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso. È un codice che bypassa l'intelletto e programma direttamente lo spirito. L'aria è un campo di battaglia e le frequenze sono artiglieria.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -75,6 +70,9 @@ Non esiste musica neutrale.
 
 **Conclusione:**
 Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la tua voce e i tuoi strumenti come armi da fuoco contro il regno delle tenebre.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

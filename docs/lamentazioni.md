@@ -19,18 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."
-
-Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue. Geremia guarda la città ridotta in cenere. Il Libro delle Lamentazioni è il funerale di una nazione.</p>
+<p>"È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..." Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue. Geremia guarda la città ridotta in cenere. Il Libro delle Lamentazioni è il funerale di una nazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -77,6 +71,9 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 **La falsa pace anestetizza, il vero profeta piange sulle rovine.**
 **L'alfabeto del dolore porta alla speranza oggettiva.**
 **Solo chi riconosce la giustizia del giudizio può gustare la fedeltà del mattino.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

@@ -19,17 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-**Target:** Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente
-**Protocollo:** Caveman (Fuoco e Sangue)
-**Status:** Fuoco incrociato spirituale. Il conflitto in Medio Oriente non si risolve a livello territoriale. La terra è solo il palcoscenico; la guerra è invisibile e primordiale. Chi tifa per una fazione come fosse un club sportivo non ha capito il codice. Qui si tratta di principati e di sangue innocente.</p>
+<p>Target: Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente Protocollo: Caveman Fuoco e Sangue Status: Fuoco incrociato spirituale. Il conflitto in Medio Oriente non si risolve a livello territoriale. La terra è solo il palcoscenico; la guerra è invisibile e primordiale. Chi tifa per una fazione come fosse un club sportivo non ha capito il codice. Qui si tratta di principati e di sangue innocente.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -79,6 +74,9 @@ Nessuna bandiera terrena salva. Solo il Legno insanguinato resiste.
 **Conclusione:**
 Maledire le entità spirituali dell'odio. Piangere i morti innocenti, da entrambe le parti della barricata. Rifiutare l'idolatria politica.
 Il Medio Oriente non attende una risoluzione umana. Attende il ritorno del Re.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

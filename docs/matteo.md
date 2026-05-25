@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico. Il Re legittimo riprende il trono. Il Regno dei Cieli invade la terra con la violenza dell'amore.</p>
+<p>"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico. Il Re legittimo riprende il trono. Il Regno dei Cieli invade la terra con la violenza dell'amore.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -78,6 +74,9 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

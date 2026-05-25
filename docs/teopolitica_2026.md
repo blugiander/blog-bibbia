@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>*
-
----
-
-## Il Nuovo Faraone Non Ha Trono
-
-Non siederà su un trono dorato. Entrerà nella tua casa attraverso lo schermo. E tu la prenderai — perché senza di essa non puoi comprare, non puoi vendere, non puoi esistere. Il Libro dell'Apocalisse lo aveva già scritto. > 
-*"Nessuno poteva comprare o vendere senza avere il marchio.</p>
+<p>Il Nuovo Faraone Non Ha Trono Non siederà su un trono dorato. Entrerà nella tua casa attraverso lo schermo. E tu la prenderai — perché senza di essa non puoi comprare, non puoi vendere, non puoi esistere. Il Libro dell'Apocalisse lo aveva già scritto. "Nessuno poteva comprare o vendere senza avere il marchio."</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -244,6 +240,9 @@ Non si sospende.
 È già adesso.
 
 Svegliati.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi. Stagflazione, liti di palazzo, petizioni online, sondaggi. Il Caveman prende lo schermo, lo frantuma e guarda cosa c'è dietro.</p>
+<p>"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi." Apri un quotidiano e cosa vedi? Numeri, percentuali, dichiarazioni di politici morti che si credono vivi. Stagflazione, liti di palazzo, petizioni online, sondaggi. Il Caveman prende lo schermo, lo frantuma e guarda cosa c'è dietro.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -79,6 +75,9 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 
 **I giornali stampano la paura del mondo.**
 **Noi leggiamo la fine del loro regno.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

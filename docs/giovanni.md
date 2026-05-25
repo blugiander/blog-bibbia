@@ -19,30 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-*Il Vangelo che non narra la storia: la interpreta dall'eternità. Il Logos: Il Reset Cosmico
-
-Giovanni non inizia con Betlemme, ma con l'eternità. > 
-*En arch─ô ─ôn ho Logos* — "Nel principio era il Logos"
-
-È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione. ### 🜂 Il doppio senso di *katelaben*
-
-*"Le tenebre non l'hanno ricevuta"*
-
-Il verbo significa contemporaneamente:
-
-- non l'hanno **compresa**
-
-- non l'hanno **sopraffatta**
-
-Il cosmo cieco non capisce la luce, e proprio per questo non può vincerla.</p>
+<p>Il Vangelo che non narra la storia: la interpreta dall'eternità. Il Logos: Il Reset Cosmico Giovanni non inizia con Betlemme, ma con l'eternità. En arch─ô ─ôn ho Logos — "Nel principio era il Logos" È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione. 🜂 Il doppio senso di katelaben "Le tenebre non l'hanno ricevuta" Il verbo significa contemporaneamente: non l'hanno compresa non l'hanno sopraffatta Il cosmo cieco non capisce la luce, e proprio per questo non può vincerla.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -223,6 +205,9 @@ Giovanni costruisce un Vangelo che è:
 
 > 
 Giovanni non racconta la storia. Racconta la struttura dell'essere.
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

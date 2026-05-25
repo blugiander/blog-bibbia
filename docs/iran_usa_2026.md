@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere. Ma la Scrittura ha già decodificato lo schermo del telegiornale. C'è solo spiritualità sotto mentite spoglie.</p>
+<p>"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere. Ma la Scrittura ha già decodificato lo schermo del telegiornale. C'è solo spiritualità sotto mentite spoglie.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -77,6 +73,9 @@ I missili cadranno o non cadranno. Il tuo spirito deve essere in piedi prima che
 
 **Lascia che i re di carne giochino con la polvere.**
 **Spegni il terrore. Fissa il Trono.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

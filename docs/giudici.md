@@ -19,17 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta. Quello che resta è il caos: compromesso, idolatria, guerra civile e collasso totale della struttura. Il libro segue un algoritmo spietato, una spirale discendente:
-**Apostasia ÔåÆ Schiavitù ÔåÆ Grido d'Aiuto ÔåÆ Liberatore (Giudice) ÔåÆ Pace ÔåÆ Nuova Apostasia (peggiore della prima).</p>
+<p>"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta. Quello che resta è il caos: compromesso, idolatria, guerra civile e collasso totale della struttura. Il libro segue un algoritmo spietato, una spirale discendente: Apostasia ÔåÆ Schiavitù ÔåÆ Grido d'Aiuto ÔåÆ Liberatore Giudice ÔåÆ Pace ÔåÆ Nuova Apostasia peggiore della prima .</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -91,6 +86,9 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 **Il compromesso non si stabilizza, marcisce.**
 **L'unzione non garantisce il carattere.**
 **Quando la verità oggettiva cade ("ognuno faceva ciò che pareva giusto"), il risultato non è la libertà. È la barbarie.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

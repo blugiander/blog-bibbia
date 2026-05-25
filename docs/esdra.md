@@ -19,18 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
-
-L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il Libro di Esdra non è la cronaca di un trionfo, è la mappa della ricostruzione dalle macerie. L'impero babilonese è stato schiacciato dai Persiani. Ciro, un re pagano, diventa lo strumento operativo dell'Eterno per rimandare a casa un residuo.</p>
+<p>"Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..." L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il Libro di Esdra non è la cronaca di un trionfo, è la mappa della ricostruzione dalle macerie. L'impero babilonese è stato schiacciato dai Persiani. Ciro, un re pagano, diventa lo strumento operativo dell'Eterno per rimandare a casa un residuo.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -83,6 +77,9 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 **Nessuna ricostruzione senza altare.**
 **Nessun patto con l'infiltrazione.**
 **La Parola rivela sempre l'infezione della carne.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

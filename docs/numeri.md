@@ -19,16 +19,12 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>
-
-
-
-
-
-> 
-"I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è alle spalle, ma la schiavitù è ancora nel sangue. Dio non fa entrare schiavi nella Terra Promessa.</p>
+<p>"I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è alle spalle, ma la schiavitù è ancora nel sangue. Dio non fa entrare schiavi nella Terra Promessa.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
+
+
+
 
 
 
@@ -78,6 +74,9 @@ Se non sei pronto a combattere, non vedrai mai la Terra.
 
 **Il deserto farà seccare la tua ribellione o le tue ossa.**
 **Smetti di mormorare. Guarda il serpente innalzato. Prendi la spada.**
+
+
+
 
 <!-- MATRIX_FOOTER_START -->
 <hr>
