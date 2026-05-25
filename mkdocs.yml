@@ -2,6 +2,7 @@ site_name: I Segreti della Scrittura
 site_description: Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi.
 theme:
   name: material
+  language: it
   font:
     text: Fira Code
     code: Fira Code
