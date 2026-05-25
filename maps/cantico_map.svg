@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="400" y1="300" x2="381" y2="74" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="500" y2="267" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="381" y1="74" x2="500" y2="267" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="474" y2="414" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="181" y2="406" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="474" y1="414" x2="181" y2="406" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="545" y2="298" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="432" y2="400" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="162" y2="364" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="400" y="300" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CANTICO</text>
+  <circle cx="381" cy="74" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="381" y="74" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CANTICO</text>
+  <circle cx="500" cy="267" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="500" y="267" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SIGILLO</text>
+  <circle cx="474" cy="414" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="474" y="414" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AMORE</text>
+  <circle cx="181" cy="406" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="181" y="406" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CUORE</text>
+  <circle cx="545" cy="298" r="15" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="545" y="298" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <circle cx="432" cy="400" r="16" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="432" y="400" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CERCA</text>
+  <circle cx="162" cy="364" r="30" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="162" y="364" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPOSA</text>
+</svg>

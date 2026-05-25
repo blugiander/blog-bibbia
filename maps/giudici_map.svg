@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="400" y1="300" x2="520" y2="398" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="281" y2="252" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="520" y1="398" x2="281" y2="252" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="592" y2="245" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="446" y2="114" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="274" y2="91" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="344" y2="453" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="274" y1="91" x2="344" y2="453" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="491" y2="215" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="344" y1="453" x2="491" y2="215" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="400" y="300" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDICI</text>
+  <circle cx="520" cy="398" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="520" y="398" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDICI</text>
+  <circle cx="281" cy="252" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="281" y="252" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISRAELE</text>
+  <circle cx="592" cy="245" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="592" y="245" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANSONE</text>
+  <circle cx="446" cy="114" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="446" y="114" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">COLLASSO</text>
+  <circle cx="274" cy="91" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="274" y="91" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ROTTI</text>
+  <circle cx="344" cy="453" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="344" y="453" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OGNUNO</text>
+  <circle cx="491" cy="215" r="19" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="491" y="215" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAREVA</text>
+</svg>

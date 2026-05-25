@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="400" y1="300" x2="308" y2="376" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="499" y2="277" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="267" y2="283" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="428" y2="425" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="267" y1="283" x2="428" y2="425" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="200" y2="349" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="428" y1="425" x2="200" y2="349" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="508" y2="203" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="260" y2="219" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISAIA</text>
+  <circle cx="308" cy="376" r="23" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="308" y="376" fill="#33FF66" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISAIA</text>
+  <circle cx="499" cy="277" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="499" y="277" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SEGRETI</text>
+  <circle cx="267" cy="283" r="29" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="267" y="283" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TESTAMENTO</text>
+  <circle cx="428" cy="425" r="16" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="428" y="425" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MESSIA</text>
+  <circle cx="200" cy="349" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="200" y="349" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ANTICO</text>
+  <circle cx="508" cy="203" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="508" y="203" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <circle cx="260" cy="219" r="15" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="260" y="219" fill="#008F11" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
+</svg>

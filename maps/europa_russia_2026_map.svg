@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="400" y1="300" x2="637" y2="278" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="553" y2="364" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="555" y2="483" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="553" y1="364" x2="555" y2="483" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="215" y2="400" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="555" y1="483" x2="215" y2="400" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="459" y2="521" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="238" y2="308" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="378" y2="190" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="238" y1="308" x2="378" y2="190" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="400" y="300" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EUROPA_RUS</text>
+  <circle cx="637" cy="278" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="637" y="278" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EUROPA</text>
+  <circle cx="553" cy="364" r="22" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="553" y="364" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RUSSIA</text>
+  <circle cx="555" cy="483" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="555" y="483" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CATENE</text>
+  <circle cx="215" cy="400" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="215" y="400" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRESTITO</text>
+  <circle cx="459" cy="521" r="17" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="459" y="521" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BABILONIA</text>
+  <circle cx="238" cy="308" r="18" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="238" y="308" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRESTA</text>
+  <circle cx="378" cy="190" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="378" y="190" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BANCHE</text>
+</svg>
