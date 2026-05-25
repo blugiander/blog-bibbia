@@ -14,8 +14,6 @@ tags:
 
 # I Salmi: Carne, Sangue e Fuoco
 
-![Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
 
 
 
@@ -96,24 +90,13 @@ Mille cadranno al tuo fianco, ma tu resterai.
 **La preghiera non è un pensiero. È l'impatto tra la terra e il cielo.**
 **Parole di fuoco. Brucia la mente. Parla allo spirito.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [EZECHIELE](../ezechiele/)
-- [MUSICA SPIRITUALE](../musica_spirituale/)
-- [NUMERI](../numeri/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/salmi_map.svg)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [ISAIA](../isaia/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

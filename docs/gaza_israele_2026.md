@@ -14,8 +14,6 @@ tags:
 
 # Gaza, Palestinesi e Israele 2026: Sangue, Deserto e il Muro Abbattuto
 
-![Header gaza_israele_2026](/blog-bibbia/assets/images/header_gaza_israele_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header gaza_israele_2026](/blog-bibbia/assets/images/header_gaza_israele_2026.svg)
 
 
 
@@ -78,25 +72,13 @@ Nessuna bandiera terrena salva. Solo il Legno insanguinato resiste.
 Maledire le entità spirituali dell'odio. Piangere i morti innocenti, da entrambe le parti della barricata. Rifiutare l'idolatria politica.
 Il Medio Oriente non attende una risoluzione umana. Attende il ritorno del Re.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-- [IRAN USA 2026](../iran_usa_2026/)
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/gaza_israele_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/gaza_israele_2026_timeline.svg)
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
+- [RE](../re/)
+- [RUT](../rut/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

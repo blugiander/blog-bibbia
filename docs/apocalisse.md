@@ -270,8 +270,6 @@ I Segreti della Scrittura
 
 # 1. Il Simbolismo Numerico: La Matematica del Sacro
 
-![Header apocalisse](/blog-bibbia/assets/images/header_apocalisse.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -280,11 +278,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header apocalisse](/blog-bibbia/assets/images/header_apocalisse.svg)
 
 
 
@@ -472,25 +466,13 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
       [Next &raquo;](../apocrifi/)
 
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [FILEMONE](../filemone/)
-- [SAMUELE](../samuele/)
-- [LAMENTAZIONI](../lamentazioni/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/apocalisse_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/apocalisse_timeline.svg)
+- [RUT](../rut/)
+- [GENESI](../genesi/)
+- [NUMERI](../numeri/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

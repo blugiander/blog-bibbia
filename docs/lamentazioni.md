@@ -14,8 +14,6 @@ tags:
 
 # Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie
 
-![Header lamentazioni](/blog-bibbia/assets/images/header_lamentazioni.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header lamentazioni](/blog-bibbia/assets/images/header_lamentazioni.svg)
 
 
 
@@ -75,24 +69,13 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 **L'alfabeto del dolore porta alla speranza oggettiva.**
 **Solo chi riconosce la giustizia del giudizio può gustare la fedeltà del mattino.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [GENESI](../genesi/)
-- [ANALISI 2026](../analisi_2026/)
-- [APOCRIFI](../apocrifi/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lamentazioni_map.svg)
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+- [GIACOMO](../giacomo/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

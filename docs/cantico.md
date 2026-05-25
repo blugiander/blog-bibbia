@@ -14,8 +14,6 @@ tags:
 
 # Il Cantico dei Cantici: L'Amore di Fuoco
 
-![Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
 
 
 
@@ -82,24 +76,13 @@ Il letargo è morte. La voce è resurrezione.
 **La religione ti dà regole. Il Cantico ti dà fuoco.**
 **Non fermarti al cortile. Entra nella camera del Re e brucia.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [MUSICA SPIRITUALE](../musica_spirituale/)
-- [RE](../re/)
-- [MATTEO](../matteo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/cantico_map.svg)
+- [FILEMONE](../filemone/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

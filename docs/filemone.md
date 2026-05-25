@@ -14,8 +14,6 @@ tags:
 
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
 
-![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
 
 
 
@@ -71,24 +65,13 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 **Nessuna riconciliazione avviene senza che qualcuno paghi il debito.**
 **L'Evangelo trasforma la peggiore delle gerarchie nella più profonda delle fratellanze.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-- [PROVERBI](../proverbi/)
-- [PAGINE VERITA 2026](../pagine_verita_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/filemone_map.svg)
+- [TITO](../tito/)
+- [GENESI](../genesi/)
+- [PAOLO](../paolo/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

@@ -14,8 +14,6 @@ tags:
 
 # 📜 Lettere di Giovanni: Carne e Amore
 
-![Header lettere_giovanni](/blog-bibbia/assets/images/header_lettere_giovanni.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header lettere_giovanni](/blog-bibbia/assets/images/header_lettere_giovanni.svg)
 
 
 
@@ -172,24 +166,13 @@ Non è l'atto, ma la pratica che nega l'incarnazione.
 > 
 Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte entrambe.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [GIACOMO](../giacomo/)
-- [LAMENTAZIONI](../lamentazioni/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lettere_giovanni_map.svg)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
+- [APOCRIFI](../apocrifi/)
+- [NUMERI](../numeri/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

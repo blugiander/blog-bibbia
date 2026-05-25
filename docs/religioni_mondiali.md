@@ -14,8 +14,6 @@ tags:
 
 # Tutte le Religioni vs L'Evangelo: La Torre e la Croce
 
-![Header religioni_mondiali](/blog-bibbia/assets/images/header_religioni_mondiali.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header religioni_mondiali](/blog-bibbia/assets/images/header_religioni_mondiali.svg)
 
 
 
@@ -76,24 +70,13 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 **Il karma esige il pagamento. La croce lo ha già effettuato.**
 **Tutte le torri di Babele crolleranno. Solo la croce resterà in piedi.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [FILEMONE](../filemone/)
+- [EZECHIELE](../ezechiele/)
 - [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [TITO](../tito/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/religioni_mondiali_map.svg)
+- [SAMUELE](../samuele/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

@@ -14,8 +14,6 @@ tags:
 
 # Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
 
-![Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
 
 
 
@@ -77,25 +71,13 @@ Nessuna bandiera terrena salva. L'impalcatura geopolitica sta crollando verso il
 Israele non sarà salvato dalle armi, ma dal ritorno di Colui che hanno respinto.
 Orologio agli sgoccioli. Fuoco in arrivo.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-- [TITO](../tito/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/israele_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/israele_2026_timeline.svg)
+- [ATTI](../atti/)
+- [GIOVANNI](../giovanni/)
+- [TIMOTEO](../timoteo/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

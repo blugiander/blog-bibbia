@@ -14,8 +14,6 @@ tags:
 
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
 
-![Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
 
 
 
@@ -187,24 +181,13 @@ Genesi 1–3 non è cosmologia scientifica. È **cosmologia liturgica**.
 > 
 La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è sacro.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [GIUDA](../giuda/)
-- [TESSALONICESI](../tessalonicesi/)
-- [ESODO](../esodo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/genesi_map.svg)
+- [NUMERI](../numeri/)
+- [RUT](../rut/)
+- [FILEMONE](../filemone/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

@@ -14,8 +14,6 @@ tags:
 
 # 24 Aprile 2026: I Codici Nascosti Nelle Notizie
 
-![Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
 
 
 
@@ -71,25 +65,13 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 **La terra si spacca, i cuori si gelano, l'oro si arrugginisce.**
 **Smetti di sperare nella riparazione del mondo. Preparati per il Regno.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [FILEMONE](../filemone/)
-- [SALMI](../salmi/)
-- [GIACOMO](../giacomo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/notizie_24aprile2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/notizie_24aprile2026_timeline.svg)
+- [GIUDICI](../giudici/)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
+- [GIOVANNI](../giovanni/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

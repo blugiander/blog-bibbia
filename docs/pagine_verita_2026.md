@@ -14,8 +14,6 @@ tags:
 
 # 42 Pagine - Ipotesi Verità
 
-![Header pagine_verita_2026](/blog-bibbia/assets/images/header_pagine_verita_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header pagine_verita_2026](/blog-bibbia/assets/images/header_pagine_verita_2026.svg)
 
 
 
@@ -49,24 +43,13 @@ La Sposa non trema per gli scavi e non esulta per i pixel. La Parola è Persona 
 **SENTENZA:**
 Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata perduta, pertanto non è stata ritrovata. Avanti.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [MUSICA SPIRITUALE](../musica_spirituale/)
+- [APOCALISSE](../apocalisse/)
+- [GENESI](../genesi/)
 - [DANIELE](../daniele/)
-- [RELIGIONI MONDIALI](../religioni_mondiali/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/pagine_verita_2026_map.svg)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

@@ -14,8 +14,6 @@ tags:
 
 # Il Vangelo di Matteo: Il Re e il Regno
 
-![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
 
 
 
@@ -78,24 +72,13 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [OMS BIBBIA 2026](../oms_bibbia_2026/)
-- [ISRAELE 2026](../israele_2026/)
-- [PAOLO](../paolo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/matteo_map.svg)
+- [ATTI](../atti/)
+- [GIOBBE](../giobbe/)
+- [RE](../re/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

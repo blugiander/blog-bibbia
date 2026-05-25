@@ -14,8 +14,6 @@ tags:
 
 # 1 e 2 Samuele: Il Re e l'Unzione
 
-![Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
 
 
 
@@ -78,24 +72,13 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 **Smetti di cercare re di carne.**
 **L'armatura umana non ferma i giganti. Solo l'Unzione spezza il giogo.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [ANALISI 2026](../analisi_2026/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [RELIGIONI MONDIALI](../religioni_mondiali/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/samuele_map.svg)
+- [RUT](../rut/)
+- [TIMOTEO](../timoteo/)
+- [GIUDICI](../giudici/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

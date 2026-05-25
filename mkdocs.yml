@@ -31,8 +31,6 @@ site_dir: site
 extra_css:
   - assets/cyber-minimal.css
 
-extra_javascript:
-  - js/matrix.js
 
 nav:
   - Home: index.md

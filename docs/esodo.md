@@ -14,8 +14,6 @@ tags:
 
 # Esodo (Versione Teopolitica Integrata 2026)
 
-![Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
 
 
 
@@ -216,25 +210,13 @@ Cammina nel Fuoco.
 
 Resta umano.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [GIOVANNI](../giovanni/)
-- [LASTAMPA 2026](../lastampa_2026/)
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/esodo_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/esodo_timeline.svg)
+- [ATTI](../atti/)
+- [CHIESE TORINO](../chiese_torino/)
+- [GIUDICI](../giudici/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

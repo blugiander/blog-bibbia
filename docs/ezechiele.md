@@ -14,8 +14,6 @@ tags:
 
 # Ezechiele: La Gloria nell'Esilio
 
-![Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
 
 
 
@@ -81,24 +75,13 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [PAOLO](../paolo/)
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [GIACOMO](../giacomo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/ezechiele_map.svg)
+- [ESODO](../esodo/)
+- [GIUDICI](../giudici/)
+- [TITO](../tito/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

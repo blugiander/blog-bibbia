@@ -14,8 +14,6 @@ tags:
 
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
 
-![Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
 
 
 
@@ -203,24 +197,13 @@ Coscienza purificata
 Non è un cambiamento morale. È un cambiamento dell'essere.
 **Cristo non modifica il sistema: lo sostituisce.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [TESSALONICESI](../tessalonicesi/)
-- [FILEMONE](../filemone/)
-- [ISRAELE 2026](../israele_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/paolo_map.svg)
+- [LASTAMPA 2026](../lastampa_2026/)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

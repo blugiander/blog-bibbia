@@ -14,8 +14,6 @@ tags:
 
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti
 
-![Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
 
 
 
@@ -90,24 +84,13 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 **L'unzione non garantisce il carattere.**
 **Quando la verità oggettiva cade ("ognuno faceva ciò che pareva giusto"), il risultato non è la libertà. È la barbarie.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [SALMI](../salmi/)
-- [GIUDA](../giuda/)
 - [LETTERE GIOVANNI](../lettere_giovanni/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giudici_map.svg)
+- [EZECHIELE](../ezechiele/)
+- [CANTICO](../cantico/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

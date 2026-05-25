@@ -14,8 +14,6 @@ tags:
 
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
 
-![Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
 
 
 
@@ -183,24 +177,13 @@ Vuole redimere il corpo
 > 
 La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [NUMERI](../numeri/)
-- [APOCALISSE](../apocalisse/)
-- [GENESI](../genesi/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/apocrifi_map.svg)
+- [LETTERE GIOVANNI](../lettere_giovanni/)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

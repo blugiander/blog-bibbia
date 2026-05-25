@@ -14,8 +14,6 @@ tags:
 
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente
 
-![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
 
 
 
@@ -152,25 +146,13 @@ Non come concetto, ma come ontologia:
 
 - realtà non riducibile a dati
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [ISAIA](../isaia/)
-- [RUT](../rut/)
-- [OMS BIBBIA 2026](../oms_bibbia_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/analisi_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/analisi_2026_timeline.svg)
+- [TITO](../tito/)
+- [ISRAELE 2026](../israele_2026/)
+- [PROVERBI](../proverbi/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

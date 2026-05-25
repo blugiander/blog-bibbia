@@ -14,8 +14,6 @@ tags:
 
 # 📜 Il Vangelo di Giovanni: L'Architettura del Logos
 
-![Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
 
 
 
@@ -209,24 +203,13 @@ Giovanni costruisce un Vangelo che è:
 > 
 Giovanni non racconta la storia. Racconta la struttura dell'essere.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [RELIGIONI MONDIALI](../religioni_mondiali/)
-- [GENESI](../genesi/)
-- [APOCRIFI](../apocrifi/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giovanni_map.svg)
+- [LAMENTAZIONI](../lamentazioni/)
+- [SAMUELE](../samuele/)
+- [CHIESE TORINO](../chiese_torino/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

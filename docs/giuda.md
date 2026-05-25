@@ -14,8 +14,6 @@ tags:
 
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
 
-![Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
 
 
 
@@ -77,24 +71,13 @@ Grazia assoluta, intolleranza zero per l'infezione.
 **La grazia senza santità è un veleno letale.**
 **La battaglia si vince strappando anime dal fuoco, non negoziando con le fiamme.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [GIOBBE](../giobbe/)
-- [LASTAMPA 2026](../lastampa_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giuda_map.svg)
+- [ESDRA](../esdra/)
+- [DANIELE](../daniele/)
+- [TITO](../tito/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

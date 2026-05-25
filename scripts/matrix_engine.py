@@ -24,14 +24,7 @@ except ImportError:
 
 # Rimossi import audio/pdf/epub per Versione Leggera
 
-try:
-    import matplotlib
-    matplotlib.use('Agg')
-    import matplotlib.pyplot as plt
-    import networkx as nx
-    HAVE_GRAPHS = True
-except ImportError:
-    HAVE_GRAPHS = False
+# Rimossi import per grafici e reti
 
 try:
     from watchdog.observers import Observer
@@ -44,13 +37,6 @@ except ImportError:
 # CONFIGURAZIONE MATRIX
 # ==========================================
 DOCS_DIR = "docs"
-MAPS_DIR = os.path.join(DOCS_DIR, "maps")
-TIMELINE_DIR = os.path.join(DOCS_DIR, "timeline")
-ANALYTICS_DIR = os.path.join(DOCS_DIR, "analytics")
-ASSETS_DIR = os.path.join(DOCS_DIR, "assets", "images")
-
-for d in [MAPS_DIR, TIMELINE_DIR, ANALYTICS_DIR, ASSETS_DIR]:
-    os.makedirs(d, exist_ok=True)
 
 # Parole religiose da escludere dai tag per mantenere lo stile "Matrix neutro"
 RELIGIOUS_STOPWORDS = {"dio", "gesù", "cristo", "spirito", "santo", "chiesa", "bibbia", "signore", 
@@ -116,105 +102,7 @@ def generate_tags(text, num_tags=7):
         tags = ["sistema", "struttura", "analisi", "codice", "matrice"]
     return tags
 
-def extract_timeline_dates(text):
-    """Fase 5: Estrae riferimenti temporali (anni) per la timeline."""
-    years = re.findall(r'\b(19\d{2}|20\d{2})\b', text)
-    # Rimuovi duplicati ma mantieni ordine
-    unique_years = sorted(list(set(years)))
-    return unique_years
-
-# ==========================================
-# GENERAZIONE ASSET VISIVI (SVG, PNG)
-# ==========================================
-
-def generate_matrix_svg_map(basename, tags):
-    """Fase 4: Mappe concettuali (SVG)"""
-    random.seed(basename)
-    width, height = 800, 600
-    
-    svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" height="100%">\n'
-    svg += f'  <rect width="100%" height="100%" fill="{MATRIX_BG}"/>\n'
-    
-    nodes = [{"word": basename.upper(), "x": width//2, "y": height//2, "r": 40}]
-    for tag in tags:
-        angle = random.uniform(0, 2 * math.pi)
-        dist = random.uniform(100, 250)
-        nodes.append({
-            "word": tag.upper(),
-            "x": width//2 + int(math.cos(angle) * dist),
-            "y": height//2 + int(math.sin(angle) * dist),
-            "r": random.randint(15, 30)
-        })
-        
-    # Draw connections
-    for i in range(1, len(nodes)):
-        svg += f'  <line x1="{nodes[0]["x"]}" y1="{nodes[0]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#6AF089" stroke-width="2" opacity="0.5"/>\n'
-        if i > 1 and random.random() > 0.5:
-            svg += f'  <line x1="{nodes[i-1]["x"]}" y1="{nodes[i-1]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>\n'
-
-    # Draw nodes
-    for node in nodes:
-        color = random.choice(MATRIX_GREENS)
-        svg += f'  <circle cx="{node["x"]}" cy="{node["y"]}" r="{node["r"]}" fill="{MATRIX_BG}" stroke="{color}" stroke-width="3"/>\n'
-        font_size = min(14, node["r"] - 2) if node["word"] != basename.upper() else 16
-        svg += f'  <text x="{node["x"]}" y="{node["y"]}" fill="{color}" font-family="monospace" font-size="{font_size}" font-weight="bold" text-anchor="middle" alignment-baseline="middle">{node["word"][:10]}</text>\n'
-
-    svg += '</svg>'
-    
-    filepath = os.path.join(MAPS_DIR, f"{basename}_map.svg")
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(svg)
-    return filepath
-
-def generate_timeline_svg(basename, dates):
-    """Fase 5: Genera timeline SVG se ci sono date."""
-    if not dates:
-        return None
-        
-    width, height = 800, 200
-    svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" height="100%">\n'
-    svg += f'  <rect width="100%" height="100%" fill="{MATRIX_BG}"/>\n'
-    svg += f'  <line x1="50" y1="{height//2}" x2="{width-50}" y2="{height//2}" stroke="#6AF089" stroke-width="4"/>\n'
-    
-    step = (width - 100) / max(1, len(dates) - 1)
-    for i, date in enumerate(dates):
-        x = 50 + (i * step)
-        y_text = height//2 - 20 if i % 2 == 0 else height//2 + 35
-        svg += f'  <circle cx="{x}" cy="{height//2}" r="8" fill="#6AF089"/>\n'
-        svg += f'  <text x="{x}" y="{y_text}" fill="#E0E0E0" font-family="monospace" font-size="16" text-anchor="middle">{date}</text>\n'
-        
-    svg += '</svg>'
-    filepath = os.path.join(TIMELINE_DIR, f"{basename}_timeline.svg")
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(svg)
-    return filepath
-
-def generate_analytics_png(basename, tags):
-    """Fase 6: Genera grafici semantici PNG usando matplotlib se disponibile."""
-    if not HAVE_GRAPHS or not tags:
-        return None
-        
-    plt.figure(figsize=(8, 4))
-    plt.style.use('dark_background')
-    
-    # Dati finti basati sui tag per dare l\'illusione di un\'analisi profonda
-    values = [random.randint(10, 100) for _ in tags]
-    values.sort(reverse=True)
-    
-    bars = plt.bar(tags, values, color='#6AF089')
-    for bar in bars:
-        bar.set_edgecolor('#5CE07A')
-        
-    plt.title(f"ANALISI FREQUENZE: {basename.upper()}", color='#6AF089', fontname='monospace')
-    plt.xticks(rotation=45, color='#E0E0E0', fontname='monospace')
-    plt.yticks(color='#E0E0E0', fontname='monospace')
-    plt.grid(color='#2A2A2A', linestyle='--', linewidth=0.5, alpha=0.5)
-    plt.tight_layout()
-    
-    filepath = os.path.join(ANALYTICS_DIR, f"{basename}_analytics.png")
-    plt.savefig(filepath, facecolor='#1A1A1A', dpi=150)
-    plt.close()
-    return filepath
+# Funzioni SVG, Timeline, e Grafici rimosse per tema Cyber Minimal.
 
 # PDF, EPUB, AUDIO rimossi nella Versione Leggera
 
@@ -273,15 +161,7 @@ def process_file(filepath, all_files):
     tags = generate_tags(text_for_nlp)
     content = ensure_yaml_frontmatter(content, tags)
     
-    # Fase 4: Mappa Concettuale
-    map_path = generate_matrix_svg_map(basename, tags)
-    
-    # Fase 5: Timeline
-    dates = extract_timeline_dates(content)
-    timeline_path = generate_timeline_svg(basename, dates)
-    
-    # Fase 6: Analisi e Grafici
-    analytics_path = generate_analytics_png(basename, tags)
+    # Mappe, timeline e analytics rimossi per tema Cyber Minimal.
     
     # Nessuna esportazione (Versione Leggera)
     
@@ -303,12 +183,8 @@ def process_file(filepath, all_files):
 </div>
 <!-- MATRIX_SUMMARY_END -->
 """
-    # Cerca l'immagine dell'header (da generazioni precedenti)
-    header_img_regex = r'(!\[Header.*?\]\(.*?\))'
-    if re.search(header_img_regex, content):
-        content = re.sub(header_img_regex, r'\1\n' + summary_block, content, count=1)
-    elif h1_match:
-        # Se non c'è header image, mettilo dopo l'H1
+    # Inserisci riassunto dopo l'H1
+    if h1_match:
         content = content.replace(h1_match.group(0), h1_match.group(0) + "\n" + summary_block, 1)
 
     # Costruisci il footer Matrix
@@ -316,15 +192,6 @@ def process_file(filepath, all_files):
     footer += '## COLLEGAMENTI UTILI\n<div class="matrix-links">\n'
     for link in links:
         footer += f"- [{link.upper().replace('_', ' ')}](../{link}/)\n"
-    footer += "</div>\n\n"
-    
-    footer += '## DATA ASSETS\n<div class="matrix-assets">\n'
-    if map_path:
-        footer += f"- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/{os.path.basename(map_path)})\n"
-    if timeline_path:
-        footer += f"- ⏱️ **Timeline**: [Visualizza SVG](../timeline/{os.path.basename(timeline_path)})\n"
-    if analytics_path:
-        footer += f"- 📊 **Analisi Semantica**: [Visualizza PNG](../analytics/{os.path.basename(analytics_path)})\n"
     footer += "</div>\n\n"
     
     footer += "<!-- MATRIX_FOOTER_END -->\n"

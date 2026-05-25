@@ -14,8 +14,6 @@ tags:
 
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
 
-![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
 
 
 
@@ -73,25 +67,13 @@ Il credente non si schiera con nazioni carnali, né sventola bandiere fatte di s
 **Conclusione:**
 Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cadono sulla terra, ma la guerra si vince o si perde nello Spirito. Prepararsi all'impatto finale.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [EZECHIELE](../ezechiele/)
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/radici_conflitto_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/radici_conflitto_2026_timeline.svg)
+- [SAMUELE](../samuele/)
+- [EUROPA RUSSIA 2026](../europa_russia_2026/)
+- [GENESI](../genesi/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

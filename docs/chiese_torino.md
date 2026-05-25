@@ -14,8 +14,6 @@ tags:
 
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
 
-![Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
 
 
 
@@ -79,24 +73,13 @@ L'etichetta "evangelica" non garantisce l'ingresso al banchetto. L'unica moneta 
 Bruciare le mappe umane. Cercare le coordinate dello Spirito.
 Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un consiglio d'amministrazione.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [LASTAMPA 2026](../lastampa_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/chiese_torino_map.svg)
+- [PROVERBI](../proverbi/)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [RUT](../rut/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

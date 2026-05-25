@@ -14,8 +14,6 @@ tags:
 
 # Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua
 
-![Header giacomo](/blog-bibbia/assets/images/header_giacomo.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header giacomo](/blog-bibbia/assets/images/header_giacomo.svg)
 
 
 
@@ -75,24 +69,13 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 **L'inferno non attacca solo dal di fuori, incendia le tue stesse parole.**
 **Dio ascolta il grido del povero prima del culto dell'ipocrita.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [GIUDICI](../giudici/)
-- [TIMOTEO](../timoteo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giacomo_map.svg)
+- [RE](../re/)
+- [NUMERI](../numeri/)
+- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

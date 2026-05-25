@@ -254,8 +254,6 @@ I Segreti della Scrittura
 
 # 1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)
 
-![Header daniele](/blog-bibbia/assets/images/header_daniele.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -264,11 +262,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header daniele](/blog-bibbia/assets/images/header_daniele.svg)
 
 
 
@@ -475,25 +469,13 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
       [Next &raquo;](../matteo/)
 
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
 - [TITO](../tito/)
-- [TEOPOLITICA 2026](../teopolitica_2026/)
-- [ESODO](../esodo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/daniele_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/daniele_timeline.svg)
+- [SAMUELE](../samuele/)
+- [LETTERE GIOVANNI](../lettere_giovanni/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

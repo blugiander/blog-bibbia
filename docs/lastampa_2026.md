@@ -14,8 +14,6 @@ tags:
 
 # I Codici della Stampa: Aprile 2026
 
-![Header lastampa_2026](/blog-bibbia/assets/images/header_lastampa_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header lastampa_2026](/blog-bibbia/assets/images/header_lastampa_2026.svg)
 
 
 
@@ -79,25 +73,13 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 **I giornali stampano la paura del mondo.**
 **Noi leggiamo la fine del loro regno.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [TITO](../tito/)
-- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
-- [LAMENTAZIONI](../lamentazioni/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lastampa_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/lastampa_2026_timeline.svg)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
+- [IRAN USA 2026](../iran_usa_2026/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

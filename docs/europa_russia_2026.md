@@ -14,8 +14,6 @@ tags:
 
 # Aprile 2026: Europa, Russia e le Catene d'Oro
 
-![Header europa_russia_2026](/blog-bibbia/assets/images/header_europa_russia_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header europa_russia_2026](/blog-bibbia/assets/images/header_europa_russia_2026.svg)
 
 
 
@@ -77,25 +71,13 @@ Cerca la Città il cui architetto e costruttore è Dio.
 **Smetti di sperare nell'economia. Le catene d'oro restano catene.**
 **Esci da Babilonia prima che l'oro prenda fuoco.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [RUT](../rut/)
-- [MATTEO](../matteo/)
+- [SALMI](../salmi/)
 - [TITO](../tito/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/europa_russia_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/europa_russia_2026_timeline.svg)
+- [GIACOMO](../giacomo/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

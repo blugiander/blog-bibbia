@@ -14,8 +14,6 @@ tags:
 
 # I Numeri: La Fornace del Deserto
 
-![Header numeri](/blog-bibbia/assets/images/header_numeri.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header numeri](/blog-bibbia/assets/images/header_numeri.svg)
 
 
 
@@ -78,24 +72,13 @@ Se non sei pronto a combattere, non vedrai mai la Terra.
 **Il deserto farà seccare la tua ribellione o le tue ossa.**
 **Smetti di mormorare. Guarda il serpente innalzato. Prendi la spada.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
+- [CHIESE TORINO](../chiese_torino/)
+- [ANALISI 2026](../analisi_2026/)
 - [GIOBBE](../giobbe/)
-- [PROVERBI](../proverbi/)
-- [ATTI](../atti/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/numeri_map.svg)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

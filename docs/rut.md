@@ -14,8 +14,6 @@ tags:
 
 # Rut: Il Redentore e la Grazia Straniera
 
-![Header rut](/blog-bibbia/assets/images/header_rut.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header rut](/blog-bibbia/assets/images/header_rut.svg)
 
 
 
@@ -80,24 +74,13 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 **Nessun abisso è troppo profondo per il Goel.**
 **Il re viene dalla polvere straniera, redenta a caro prezzo.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [TESSALONICESI](../tessalonicesi/)
-- [OMS BIBBIA 2026](../oms_bibbia_2026/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/rut_map.svg)
+- [TITO](../tito/)
+- [RE](../re/)
+- [CANTICO](../cantico/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

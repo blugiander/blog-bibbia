@@ -14,8 +14,6 @@ tags:
 
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
 
-![Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
 
 
 
@@ -77,24 +71,13 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 **Negli ultimi giorni la religione di facciata sarà l'inganno peggiore.**
 **Il vero leader non cerca applausi, custodisce il deposito e muore fedele.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-- [FILEMONE](../filemone/)
-- [MUSICA SPIRITUALE](../musica_spirituale/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/timoteo_map.svg)
+- [GIUDICI](../giudici/)
+- [ISAIA](../isaia/)
+- [ESDRA](../esdra/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

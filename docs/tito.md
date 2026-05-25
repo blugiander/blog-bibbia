@@ -14,8 +14,6 @@ tags:
 
 # Tito: Architettura nel Caos e la Grazia che Addestra
 
-![Header tito](/blog-bibbia/assets/images/header_tito.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header tito](/blog-bibbia/assets/images/header_tito.svg)
 
 
 
@@ -78,24 +72,13 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 **La leadership si fonda sul carattere, non sul palcoscenico.**
 **La grazia non perdona soltanto: ti addestra a fare la guerra al peccato.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [TESSALONICESI](../tessalonicesi/)
-- [RUT](../rut/)
-- [APOCALISSE](../apocalisse/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/tito_map.svg)
+- [DANIELE](../daniele/)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [EUROPA RUSSIA 2026](../europa_russia_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

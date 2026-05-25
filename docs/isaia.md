@@ -244,8 +244,6 @@ I Segreti della Scrittura
 
 # 1. Il Codice "66": La Struttura Frattale della Bibbia
 
-![Header isaia](/blog-bibbia/assets/images/header_isaia.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -254,11 +252,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header isaia](/blog-bibbia/assets/images/header_isaia.svg)
 
 
 
@@ -442,25 +436,13 @@ Isaia è:
       [Next &raquo;](../lamentazioni/)
 
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [DANIELE](../daniele/)
-- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
-- [IRAN USA 2026](../iran_usa_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/isaia_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/isaia_timeline.svg)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [GIACOMO](../giacomo/)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

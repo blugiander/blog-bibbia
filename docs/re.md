@@ -14,8 +14,6 @@ tags:
 
 # 1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni
 
-![Header re](/blog-bibbia/assets/images/header_re.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header re](/blog-bibbia/assets/images/header_re.svg)
 
 
 
@@ -82,24 +76,13 @@ Dio vomita fuori la nazione dalla Terra Promessa.
 **La diplomazia non salva dal giudizio.**
 **Solo il fuoco dell'Eterno brucia gli altari di Baal.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [ATTI](../atti/)
 - [MUSICA SPIRITUALE](../musica_spirituale/)
-- [IRAN USA 2026](../iran_usa_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/re_map.svg)
+- [TESSALONICESI](../tessalonicesi/)
+- [PAOLO](../paolo/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

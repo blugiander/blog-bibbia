@@ -14,8 +14,6 @@ tags:
 
 # L'Arma Sonora: Influenza Spirituale della Musica
 
-![Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
 
 
 
@@ -74,24 +68,13 @@ Non esiste musica neutrale.
 **Conclusione:**
 Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la tua voce e i tuoi strumenti come armi da fuoco contro il regno delle tenebre.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [FILEMONE](../filemone/)
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-- [SALMI](../salmi/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/musica_spirituale_map.svg)
+- [TESSALONICESI](../tessalonicesi/)
+- [LASTAMPA 2026](../lastampa_2026/)
+- [EUROPA RUSSIA 2026](../europa_russia_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

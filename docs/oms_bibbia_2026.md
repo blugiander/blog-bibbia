@@ -14,8 +14,6 @@ tags:
 
 # Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità
 
-![Header oms_bibbia_2026](/blog-bibbia/assets/images/header_oms_bibbia_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header oms_bibbia_2026](/blog-bibbia/assets/images/header_oms_bibbia_2026.svg)
 
 
 
@@ -71,24 +65,13 @@ I medici diventano i nuovi sacerdoti. I vaccini e le terapie genetiche i nuovi s
 **L'OMS tenta di costruire un paradiso senza Dio, creando l'infrastruttura per la Bestia.**
 **Il tuo corpo è stato comprato col sangue di Cristo. Non è sotto la giurisdizione di Ginevra.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [LETTERE GIOVANNI](../lettere_giovanni/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-- [LASTAMPA 2026](../lastampa_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/oms_bibbia_2026_map.svg)
+- [CANTICO](../cantico/)
+- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
+- [ESDRA](../esdra/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

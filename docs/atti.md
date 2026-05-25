@@ -14,8 +14,6 @@ tags:
 
 # 📜 Gli Atti: Autobiografia dello Spirito Santo
 
-![Header atti](/blog-bibbia/assets/images/header_atti.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header atti](/blog-bibbia/assets/images/header_atti.svg)
 
 
 
@@ -188,24 +182,13 @@ L'avverbio è il lieto fine. L'avverbio è la teologia. L'avverbio è la profezi
 > 
 Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [RUT](../rut/)
+- [MUSICA SPIRITUALE](../musica_spirituale/)
 - [PROVERBI](../proverbi/)
-- [ESODO](../esodo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/atti_map.svg)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

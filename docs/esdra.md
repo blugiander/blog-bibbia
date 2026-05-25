@@ -14,8 +14,6 @@ tags:
 
 # Esdra: Il Ritorno, l'Altare e la Radice Santa
 
-![Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
 
 
 
@@ -81,24 +75,13 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 **Nessun patto con l'infiltrazione.**
 **La Parola rivela sempre l'infezione della carne.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [TIMOTEO](../timoteo/)
-- [CHIESE TORINO](../chiese_torino/)
-- [TITO](../tito/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/esdra_map.svg)
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+- [GIACOMO](../giacomo/)
+- [NUMERI](../numeri/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

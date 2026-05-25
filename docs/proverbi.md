@@ -14,8 +14,6 @@ tags:
 
 # I Proverbi: Il Codice della Sapienza Viva
 
-![Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
 
 
 
@@ -86,24 +80,13 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 **La Sapienza non si impara. Si incarna.**
 **Taglia l'orgoglio. Brucia le parole vane. Scegli la Vita.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
+- [GIOBBE](../giobbe/)
 - [RELIGIONI MONDIALI](../religioni_mondiali/)
-- [CANTICO](../cantico/)
-- [PAGINE VERITA 2026](../pagine_verita_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/proverbi_map.svg)
+- [EUROPA RUSSIA 2026](../europa_russia_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

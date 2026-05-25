@@ -14,8 +14,6 @@ tags:
 
 # La Bestia Non Ha Corna. Ha un Profilo.
 
-![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
 
 
 
@@ -244,25 +238,13 @@ Non si sospende.
 
 Svegliati.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [NUMERI](../numeri/)
-- [OMS BIBBIA 2026](../oms_bibbia_2026/)
-- [RE](../re/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/teopolitica_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/teopolitica_2026_timeline.svg)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+- [MATTEO](../matteo/)
+- [PROVERBI](../proverbi/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

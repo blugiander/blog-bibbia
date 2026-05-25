@@ -14,8 +14,6 @@ tags:
 
 # Aprile 2026: Rumori di Guerra tra Iran e USA
 
-![Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
 
 
 
@@ -77,25 +71,13 @@ I missili cadranno o non cadranno. Il tuo spirito deve essere in piedi prima che
 **Lascia che i re di carne giochino con la polvere.**
 **Spegni il terrore. Fissa il Trono.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [MATTEO](../matteo/)
-- [NUMERI](../numeri/)
-- [PAOLO](../paolo/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/iran_usa_2026_map.svg)
-- ⏱️ **Timeline**: [Visualizza SVG](../timeline/iran_usa_2026_timeline.svg)
+- [TITO](../tito/)
+- [CHIESE TORINO](../chiese_torino/)
+- [APOCALISSE](../apocalisse/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

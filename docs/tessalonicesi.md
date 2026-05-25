@@ -14,8 +14,6 @@ tags:
 
 # 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato
 
-![Header tessalonicesi](/blog-bibbia/assets/images/header_tessalonicesi.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header tessalonicesi](/blog-bibbia/assets/images/header_tessalonicesi.svg)
 
 
 
@@ -77,24 +71,13 @@ Il Regno si aspetta lavorando, non oziando.
 **La vera escatologia produce vigilanza, resurrezione e sudore.**
 **L'Anticristo non è un rivale alla pari, è un insetto che attende il soffio del Re.**
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [EUROPA RUSSIA 2026](../europa_russia_2026/)
-- [RUT](../rut/)
-- [GAZA ISRAELE 2026](../gaza_israele_2026/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/tessalonicesi_map.svg)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [NUMERI](../numeri/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->

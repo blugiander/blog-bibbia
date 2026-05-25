@@ -14,8 +14,6 @@ tags:
 
 # 📜 Giobbe: L'Integrità della Ribellione
 
-![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
-
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
@@ -24,11 +22,7 @@ tags:
 <!-- MATRIX_SUMMARY_END -->
 
 
-
-
-
-
-
+![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
 
 
 
@@ -170,24 +164,13 @@ Il Libro di Giobbe insegna che:
 > 
 Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più vero.
 
-
-
-
-
-
-
 <!-- MATRIX_FOOTER_START -->
 <hr>
 ## COLLEGAMENTI UTILI
 <div class="matrix-links">
-- [ANALISI 2026](../analisi_2026/)
-- [GIUDICI](../giudici/)
-- [RUT](../rut/)
-</div>
-
-## DATA ASSETS
-<div class="matrix-assets">
-- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giobbe_map.svg)
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [NUMERI](../numeri/)
 </div>
 
 <!-- MATRIX_FOOTER_END -->
