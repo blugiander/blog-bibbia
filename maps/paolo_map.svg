@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
-  <rect width="100%" height="100%" fill="#030303"/>
-  <line x1="400" y1="300" x2="607" y2="175" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="222" y2="129" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="530" y2="264" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="385" y2="404" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="201" y2="366" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="559" y2="262" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="201" y1="366" x2="559" y2="262" stroke="#008F11" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="449" y2="72" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
-  <line x1="559" y1="262" x2="449" y2="72" stroke="#008F11" stroke-width="1" opacity="0.3"/>
-  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
-  <circle cx="607" cy="175" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="607" y="175" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LEGGE</text>
-  <circle cx="222" cy="129" r="20" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="222" y="129" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESTERIORE</text>
-  <circle cx="530" cy="264" r="26" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="530" y="264" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTERIORE</text>
-  <circle cx="385" cy="404" r="30" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="385" y="404" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EBREI</text>
-  <circle cx="201" cy="366" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="201" y="366" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESSERE</text>
-  <circle cx="559" cy="262" r="15" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="559" y="262" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
-  <circle cx="449" cy="72" r="30" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="449" y="72" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORGANISMO</text>
+  <rect width="100%" height="100%" fill="#1A1A1A"/>
+  <line x1="400" y1="300" x2="607" y2="175" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="222" y2="129" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="530" y2="264" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="385" y2="404" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="201" y2="366" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="559" y2="262" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="201" y1="366" x2="559" y2="262" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="449" y2="72" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
+  <line x1="559" y1="262" x2="449" y2="72" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
+  <text x="400" y="300" fill="#66CDAA" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <circle cx="607" cy="175" r="17" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
+  <text x="607" y="175" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LEGGE</text>
+  <circle cx="222" cy="129" r="20" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
+  <text x="222" y="129" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESTERIORE</text>
+  <circle cx="530" cy="264" r="26" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
+  <text x="530" y="264" fill="#7CB342" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">INTERIORE</text>
+  <circle cx="385" cy="404" r="30" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
+  <text x="385" y="404" fill="#7CB342" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EBREI</text>
+  <circle cx="201" cy="366" r="24" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
+  <text x="201" y="366" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ESSERE</text>
+  <circle cx="559" cy="262" r="15" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
+  <text x="559" y="262" fill="#98FB98" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <circle cx="449" cy="72" r="30" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
+  <text x="449" y="72" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ORGANISMO</text>
 </svg>
