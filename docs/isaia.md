@@ -259,6 +259,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Isaia è un microcosmo canonico:
 
 - 66 capitoli Ôåö 66 libri della Bibbia
@@ -437,6 +440,9 @@ Isaia è:
     
     
       [Next &raquo;](../lamentazioni/)
+
+
+
 
 
 

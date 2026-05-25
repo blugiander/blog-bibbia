@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi."
 
@@ -75,6 +78,9 @@ Guarda in alto. La tua liberazione si avvicina mentre il loro mondo si sgretola.
 
 **I giornali stampano la paura del mondo.**
 **Noi leggiamo la fine del loro regno.**
+
+
+
 
 
 

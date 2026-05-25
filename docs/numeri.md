@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "I vostri cadaveri cadranno in questo deserto."
 
@@ -74,6 +77,9 @@ Se non sei pronto a combattere, non vedrai mai la Terra.
 
 **Il deserto farà seccare la tua ribellione o le tue ossa.**
 **Smetti di mormorare. Guarda il serpente innalzato. Prendi la spada.**
+
+
+
 
 
 

@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui."
 
@@ -78,6 +81,9 @@ Dio vomita fuori la nazione dalla Terra Promessa.
 **I troni umani sono polvere.**
 **La diplomazia non salva dal giudizio.**
 **Solo il fuoco dell'Eterno brucia gli altari di Baal.**
+
+
+
 
 
 

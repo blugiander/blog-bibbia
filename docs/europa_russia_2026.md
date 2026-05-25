@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta."
 
@@ -73,6 +76,9 @@ Cerca la Città il cui architetto e costruttore è Dio.
 
 **Smetti di sperare nell'economia. Le catene d'oro restano catene.**
 **Esci da Babilonia prima che l'oro prenda fuoco.**
+
+
+
 
 
 

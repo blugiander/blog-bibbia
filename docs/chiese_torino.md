@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 **Target:** Mappa Istituzionale (Torino, evangelici.net)
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Decodifica in corso.
@@ -75,6 +78,9 @@ L'etichetta "evangelica" non garantisce l'ingresso al banchetto. L'unica moneta 
 **Conclusione:**
 Bruciare le mappe umane. Cercare le coordinate dello Spirito.
 Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un consiglio d'amministrazione.
+
+
+
 
 
 

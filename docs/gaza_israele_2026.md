@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 **Target:** Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Fuoco incrociato spirituale.
@@ -74,6 +77,9 @@ Nessuna bandiera terrena salva. Solo il Legno insanguinato resiste.
 **Conclusione:**
 Maledire le entità spirituali dell'odio. Piangere i morti innocenti, da entrambe le parti della barricata. Rifiutare l'idolatria politica.
 Il Medio Oriente non attende una risoluzione umana. Attende il ritorno del Re.
+
+
+
 
 
 

@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Analisi tecnica contro l'eresia e definizione ontologica dell'amore.*
 
 ---
@@ -168,6 +171,9 @@ Non è l'atto, ma la pratica che nega l'incarnazione.
 
 > 
 Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte entrambe.
+
+
+
 
 
 

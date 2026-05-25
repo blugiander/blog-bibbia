@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Il timore dell'Eterno è il principio della scienza."
 
@@ -82,6 +85,9 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 
 **La Sapienza non si impara. Si incarna.**
 **Taglia l'orgoglio. Brucia le parole vane. Scegli la Vita.**
+
+
+
 
 
 

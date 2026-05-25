@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono.*
 
 ---
@@ -183,6 +186,9 @@ Genesi 1–3 non è cosmologia scientifica. È **cosmologia liturgica**.
 
 > 
 La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è sacro.
+
+
+
 
 
 

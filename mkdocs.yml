@@ -29,7 +29,7 @@ docs_dir: docs
 site_dir: site
 
 extra_css:
-  - css/matrix.css
+  - assets/cyber-minimal.css
 
 extra_javascript:
   - js/matrix.js

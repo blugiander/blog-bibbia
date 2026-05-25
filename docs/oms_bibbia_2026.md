@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Egli ha detto nella sua superbia: 'Io sono un dio, siedo sul trono di Dio...'. Eppure tu sei un uomo e non Dio, per quanto tu faccia il tuo cuore simile al cuore di Dio." (Ezechiele 28:2)
 
@@ -67,6 +70,9 @@ I medici diventano i nuovi sacerdoti. I vaccini e le terapie genetiche i nuovi s
 **La vera guarigione richiede ravvedimento, la finta guarigione richiede sottomissione.**
 **L'OMS tenta di costruire un paradiso senza Dio, creando l'infrastruttura per la Bestia.**
 **Il tuo corpo è stato comprato col sangue di Cristo. Non è sotto la giurisdizione di Ginevra.**
+
+
+
 
 
 

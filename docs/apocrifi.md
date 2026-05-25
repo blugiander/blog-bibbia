@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Perché non è una questione politica, ma ontologica.*
 
 Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna della rivelazione biblica.
@@ -179,6 +182,9 @@ Vuole redimere il corpo
 
 > 
 La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
+
+
+
 
 
 

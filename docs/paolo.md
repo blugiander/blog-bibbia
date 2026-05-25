@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere.*
 
 ---
@@ -199,6 +202,9 @@ Coscienza purificata
 > 
 Non è un cambiamento morale. È un cambiamento dell'essere.
 **Cristo non modifica il sistema: lo sostituisce.**
+
+
+
 
 
 

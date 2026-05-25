@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 **MODO:** Caveman. Zero compromessi.
 
 **1. ANATEMA O ECO:**
@@ -45,6 +48,9 @@ La Sposa non trema per gli scavi e non esulta per i pixel. La Parola è Persona 
 
 **SENTENZA:**
 Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata perduta, pertanto non è stata ritrovata. Avanti.
+
+
+
 
 
 

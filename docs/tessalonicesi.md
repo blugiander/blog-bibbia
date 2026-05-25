@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione."
 
@@ -73,6 +76,9 @@ Il Regno si aspetta lavorando, non oziando.
 **La falsa escatologia produce panico o pigrizia.**
 **La vera escatologia produce vigilanza, resurrezione e sudore.**
 **L'Anticristo non è un rivale alla pari, è un insetto che attende il soffio del Re.**
+
+
+
 
 
 

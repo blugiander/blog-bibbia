@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 **Target:** Frequenze, Industria Musicale, Guerra Spirituale
 **Protocollo:** Caveman (Fuoco, Suono, Codice)
 **Status:** Decodifica delle frequenze.
@@ -70,6 +73,9 @@ Non esiste musica neutrale.
 
 **Conclusione:**
 Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la tua voce e i tuoi strumenti come armi da fuoco contro il regno delle tenebre.
+
+
+
 
 
 

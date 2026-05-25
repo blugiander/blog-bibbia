@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi."
 
@@ -86,6 +89,9 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 **Il compromesso non si stabilizza, marcisce.**
 **L'unzione non garantisce il carattere.**
 **Quando la verità oggettiva cade ("ognuno faceva ciò che pareva giusto"), il risultato non è la libertà. È la barbarie.**
+
+
+
 
 
 

@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me."
 
@@ -67,6 +70,9 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 **Le leggi umane si limitano a marchiare; la grazia rigenera.**
 **Nessuna riconciliazione avviene senza che qualcuno paghi il debito.**
 **L'Evangelo trasforma la peggiore delle gerarchie nella più profonda delle fratellanze.**
+
+
+
 
 
 

@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede."
 
@@ -71,6 +74,9 @@ Giacomo non è un marxista, è un profeta. L'accumulo di ricchezza a spese dei p
 **La teologia che non sporca le mani è filosofia morta.**
 **L'inferno non attacca solo dal di fuori, incendia le tue stesse parole.**
 **Dio ascolta il grido del povero prima del culto dell'ipocrita.**
+
+
+
 
 
 

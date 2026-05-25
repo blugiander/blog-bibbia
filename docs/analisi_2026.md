@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *La carne contro il codice: una mappa teologica dell'era digitale.*
 
 ---
@@ -148,6 +151,9 @@ Non come concetto, ma come ontologia:
 - vulnerabilità
 
 - realtà non riducibile a dati
+
+
+
 
 
 

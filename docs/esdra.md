@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
 
@@ -77,6 +80,9 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 **Nessuna ricostruzione senza altare.**
 **Nessun patto con l'infiltrazione.**
 **La Parola rivela sempre l'infezione della carne.**
+
+
+
 
 
 

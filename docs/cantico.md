@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio."
 
@@ -78,6 +81,9 @@ Il letargo è morte. La voce è resurrezione.
 
 **La religione ti dà regole. Il Cantico ti dà fuoco.**
 **Non fermarti al cortile. Entra nella camera del Re e brucia.**
+
+
+
 
 
 

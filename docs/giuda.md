@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre."
 
@@ -73,6 +76,9 @@ Grazia assoluta, intolleranza zero per l'infezione.
 **Il pericolo maggiore non è la persecuzione, è l'assimilazione.**
 **La grazia senza santità è un veleno letale.**
 **La battaglia si vince strappando anime dal fuoco, non negoziando con le fiamme.**
+
+
+
 
 
 

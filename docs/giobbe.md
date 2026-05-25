@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo.*
 
 ---
@@ -166,6 +169,9 @@ Il Libro di Giobbe insegna che:
 
 > 
 Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più vero.
+
+
+
 
 
 

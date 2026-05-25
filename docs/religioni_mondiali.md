@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12)
 
@@ -72,6 +75,9 @@ Dio non ha creato l'universo fisico per poi scartarlo come un errore. La materia
 **La religione ti dice cosa devi fare per sopravvivere. L'Evangelo ti dice che sei già morto e Cristo è la tua vita.**
 **Il karma esige il pagamento. La croce lo ha già effettuato.**
 **Tutte le torri di Babele crolleranno. Solo la croce resterà in piedi.**
+
+
+
 
 
 

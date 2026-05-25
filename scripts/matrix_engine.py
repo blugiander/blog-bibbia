@@ -57,9 +57,9 @@ RELIGIOUS_STOPWORDS = {"dio", "gesù", "cristo", "spirito", "santo", "chiesa", "
                        "angelo", "angeli", "demonio", "satana", "peccato", "salvezza", "grazia", 
                        "religione", "religioso", "fede", "credere", "preghiera", "pregare"}
 
-# Colori Matrix Elegante (Versione Leggera)
+# Colori Cyber Minimal
 MATRIX_BG = "#1A1A1A"
-MATRIX_GREENS = ["#8FBC8F", "#98FB98", "#66CDAA", "#7CB342"]
+MATRIX_GREENS = ["#6AF089", "#5CE07A", "#4CD06A", "#78F596"]
 
 # ==========================================
 # FUNZIONI NLP E TESTO
@@ -148,9 +148,9 @@ def generate_matrix_svg_map(basename, tags):
         
     # Draw connections
     for i in range(1, len(nodes)):
-        svg += f'  <line x1="{nodes[0]["x"]}" y1="{nodes[0]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>\n'
+        svg += f'  <line x1="{nodes[0]["x"]}" y1="{nodes[0]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#6AF089" stroke-width="2" opacity="0.5"/>\n'
         if i > 1 and random.random() > 0.5:
-            svg += f'  <line x1="{nodes[i-1]["x"]}" y1="{nodes[i-1]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>\n'
+            svg += f'  <line x1="{nodes[i-1]["x"]}" y1="{nodes[i-1]["y"]}" x2="{nodes[i]["x"]}" y2="{nodes[i]["y"]}" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>\n'
 
     # Draw nodes
     for node in nodes:
@@ -174,14 +174,14 @@ def generate_timeline_svg(basename, dates):
     width, height = 800, 200
     svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" height="100%">\n'
     svg += f'  <rect width="100%" height="100%" fill="{MATRIX_BG}"/>\n'
-    svg += f'  <line x1="50" y1="{height//2}" x2="{width-50}" y2="{height//2}" stroke="#8FBC8F" stroke-width="4"/>\n'
+    svg += f'  <line x1="50" y1="{height//2}" x2="{width-50}" y2="{height//2}" stroke="#6AF089" stroke-width="4"/>\n'
     
     step = (width - 100) / max(1, len(dates) - 1)
     for i, date in enumerate(dates):
         x = 50 + (i * step)
         y_text = height//2 - 20 if i % 2 == 0 else height//2 + 35
-        svg += f'  <circle cx="{x}" cy="{height//2}" r="8" fill="#8FBC8F"/>\n'
-        svg += f'  <text x="{x}" y="{y_text}" fill="#98FB98" font-family="monospace" font-size="16" text-anchor="middle">{date}</text>\n'
+        svg += f'  <circle cx="{x}" cy="{height//2}" r="8" fill="#6AF089"/>\n'
+        svg += f'  <text x="{x}" y="{y_text}" fill="#E0E0E0" font-family="monospace" font-size="16" text-anchor="middle">{date}</text>\n'
         
     svg += '</svg>'
     filepath = os.path.join(TIMELINE_DIR, f"{basename}_timeline.svg")
@@ -201,14 +201,14 @@ def generate_analytics_png(basename, tags):
     values = [random.randint(10, 100) for _ in tags]
     values.sort(reverse=True)
     
-    bars = plt.bar(tags, values, color='#8FBC8F')
+    bars = plt.bar(tags, values, color='#6AF089')
     for bar in bars:
-        bar.set_edgecolor('#98FB98')
+        bar.set_edgecolor('#5CE07A')
         
-    plt.title(f"ANALISI FREQUENZE: {basename.upper()}", color='#8FBC8F', fontname='monospace')
-    plt.xticks(rotation=45, color='#8FBC8F', fontname='monospace')
-    plt.yticks(color='#8FBC8F', fontname='monospace')
-    plt.grid(color='#66CDAA', linestyle='--', linewidth=0.5, alpha=0.5)
+    plt.title(f"ANALISI FREQUENZE: {basename.upper()}", color='#6AF089', fontname='monospace')
+    plt.xticks(rotation=45, color='#E0E0E0', fontname='monospace')
+    plt.yticks(color='#E0E0E0', fontname='monospace')
+    plt.grid(color='#2A2A2A', linestyle='--', linewidth=0.5, alpha=0.5)
     plt.tight_layout()
     
     filepath = os.path.join(ANALYTICS_DIR, f"{basename}_analytics.png")

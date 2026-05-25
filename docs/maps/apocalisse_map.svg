@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
   <rect width="100%" height="100%" fill="#1A1A1A"/>
-  <line x1="400" y1="300" x2="314" y2="108" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="252" y2="127" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="314" y1="108" x2="252" y2="127" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="489" y2="141" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="252" y1="127" x2="489" y2="141" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="184" y2="335" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="489" y1="141" x2="184" y2="335" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="316" y2="198" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="184" y1="335" x2="316" y2="198" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="433" y2="424" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="316" y1="198" x2="433" y2="424" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="309" y2="429" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="400" y="300" fill="#7CB342" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCALISSE</text>
-  <circle cx="314" cy="108" r="23" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="314" y="108" fill="#7CB342" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCALISSE</text>
-  <circle cx="252" cy="127" r="26" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="252" y="127" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BESTIA</text>
-  <circle cx="489" cy="141" r="21" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="489" y="141" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MALE</text>
-  <circle cx="184" cy="335" r="19" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="184" y="335" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SEMPRE</text>
-  <circle cx="316" cy="198" r="18" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="316" y="198" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FALLIMENTO</text>
-  <circle cx="433" cy="424" r="20" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="433" y="424" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IMPERIALE</text>
-  <circle cx="309" cy="429" r="21" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="309" y="429" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUMERI</text>
+  <line x1="400" y1="300" x2="314" y2="108" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="252" y2="127" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="314" y1="108" x2="252" y2="127" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="489" y2="141" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="252" y1="127" x2="489" y2="141" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="184" y2="335" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="489" y1="141" x2="184" y2="335" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="316" y2="198" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="184" y1="335" x2="316" y2="198" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="433" y2="424" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="316" y1="198" x2="433" y2="424" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="309" y2="429" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="400" y="300" fill="#78F596" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCALISSE</text>
+  <circle cx="314" cy="108" r="23" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="314" y="108" fill="#78F596" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOCALISSE</text>
+  <circle cx="252" cy="127" r="26" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="252" y="127" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BESTIA</text>
+  <circle cx="489" cy="141" r="21" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="489" y="141" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MALE</text>
+  <circle cx="184" cy="335" r="19" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="184" y="335" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SEMPRE</text>
+  <circle cx="316" cy="198" r="18" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="316" y="198" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FALLIMENTO</text>
+  <circle cx="433" cy="424" r="20" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="433" y="424" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IMPERIALE</text>
+  <circle cx="309" cy="429" r="21" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="309" y="429" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUMERI</text>
 </svg>

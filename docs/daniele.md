@@ -269,6 +269,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
 Gli imperi sono visti dall'esterno come splendore, dall'interno come fragilità.
 
@@ -470,6 +473,9 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
     
     
       [Next &raquo;](../matteo/)
+
+
+
 
 
 

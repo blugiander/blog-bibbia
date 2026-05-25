@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..."
 
@@ -74,6 +77,9 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 **Il caos culturale non è una scusa, è il campo di battaglia.**
 **La leadership si fonda sul carattere, non sul palcoscenico.**
 **La grazia non perdona soltanto: ti addestra a fare la guerra al peccato.**
+
+
+
 
 
 

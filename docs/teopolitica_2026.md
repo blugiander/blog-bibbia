@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Il fuoco non si analizza. Si teme, o si attraversa.*
 
 ---
@@ -240,6 +243,9 @@ Non si sospende.
 È già adesso.
 
 Svegliati.
+
+
+
 
 
 

@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Il Vangelo che non narra la storia: la interpreta dall'eternità.*
 
 ---
@@ -205,6 +208,9 @@ Giovanni costruisce un Vangelo che è:
 
 > 
 Giovanni non racconta la storia. Racconta la struttura dell'essere.
+
+
+
 
 
 

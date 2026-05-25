@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi."
 
@@ -73,6 +76,9 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 **La chiesa senza struttura morale crolla sotto la cultura.**
 **Negli ultimi giorni la religione di facciata sarà l'inganno peggiore.**
 **Il vero leader non cerca applausi, custodisce il deposito e muore fedele.**
+
+
+
 
 
 

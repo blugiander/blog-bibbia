@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 **Target:** Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12)
 **Protocollo:** Caveman (Fuoco e Sangue)
 **Status:** Orologio escatologico in marcia.
@@ -73,6 +76,9 @@ Piangeranno guardando le mani bucate. Il riconoscimento brutale del Messia.
 Nessuna bandiera terrena salva. L'impalcatura geopolitica sta crollando verso il disegno finale.
 Israele non sarà salvato dalle armi, ma dal ritorno di Colui che hanno respinto.
 Orologio agli sgoccioli. Fuoco in arrivo.
+
+
+
 
 
 

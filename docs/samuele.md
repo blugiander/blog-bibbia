@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "L'Eterno non guarda a quello a cui guarda l'uomo."
 
@@ -74,6 +77,9 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 **Smetti di cercare re di carne.**
 **L'armatura umana non ferma i giganti. Solo l'Unzione spezza il giogo.**
+
+
+
 
 
 

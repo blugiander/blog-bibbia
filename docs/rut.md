@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio."
 
@@ -76,6 +79,9 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 **La Legge esclude, la Grazia include.**
 **Nessun abisso è troppo profondo per il Goel.**
 **Il re viene dalla polvere straniera, redenta a caro prezzo.**
+
+
+
 
 
 

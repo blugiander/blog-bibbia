@@ -1,62 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
-  <rect width="100%" height="100%" fill="#030303"/>
-  <rect x="45" y="242" width="40" height="9" fill="#00FF41" opacity="0.5438198041233097"/>
-  <rect x="125" y="284" width="25" height="7" fill="#003B00" opacity="0.6975175686002547"/>
-  <rect x="525" y="68" width="24" height="7" fill="#00FF41" opacity="0.3032118777356131"/>
-  <rect x="134" y="144" width="29" height="7" fill="#003B00" opacity="0.4224364271091866"/>
-  <rect x="67" y="71" width="42" height="9" fill="#00FF41" opacity="0.2352148640095778"/>
-  <rect x="720" y="225" width="23" height="9" fill="#003B00" opacity="0.6987512095416522"/>
-  <rect x="98" y="86" width="9" height="8" fill="#008F11" opacity="0.3229102520601571"/>
-  <rect x="754" y="181" width="6" height="3" fill="#008F11" opacity="0.48912029180607586"/>
-  <rect x="6" y="188" width="38" height="9" fill="#33FF66" opacity="0.5876502331141961"/>
-  <rect x="140" y="194" width="16" height="9" fill="#008F11" opacity="0.5603485072686918"/>
-  <rect x="1" y="18" width="19" height="4" fill="#33FF66" opacity="0.47518730128310127"/>
-  <line x1="0" y1="155" x2="800" y2="155" stroke="#008F11" stroke-width="3" opacity="0.27022626327976834"/>
-  <line x1="0" y1="133" x2="800" y2="133" stroke="#00FF41" stroke-width="1" opacity="0.37446155335908327"/>
-  <line x1="0" y1="197" x2="800" y2="197" stroke="#008F11" stroke-width="2" opacity="0.48960695125380355"/>
-  <line x1="0" y1="176" x2="800" y2="176" stroke="#00FF41" stroke-width="1" opacity="0.31831599409235833"/>
-  <line x1="0" y1="56" x2="800" y2="56" stroke="#00FF41" stroke-width="2" opacity="0.3204615130987734"/>
-  <line x1="0" y1="15" x2="800" y2="15" stroke="#008F11" stroke-width="2" opacity="0.3031795264340007"/>
-  <line x1="0" y1="71" x2="800" y2="71" stroke="#00FF41" stroke-width="3" opacity="0.2306964158104492"/>
-  <line x1="0" y1="87" x2="800" y2="87" stroke="#008F11" stroke-width="3" opacity="0.2990455729501712"/>
-  <line x1="0" y1="232" x2="800" y2="232" stroke="#00FF41" stroke-width="1" opacity="0.20930408190939076"/>
-  <line x1="0" y1="92" x2="800" y2="92" stroke="#33FF66" stroke-width="1" opacity="0.22954420110242693"/>
-  <line x1="0" y1="38" x2="800" y2="38" stroke="#008F11" stroke-width="2" opacity="0.4558097718860434"/>
-  <line x1="0" y1="12" x2="800" y2="12" stroke="#00FF41" stroke-width="1" opacity="0.2868028923029065"/>
-  <line x1="0" y1="63" x2="800" y2="63" stroke="#00FF41" stroke-width="1" opacity="0.2992117265596081"/>
-  <line x1="0" y1="300" x2="800" y2="300" stroke="#003B00" stroke-width="1" opacity="0.37567654344639867"/>
-  <text x="331" y="270" fill="#003B00" font-family="monospace" font-size="17" opacity="0.6737953651713859">1%DNIS*</text>
-  <text x="389" y="206" fill="#008F11" font-family="monospace" font-size="21" opacity="0.891454905277105">TGQZRI</text>
-  <text x="532" y="139" fill="#003B00" font-family="monospace" font-size="18" opacity="0.7289568901837326">TGND</text>
-  <text x="456" y="128" fill="#003B00" font-family="monospace" font-size="10" opacity="0.6799412440446877">NA</text>
-  <text x="643" y="120" fill="#003B00" font-family="monospace" font-size="23" opacity="0.7296465599668016">O</text>
-  <text x="568" y="69" fill="#33FF66" font-family="monospace" font-size="15" opacity="0.5399419079385195">0^%Q</text>
-  <text x="164" y="89" fill="#00FF41" font-family="monospace" font-size="14" opacity="0.5318999539314131">J</text>
-  <text x="218" y="250" fill="#00FF41" font-family="monospace" font-size="9" opacity="0.6099818610327559">0SGF%S</text>
-  <text x="199" y="144" fill="#00FF41" font-family="monospace" font-size="8" opacity="0.82331879708082">O&@XZ</text>
-  <text x="298" y="129" fill="#008F11" font-family="monospace" font-size="21" opacity="0.6394428649942407">^&X0</text>
-  <text x="755" y="103" fill="#003B00" font-family="monospace" font-size="21" opacity="0.4138176957164846">%$</text>
-  <text x="578" y="51" fill="#00FF41" font-family="monospace" font-size="21" opacity="0.5386789803401255">&IW^@</text>
-  <text x="521" y="62" fill="#008F11" font-family="monospace" font-size="15" opacity="0.8971466371768737">*N</text>
-  <text x="57" y="10" fill="#00FF41" font-family="monospace" font-size="14" opacity="0.3383237991151039">@QC##ZI</text>
-  <text x="302" y="291" fill="#00FF41" font-family="monospace" font-size="20" opacity="0.7964287749406709">RNT@HQ</text>
-  <text x="517" y="239" fill="#33FF66" font-family="monospace" font-size="11" opacity="0.379591388156145">$M#R*VS</text>
-  <text x="536" y="299" fill="#008F11" font-family="monospace" font-size="16" opacity="0.6981502109131752">A&BIVH</text>
-  <text x="13" y="246" fill="#003B00" font-family="monospace" font-size="17" opacity="0.6843137544937251">#AO</text>
-  <text x="582" y="3" fill="#00FF41" font-family="monospace" font-size="17" opacity="0.8585629562881099">KC</text>
-  <text x="80" y="286" fill="#003B00" font-family="monospace" font-size="14" opacity="0.561805348321651">0XIDHT</text>
-  <text x="281" y="202" fill="#003B00" font-family="monospace" font-size="16" opacity="0.7120310352119379">L#DLKNQA</text>
-  <text x="159" y="51" fill="#003B00" font-family="monospace" font-size="10" opacity="0.4880282624297007">U#T</text>
-  <text x="789" y="36" fill="#008F11" font-family="monospace" font-size="15" opacity="0.32975166800133926">VTL</text>
-  <text x="6" y="27" fill="#00FF41" font-family="monospace" font-size="11" opacity="0.324988665109388">%#G1YOWT</text>
-  <text x="286" y="211" fill="#003B00" font-family="monospace" font-size="17" opacity="0.3084343044824553">B</text>
-  <text x="79" y="127" fill="#003B00" font-family="monospace" font-size="14" opacity="0.3563636557843588">ON</text>
-  <text x="487" y="145" fill="#008F11" font-family="monospace" font-size="24" opacity="0.5309106704502841">SX*G</text>
-  <text x="740" y="130" fill="#003B00" font-family="monospace" font-size="23" opacity="0.713156121736304">DIG</text>
-  <text x="446" y="155" fill="#008F11" font-family="monospace" font-size="9" opacity="0.7605157960273681">X</text>
-  <text x="714" y="182" fill="#33FF66" font-family="monospace" font-size="8" opacity="0.49719317139309355">V</text>
-  <text x="283" y="139" fill="#003B00" font-family="monospace" font-size="14" opacity="0.6723880268390756">KDA^MWF</text>
-  <text x="322" y="121" fill="#003B00" font-family="monospace" font-size="13" opacity="0.32028773325563303">M</text>
-  <text x="287" y="296" fill="#00FF41" font-family="monospace" font-size="14" opacity="0.7121580159017437">TEQBER#</text>
-  <text x="50%" y="50%" fill="#00FF41" font-family="monospace" font-size="32" font-weight="bold" text-anchor="middle" alignment-baseline="middle" opacity="0.8">SYSTEM__ED925AB6</text>
+  <rect width="100%" height="100%" fill="#1A1A1A"/>
+  <line x1="0" y1="30.0" x2="800" y2="30.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="80.0" y1="0" x2="80.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="60.0" x2="800" y2="60.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="160.0" y1="0" x2="160.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="90.0" x2="800" y2="90.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="240.0" y1="0" x2="240.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="120.0" x2="800" y2="120.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="320.0" y1="0" x2="320.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="150.0" x2="800" y2="150.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="400.0" y1="0" x2="400.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="180.0" x2="800" y2="180.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="480.0" y1="0" x2="480.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="210.0" x2="800" y2="210.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="560.0" y1="0" x2="560.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="240.0" x2="800" y2="240.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="640.0" y1="0" x2="640.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="270.0" x2="800" y2="270.0" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="720.0" y1="0" x2="720.0" y2="300" stroke="#2A2A2A" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="32" x2="535" y2="32" stroke="#6AF089" stroke-width="1" opacity="0.5"/>
+  <line x1="0" y1="235" x2="177" y2="235" stroke="#6AF089" stroke-width="1" opacity="0.5"/>
+  <line x1="0" y1="72" x2="618" y2="72" stroke="#6AF089" stroke-width="1" opacity="0.5"/>
+  <circle cx="384" cy="157" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="517" cy="272" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="147" cy="162" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="729" cy="198" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="733" cy="63" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="356" cy="77" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="627" cy="154" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="404" cy="177" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="326" cy="285" r="2" fill="#6AF089" opacity="0.7"/>
+  <circle cx="77" cy="81" r="2" fill="#6AF089" opacity="0.7"/>
+  <text x="50%" y="50%" fill="#E0E0E0" font-family="monospace" font-size="28" font-weight="300" letter-spacing="4" text-anchor="middle" alignment-baseline="middle">ID::ED925AB6</text>
 </svg>

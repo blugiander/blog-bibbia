@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."
 
@@ -71,6 +74,9 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 **La falsa pace anestetizza, il vero profeta piange sulle rovine.**
 **L'alfabeto del dolore porta alla speranza oggettiva.**
 **Solo chi riconosce la giustizia del giudizio può gustare la fedeltà del mattino.**
+
+
+
 
 
 

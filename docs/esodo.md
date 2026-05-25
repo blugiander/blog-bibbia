@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 ### La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale
 
 *LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità concessa.*
@@ -212,6 +215,9 @@ Esci dal sistema.
 Cammina nel Fuoco.
 
 Resta umano.**
+
+
+
 
 
 

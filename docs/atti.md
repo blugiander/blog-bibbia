@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 *Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte.*
 
 ---
@@ -184,6 +187,9 @@ L'avverbio è il lieto fine. L'avverbio è la teologia. L'avverbio è la profezi
 
 > 
 Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
+
+
+
 
 
 

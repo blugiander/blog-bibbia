@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Le mie lacrime sono diventate il mio cibo giorno e notte."
 
@@ -92,6 +95,9 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 **La preghiera non è un pensiero. È l'impatto tra la terra e il cielo.**
 **Parole di fuoco. Brucia la mente. Parla allo spirito.**
+
+
+
 
 
 

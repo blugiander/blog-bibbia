@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
   <rect width="100%" height="100%" fill="#1A1A1A"/>
-  <line x1="400" y1="300" x2="309" y2="185" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="619" y2="291" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="309" y1="185" x2="619" y2="291" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="613" y2="201" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="646" y2="333" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="536" y2="372" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="646" y1="333" x2="536" y2="372" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="259" y2="257" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="536" y1="372" x2="259" y2="257" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="498" y2="183" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#7CB342" stroke-width="3"/>
-  <text x="400" y="300" fill="#7CB342" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
-  <circle cx="309" cy="185" r="15" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="309" y="185" fill="#98FB98" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
-  <circle cx="619" cy="291" r="22" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="619" y="291" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCHIAVO</text>
-  <circle cx="613" cy="201" r="26" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="613" y="201" fill="#66CDAA" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
-  <circle cx="646" cy="333" r="28" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="646" y="333" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ONESIMO</text>
-  <circle cx="536" cy="372" r="26" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="536" y="372" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
-  <circle cx="259" cy="257" r="26" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="259" y="257" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ADDEBITALO</text>
-  <circle cx="498" cy="183" r="20" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="498" y="183" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EVANGELO</text>
+  <line x1="400" y1="300" x2="309" y2="185" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="619" y2="291" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="309" y1="185" x2="619" y2="291" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="613" y2="201" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="646" y2="333" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="536" y2="372" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="646" y1="333" x2="536" y2="372" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="259" y2="257" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="536" y1="372" x2="259" y2="257" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="498" y2="183" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#78F596" stroke-width="3"/>
+  <text x="400" y="300" fill="#78F596" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
+  <circle cx="309" cy="185" r="15" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="309" y="185" fill="#5CE07A" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <circle cx="619" cy="291" r="22" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="619" y="291" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCHIAVO</text>
+  <circle cx="613" cy="201" r="26" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="613" y="201" fill="#4CD06A" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FILEMONE</text>
+  <circle cx="646" cy="333" r="28" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="646" y="333" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ONESIMO</text>
+  <circle cx="536" cy="372" r="26" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="536" y="372" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
+  <circle cx="259" cy="257" r="26" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="259" y="257" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ADDEBITALO</text>
+  <circle cx="498" cy="183" r="20" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="498" y="183" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EVANGELO</text>
 </svg>

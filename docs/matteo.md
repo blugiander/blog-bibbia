@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo."
 
@@ -74,6 +77,9 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
+
+
+
 
 
 

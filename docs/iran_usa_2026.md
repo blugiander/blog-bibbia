@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi."
 
@@ -73,6 +76,9 @@ I missili cadranno o non cadranno. Il tuo spirito deve essere in piedi prima che
 
 **Lascia che i re di carne giochino con la polvere.**
 **Spegni il terrore. Fissa il Trono.**
+
+
+
 
 
 

@@ -285,6 +285,9 @@ I Segreti della Scrittura
 
 
 
+
+
+
 Nell'Apocalisse i numeri non contano quantità: definiscono essenze.
 
 ### 🜂 7 — La Completezza Divina
@@ -467,6 +470,9 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
     
     
       [Next &raquo;](../apocrifi/)
+
+
+
 
 
 

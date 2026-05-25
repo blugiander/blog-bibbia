@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
   <rect width="100%" height="100%" fill="#1A1A1A"/>
-  <line x1="400" y1="300" x2="425" y2="142" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="339" y2="516" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="425" y1="142" x2="339" y2="516" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="475" y2="486" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="339" y1="516" x2="475" y2="486" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="337" y2="396" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="400" y1="300" x2="287" y2="218" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="337" y1="396" x2="287" y2="218" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="284" y2="316" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="287" y1="218" x2="284" y2="316" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="300" x2="580" y2="260" stroke="#8FBC8F" stroke-width="2" opacity="0.5"/>
-  <line x1="284" y1="316" x2="580" y2="260" stroke="#66CDAA" stroke-width="1" opacity="0.3"/>
-  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="400" y="300" fill="#66CDAA" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RE</text>
-  <circle cx="425" cy="142" r="25" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="425" y="142" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
-  <circle cx="339" cy="516" r="22" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="339" y="516" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
-  <circle cx="475" cy="486" r="18" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="475" y="486" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
-  <circle cx="337" cy="396" r="29" fill="#1A1A1A" stroke="#98FB98" stroke-width="3"/>
-  <text x="337" y="396" fill="#98FB98" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NORD</text>
-  <circle cx="287" cy="218" r="27" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="287" y="218" fill="#66CDAA" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
-  <circle cx="284" cy="316" r="15" fill="#1A1A1A" stroke="#66CDAA" stroke-width="3"/>
-  <text x="284" y="316" fill="#66CDAA" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BAAL</text>
-  <circle cx="580" cy="260" r="16" fill="#1A1A1A" stroke="#8FBC8F" stroke-width="3"/>
-  <text x="580" y="260" fill="#8FBC8F" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALOMONE</text>
+  <line x1="400" y1="300" x2="425" y2="142" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="339" y2="516" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="425" y1="142" x2="339" y2="516" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="475" y2="486" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="339" y1="516" x2="475" y2="486" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="337" y2="396" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="287" y2="218" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="337" y1="396" x2="287" y2="218" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="284" y2="316" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="287" y1="218" x2="284" y2="316" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="580" y2="260" stroke="#6AF089" stroke-width="2" opacity="0.5"/>
+  <line x1="284" y1="316" x2="580" y2="260" stroke="#5CE07A" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="400" y="300" fill="#4CD06A" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RE</text>
+  <circle cx="425" cy="142" r="25" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="425" y="142" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <circle cx="339" cy="516" r="22" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="339" y="516" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
+  <circle cx="475" cy="486" r="18" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="475" y="486" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
+  <circle cx="337" cy="396" r="29" fill="#1A1A1A" stroke="#5CE07A" stroke-width="3"/>
+  <text x="337" y="396" fill="#5CE07A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NORD</text>
+  <circle cx="287" cy="218" r="27" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="287" y="218" fill="#4CD06A" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <circle cx="284" cy="316" r="15" fill="#1A1A1A" stroke="#4CD06A" stroke-width="3"/>
+  <text x="284" y="316" fill="#4CD06A" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BAAL</text>
+  <circle cx="580" cy="260" r="16" fill="#1A1A1A" stroke="#6AF089" stroke-width="3"/>
+  <text x="580" y="260" fill="#6AF089" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALOMONE</text>
 </svg>

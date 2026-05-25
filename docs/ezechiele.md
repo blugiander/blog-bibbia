@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato."
 
@@ -77,6 +80,9 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
+
+
+
 
 
 

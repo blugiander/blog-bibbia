@@ -29,6 +29,9 @@ tags:
 
 
 
+
+
+
 > 
 "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta."
 
@@ -67,6 +70,9 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 
 **La terra si spacca, i cuori si gelano, l'oro si arrugginisce.**
 **Smetti di sperare nella riparazione del mondo. Preparati per il Regno.**
+
+
+
 
 
 
