@@ -14,15 +14,15 @@
   <circle cx="491" cy="373" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="491" y="373" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
   <circle cx="457" cy="407" r="19" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="457" y="407" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ANALISI</text>
+  <text x="457" y="407" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIGITALE</text>
   <circle cx="183" cy="404" r="23" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="183" y="404" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIGITALE</text>
+  <text x="183" y="404" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TESI</text>
   <circle cx="233" cy="194" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="233" y="194" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TESI</text>
+  <text x="233" y="194" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LETTURA</text>
   <circle cx="408" cy="487" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="408" y="487" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUOVA</text>
+  <text x="408" y="487" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BIBLICA</text>
   <circle cx="359" cy="142" r="28" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="359" y="142" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LETTURA</text>
+  <text x="359" y="142" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DATI</text>
   <circle cx="472" cy="443" r="21" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="472" y="443" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BIBLICA</text>
+  <text x="472" y="443" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAOS</text>
 </svg>

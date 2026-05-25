@@ -1,16 +1,17 @@
 ---
 title: "Il Vangelo di Matteo (Il Re e il Regno)"
-description: "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo.\" Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
+description: "> "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
 keywords: "Matrix, codici, il, analisi, teologia, geometria"
 tags:
-  - matteo
   - regno
-  - vangelo
-  - figlio
+  - matteo
   - sangue
   - viene
-  - genealogia
+  - terra
+  - vengono
+  - vangelo
 ---
+
 # Il Vangelo di Matteo: Il Re e il Regno
 
 ![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Il Vangelo di Matteo (Il Re e il Regno)"
-description: "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo.\" Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
-keywords: "Matrix, codici, il, analisi, teologia, geometria"
-tags:
-  - matteo
-  - regno
-  - vangelo
-  - figlio
-  - sangue
-  - viene
-  - genealogia
----
-# Il Vangelo di Matteo: Il Re e il Regno
+<p># Il Vangelo di Matteo: Il Re e il Regno
 
 ! [Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico.</p>
+"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico. Il Re legittimo riprende il trono.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -102,12 +78,6 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

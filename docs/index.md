@@ -1,6 +1,6 @@
 ---
 title: "I Segreti della Scrittura – Un Viaggio Oltre il Testo"
-description: "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto.\" Benvenuti in questo spazio di esplorazione...."
+description: "> "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto." Benvenuti in questo spazio di esplorazione...."
 keywords: "Matrix, codici, i, analisi, teologia, geometria"
 ---
 # I Segreti della Scrittura: Un Viaggio Oltre il Testo

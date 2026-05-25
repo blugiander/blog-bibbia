@@ -1,16 +1,17 @@
 ---
 title: "Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)"
-description: "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta.\" Spegni l'intelletto. Brucia..."
+description: "> "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Spegni l'intelletto. Brucia..."
 keywords: "Matrix, codici, notizie, analisi, teologia, geometria"
 tags:
   - notizie
   - doglie
-  - cuori
-  - pietra
-  - brucia
   - mondo
   - terra
+  - trema
+  - solo
+  - header
 ---
+
 # 24 Aprile 2026: I Codici Nascosti Nelle Notizie
 
 ![Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)"
-description: "Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta.\" Spegni l'intelletto. Brucia..."
-keywords: "Matrix, codici, notizie, analisi, teologia, geometria"
-tags:
-  - notizie
-  - doglie
-  - cuori
-  - pietra
-  - brucia
-  - mondo
-  - terra
----
-# 24 Aprile 2026: I Codici Nascosti Nelle Notizie
+<p># 24 Aprile 2026: I Codici Nascosti Nelle Notizie
 
 ! [Header notizie_24aprile2026](/blog-bibbia/assets/images/header_notizie_24aprile2026.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta."</p>
+"Mentre diranno: Pace e sicurezza! allora una sùbita rovina verrà loro addosso, come le doglie alla donna incinta." Quelli che i giornali chiamano "fatti del giorno", lo Spirito li chiama "le doglie del parto". Il mondo è una macchina che va in pezzi esattamente secondo il manuale.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -95,12 +71,6 @@ Piangono perché il loro dio di carta (il denaro, lo spread, la crescita) si sta
 
 **La terra si spacca, i cuori si gelano, l'oro si arrugginisce.**
 **Smetti di sperare nella riparazione del mondo. Preparati per il Regno.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

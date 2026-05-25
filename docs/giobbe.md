@@ -1,18 +1,17 @@
 ---
 title: "Giobbe (La Sofferenza Innocente)"
-description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo.
+description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. --- Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è..."
+keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
 tags:
   - giobbe
   - teologia
-  - uomo
   - ribellione
+  - uomo
   - amici
   - integrità
-  - sofferenza
+  - realtà
 ---
-Nel testo ebraico non c'è \"Satana\" come figura demoniaca autonoma. C'è..."
-keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
----
+
 # 📜 Giobbe: L'Integrità della Ribellione
 
 ![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
@@ -20,43 +19,19 @@ keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Giobbe (La Sofferenza Innocente)"
-description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. tags:
-  - giobbe
-  - teologia
-  - uomo
-  - ribellione
-  - amici
-  - integrità
-  - sofferenza
----
-Nel testo ebraico non c'è \"Satana\" come figura demoniaca autonoma. C'è..."
-keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
----
-# 📜 Giobbe: L'Integrità della Ribellione
+<p># 📜 Giobbe: L'Integrità della Ribellione
 
 ! [Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
 
 
 
-
-
-
-
-
-
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo. Il "Satan": Il Pubblico Ministero della Corte Celeste
 
-Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma.</p>
+Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è *ha-┼ø─üß╣¡─ün* — l'Accusatore, con articolo determinativo. ### Funzione tecnica
+
+- È un funzionario della corte divina, non un ribelle.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -198,12 +173,6 @@ Il Libro di Giobbe insegna che:
 
 > 
 Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più vero.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

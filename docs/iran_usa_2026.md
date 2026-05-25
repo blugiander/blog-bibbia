@@ -1,16 +1,17 @@
 ---
 title: "Attualità 2026 (Iran e USA)"
-description: "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi.\" Dimentica la geopolitica. Dimentica gli analisti. Il mondo trema per l'Iran e..."
+description: "> "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Dimentica la geopolitica. Dimentica gli analisti. Il mondo trema per l'Iran e..."
 keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
 tags:
-  - iran
   - solo
   - rumori
-  - guerre
-  - dimentica
   - guerra
-  - notizie
+  - iran
+  - missili
+  - polvere
+  - carne
 ---
+
 # Aprile 2026: Rumori di Guerra tra Iran e USA
 
 ![Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Attualità 2026 (Iran e USA)"
-description: "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi.\" Dimentica la geopolitica. Il mondo trema per l'Iran e..."
-keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
-tags:
-  - iran
-  - solo
-  - rumori
-  - guerre
-  - dimentica
-  - guerra
-  - notizie
----
-# Aprile 2026: Rumori di Guerra tra Iran e USA
+<p># Aprile 2026: Rumori di Guerra tra Iran e USA
 
 ! [Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere.</p>
+"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Il mondo trema per l'Iran e gli Stati Uniti. Missili, minacce atomiche, alleanze di polvere. Ma la Scrittura ha già decodificato lo schermo del telegiornale.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -101,12 +77,6 @@ I missili cadranno o non cadranno. Il tuo spirito deve essere in piedi prima che
 
 **Lascia che i re di carne giochino con la polvere.**
 **Spegni il terrore. Fissa il Trono.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

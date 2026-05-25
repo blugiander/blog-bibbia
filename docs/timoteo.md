@@ -1,16 +1,17 @@
 ---
 title: "1 e 2 Timoteo (Il Deposito e la Struttura)"
-description: "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi.\" Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
+description: "> "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 tags:
   - timoteo
-  - deposito
   - paolo
+  - deposito
   - struttura
-  - buon
-  - mezzo
-  - lascia
+  - verità
+  - spirituale
+  - ultimi
 ---
+
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
 
 ![Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "1 e 2 Timoteo (Il Deposito e la Struttura)"
-description: "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi.\" Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
-keywords: "Matrix, codici, 1, analisi, teologia, geometria"
-tags:
-  - timoteo
-  - deposito
-  - paolo
-  - struttura
-  - buon
-  - mezzo
-  - lascia
----
-# 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
+<p># 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
 
 ! [Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione.</p>
+"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione. Timoteo è giovane, forse timido, con problemi di stomaco.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -101,12 +77,6 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 **La chiesa senza struttura morale crolla sotto la cultura.**
 **Negli ultimi giorni la religione di facciata sarà l'inganno peggiore.**
 **Il vero leader non cerca applausi, custodisce il deposito e muore fedele.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

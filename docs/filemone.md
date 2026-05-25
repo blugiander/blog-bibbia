@@ -1,16 +1,17 @@
 ---
 title: "Filemone (L"
-description: "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me.\" L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
+description: "> "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
 keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
 tags:
   - filemone
   - paolo
   - schiavo
   - onesimo
-  - addebitalo
   - viene
-  - fatto
+  - addebitalo
+  - evangelo
 ---
+
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
 
 ![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Filemone (L"
-description: "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me.\" L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
-keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
-tags:
-  - filemone
-  - paolo
-  - schiavo
-  - onesimo
-  - addebitalo
-  - viene
-  - fatto
----
-# Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
+<p># Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
 
 ! [Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una potenza nucleare sufficiente a far crollare l'Impero Romano dall'interno.</p>
+"Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una potenza nucleare sufficiente a far crollare l'Impero Romano dall'interno. Onesimo è uno schiavo in fuga.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -95,12 +71,6 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 **Le leggi umane si limitano a marchiare; la grazia rigenera.**
 **Nessuna riconciliazione avviene senza che qualcuno paghi il debito.**
 **L'Evangelo trasforma la peggiore delle gerarchie nella più profonda delle fratellanze.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

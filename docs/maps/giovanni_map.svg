@@ -15,13 +15,13 @@
   <circle cx="310" cy="529" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="310" y="529" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LOGOS</text>
   <circle cx="560" cy="476" r="18" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="560" y="476" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
+  <text x="560" y="476" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LUCE</text>
   <circle cx="192" cy="198" r="15" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="192" y="198" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LUCE</text>
+  <text x="192" y="198" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GLORIA</text>
   <circle cx="261" cy="308" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="261" y="308" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GLORIA</text>
+  <text x="261" y="308" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
   <circle cx="314" cy="234" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="314" y="234" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VITA</text>
   <circle cx="502" cy="356" r="17" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="502" y="356" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNITÀ</text>
+  <text x="502" y="356" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SEGNI</text>
 </svg>

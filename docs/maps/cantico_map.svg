@@ -14,15 +14,15 @@
   <circle cx="381" cy="74" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="381" y="74" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CANTICO</text>
   <circle cx="500" cy="267" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="500" y="267" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SIGILLO</text>
+  <text x="500" y="267" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AMORE</text>
   <circle cx="474" cy="414" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="474" y="414" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AMORE</text>
+  <text x="474" y="414" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="181" cy="406" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="181" y="406" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CUORE</text>
+  <text x="181" y="406" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CERCA</text>
   <circle cx="545" cy="298" r="15" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="545" y="298" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <text x="545" y="298" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPOSA</text>
   <circle cx="432" cy="400" r="16" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="432" y="400" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CERCA</text>
+  <text x="432" y="400" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SETE</text>
   <circle cx="162" cy="364" r="30" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="162" y="364" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SPOSA</text>
+  <text x="162" y="364" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SIGILLO</text>
 </svg>

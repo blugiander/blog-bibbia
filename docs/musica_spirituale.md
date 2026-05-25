@@ -3,14 +3,15 @@ title: "L"
 description: "Target: Frequenze, Industria Musicale, Guerra Spirituale Protocollo: Caveman (Fuoco, Suono, Codice) Status: Decodifica delle frequenze. Filtro: Nessuna..."
 keywords: "Matrix, codici, l, analisi, teologia, geometria"
 tags:
-  - frequenze
   - musica
+  - frequenze
+  - sonora
   - spirituale
   - suono
-  - sonora
+  - arma
   - industria
-  - musicale
 ---
+
 # L'Arma Sonora: Influenza Spirituale della Musica
 
 ![Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
@@ -18,42 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "L"
-description: "Target: Frequenze, Industria Musicale, Guerra Spirituale Protocollo: Caveman (Fuoco, Suono, Codice) Status: Decodifica delle frequenze. Filtro: Nessuna..."
-keywords: "Matrix, codici, l, analisi, teologia, geometria"
-tags:
-  - frequenze
-  - musica
-  - spirituale
-  - suono
-  - sonora
-  - industria
-  - musicale
----
-# L'Arma Sonora: Influenza Spirituale della Musica
+<p># L'Arma Sonora: Influenza Spirituale della Musica
 
 ! [Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
 
 
 
-
-
-
-
-
-
 **Target:** Frequenze, Industria Musicale, Guerra Spirituale
 **Protocollo:** Caveman (Fuoco, Suono, Codice)
-**Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso.</p>
+**Status:** Decodifica delle frequenze. La musica non è mai innocua. O adora il Creatore o evoca l'abisso. È un codice che bypassa l'intelletto e programma direttamente lo spirito.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -99,12 +75,6 @@ Non esiste musica neutrale.
 
 **Conclusione:**
 Riprenditi lo spazio aereo della tua mente. Distruggi gli idoli sonori. Usa la tua voce e i tuoi strumenti come armi da fuoco contro il regno delle tenebre.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

@@ -1,16 +1,17 @@
 ---
 title: "1 e 2 Samuele (Il Re e l"
-description: "L'Eterno non guarda a quello a cui guarda l'uomo.\" I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
+description: "> "L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 tags:
-  - samuele
-  - uomo
   - unzione
-  - eterno
-  - guarda
-  - umana
+  - uomo
   - carne
+  - samuele
+  - eterno
+  - umana
+  - armatura
 ---
+
 # 1 e 2 Samuele: Il Re e l'Unzione
 
 ![Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "1 e 2 Samuele (Il Re e l"
-description: "L'Eterno non guarda a quello a cui guarda l'uomo.\" I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
-keywords: "Matrix, codici, 1, analisi, teologia, geometria"
-tags:
-  - samuele
-  - uomo
-  - unzione
-  - eterno
-  - guarda
-  - umana
-  - carne
----
-# 1 e 2 Samuele: Il Re e l'Unzione
+<p># 1 e 2 Samuele: Il Re e l'Unzione
 
 ! [Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
 
 
 
-
-
-
-
-
-
 > 
-"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina.</p>
+"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina. Vuole un re visibile, un uomo alto, un re come tutte le altre nazioni.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -102,12 +78,6 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 **Smetti di cercare re di carne.**
 **L'armatura umana non ferma i giganti. Solo l'Unzione spezza il giogo.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

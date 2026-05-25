@@ -27,5 +27,5 @@
   <circle cx="433" cy="424" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="433" y="424" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IMPERIALE</text>
   <circle cx="309" cy="429" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="309" y="429" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIVELLO</text>
+  <text x="309" y="429" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUMERI</text>
 </svg>

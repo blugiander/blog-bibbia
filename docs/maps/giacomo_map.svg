@@ -19,9 +19,9 @@
   <circle cx="275" cy="188" r="22" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="275" y="188" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SENZA</text>
   <circle cx="201" cy="374" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="201" y="374" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEOLOGIA</text>
+  <text x="201" y="374" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
   <circle cx="179" cy="324" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="179" y="324" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAOLO</text>
+  <text x="179" y="324" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PROVA</text>
   <circle cx="517" cy="254" r="28" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="517" y="254" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PROVA</text>
+  <text x="517" y="254" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TENTAZIONE</text>
 </svg>

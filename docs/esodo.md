@@ -3,14 +3,15 @@ title: "Esodo (La Via dell"
 description: "LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità..."
 keywords: "Matrix, codici, esodo, analisi, teologia, geometria"
 tags:
-  - esodo
-  - ogni
   - sistema
-  - umano
   - controllo
-  - identità
+  - ogni
+  - esodo
+  - umano
   - codice
+  - teopolitica
 ---
+
 # Esodo (Versione Teopolitica Integrata 2026)
 
 ![Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
@@ -18,28 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Esodo (La Via dell"
-description: "LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità..."
-keywords: "Matrix, codici, esodo, analisi, teologia, geometria"
-tags:
-  - esodo
-  - ogni
-  - sistema
-  - umano
-  - controllo
-  - identità
-  - codice
----
-# Esodo (Versione Teopolitica Integrata 2026)
+<p># Esodo (Versione Teopolitica Integrata 2026)
 
 ! [Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
-
-
-
-
-
-
 
 
 
@@ -55,15 +37,9 @@ Nella lettura teopolitica, lÔÇÖEgitto rappresenta ogni struttura che pretende
 
 - identità come concessione, non come natura  
 
-Il grido degli schiavi non è solo dolore: è **la rottura del consenso**.</p>
+Il grido degli schiavi non è solo dolore: è **la rottura del consenso**. È il momento in cui lÔÇÖessere umano smette di accettare la definizione imposta.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -251,12 +227,6 @@ Esci dal sistema.
 Cammina nel Fuoco.
 
 Resta umano.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

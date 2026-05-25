@@ -1,16 +1,17 @@
 ---
 title: "Giuda (L"
-description: "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
+description: "> "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
 keywords: "Matrix, codici, giuda, analisi, teologia, geometria"
 tags:
   - giuda
-  - combattere
-  - strenuamente
   - guerra
+  - combattere
   - senza
-  - carissimi
-  - gran
+  - epistola
+  - infiltrazione
+  - spirituale
 ---
+
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
 
 ![Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
@@ -18,28 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Giuda (L"
-description: "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
-keywords: "Matrix, codici, giuda, analisi, teologia, geometria"
-tags:
-  - giuda
-  - combattere
-  - strenuamente
-  - guerra
-  - senza
-  - carissimi
-  - gran
----
-# L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
+<p># L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
 
 ! [Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
-
-
-
-
-
-
 
 
 
@@ -47,12 +29,6 @@ tags:
 "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre." L'Epistola di Giuda è una pagina singola. L'autore voleva scrivere un trattato teologico sulla salvezza, ma lo Spirito lo interrompe. Il nemico non è fuori alle porte.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -101,12 +77,6 @@ Grazia assoluta, intolleranza zero per l'infezione.
 **Il pericolo maggiore non è la persecuzione, è l'assimilazione.**
 **La grazia senza santità è un veleno letale.**
 **La battaglia si vince strappando anime dal fuoco, non negoziando con le fiamme.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

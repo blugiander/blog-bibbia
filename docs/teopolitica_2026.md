@@ -1,18 +1,17 @@
 ---
 title: "Teopolitica 2026 (Evangelici e Cattolici)"
-description: "Il fuoco non si analizza. Si teme, o si attraversa.
+description: "Il fuoco non si analizza. Si teme, o si attraversa. --- Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
+keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 tags:
   - senza
   - vede
-  - teopolitica
-  - fuoco
   - faraone
-  - trono
+  - fuoco
   - puoi
+  - pericolo
+  - parla
 ---
-Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
-keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
----
+
 # La Bestia Non Ha Corna. Ha un Profilo.
 
 ![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
@@ -20,27 +19,7 @@ keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Teopolitica 2026 (Evangelici e Cattolici)"
-description: "Il fuoco non si analizza. tags:
-  - senza
-  - vede
-  - teopolitica
-  - fuoco
-  - faraone
-  - trono
-  - puoi
----
-Non siederà su un trono dorato. Non urlerà proclami nelle piazze...."
-keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
----
-# La Bestia Non Ha Corna. [Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
-
-
-
-
-
-
+<p># La Bestia Non Ha Corna. [Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
 
 
 
@@ -50,15 +29,9 @@ keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 
 ## Il Nuovo Faraone Non Ha Trono
 
-Non siederà su un trono dorato.</p>
+Non siederà su un trono dorato. Entrerà nella tua casa attraverso lo schermo. E tu la prenderai — perché senza di essa non puoi comprare, non puoi vendere, non puoi esistere.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -274,12 +247,6 @@ Non si sospende.
 È già adesso.
 
 Svegliati.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

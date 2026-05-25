@@ -5,12 +5,13 @@ keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
 tags:
   - mappa
   - torino
+  - chiese
   - fuoco
   - sangue
-  - chiese
-  - protocollo
-  - decodifica
+  - unzione
+  - apocalisse
 ---
+
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
 
 ![Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
@@ -18,42 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Mappa Evangelica Torino (Setaccio e Fuoco)"
-description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: Caveman (Fuoco e Sangue) Status: Decodifica in corso. La mappa riporta indirizzi...."
-keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
-tags:
-  - mappa
-  - torino
-  - fuoco
-  - sangue
-  - chiese
-  - protocollo
-  - decodifica
----
-# Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
+<p># Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
 
 ! [Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
 
 
 
-
-
-
-
-
-
 **Target:** Mappa Istituzionale (Torino, evangelici.net)
 **Protocollo:** Caveman (Fuoco e Sangue)
-**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono.</p>
+**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono. È tempo di setacciare la carne e rivelare l'osso.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -104,12 +80,6 @@ L'etichetta "evangelica" non garantisce l'ingresso al banchetto. L'unica moneta 
 **Conclusione:**
 Bruciare le mappe umane. Cercare le coordinate dello Spirito.
 Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un consiglio d'amministrazione.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

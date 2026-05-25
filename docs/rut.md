@@ -1,16 +1,17 @@
 ---
 title: "Rut (Il Redentore e la Grazia Straniera)"
-description: "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio.\" Il Libro di Rut si apre nell'oscurità del periodo..."
+description: "> "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo..."
 keywords: "Matrix, codici, rut, analisi, teologia, geometria"
 tags:
   - boaz
   - straniera
   - redentore
-  - popolo
   - goel
   - parente
   - mantello
+  - moabita
 ---
+
 # Rut: Il Redentore e la Grazia Straniera
 
 ![Header rut](/blog-bibbia/assets/images/header_rut.svg)
@@ -18,28 +19,9 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Rut (Il Redentore e la Grazia Straniera)"
-description: "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio.\" Il Libro di Rut si apre nell'oscurità del periodo..."
-keywords: "Matrix, codici, rut, analisi, teologia, geometria"
-tags:
-  - boaz
-  - straniera
-  - redentore
-  - popolo
-  - goel
-  - parente
-  - mantello
----
-# Rut: Il Redentore e la Grazia Straniera
+<p># Rut: Il Redentore e la Grazia Straniera
 
 ! [Header rut](/blog-bibbia/assets/images/header_rut.svg)
-
-
-
-
-
-
 
 
 
@@ -47,12 +29,6 @@ tags:
 "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo dei Giudici. Elimelec porta la sua famiglia in Moab. Ma mentre i Giudici raccontano la macro-storia di un collasso nazionale, Rut rivela la micro-storia di una redenzione silenziosa.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -104,12 +80,6 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 **La Legge esclude, la Grazia include.**
 **Nessun abisso è troppo profondo per il Goel.**
 **Il re viene dalla polvere straniera, redenta a caro prezzo.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

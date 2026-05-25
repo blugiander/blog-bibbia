@@ -12,17 +12,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="400" y="300" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MATTEO</text>
   <circle cx="565" cy="190" r="18" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="565" y="190" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MATTEO</text>
+  <text x="565" y="190" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
   <circle cx="317" cy="473" r="22" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="317" y="473" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">REGNO</text>
+  <text x="317" y="473" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MATTEO</text>
   <circle cx="230" cy="272" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="230" y="272" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
+  <text x="230" y="272" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
   <circle cx="275" cy="242" r="16" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="275" y="242" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FIGLIO</text>
+  <text x="275" y="242" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
   <circle cx="491" cy="348" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="491" y="348" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
+  <text x="491" y="348" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TERRA</text>
   <circle cx="406" cy="447" r="16" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="406" y="447" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
+  <text x="406" y="447" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VENGONO</text>
   <circle cx="435" cy="487" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="435" y="487" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GENEALOGIA</text>
+  <text x="435" y="487" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
 </svg>

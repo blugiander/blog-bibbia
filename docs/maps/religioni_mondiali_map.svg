@@ -13,17 +13,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RELIGIONI_</text>
   <circle cx="309" cy="93" r="16" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="309" y="93" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RELIGIONI</text>
+  <text x="309" y="93" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
   <circle cx="490" cy="153" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="490" y="153" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="490" y="153" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RELIGIONI</text>
   <circle cx="272" cy="283" r="23" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="272" y="283" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EVANGELO</text>
   <circle cx="537" cy="209" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="537" y="209" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDIALI</text>
+  <text x="537" y="209" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CROCE</text>
   <circle cx="577" cy="134" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="577" y="134" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CROCE</text>
+  <text x="577" y="134" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUNA</text>
   <circle cx="278" cy="199" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="278" y="199" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUNA</text>
+  <text x="278" y="199" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDIALI</text>
   <circle cx="264" cy="300" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="264" y="300" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SFORZO</text>
 </svg>

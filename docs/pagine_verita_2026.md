@@ -1,16 +1,17 @@
 ---
 title: "42 Pagine (Polvere alla Polvere)"
-description: "MODO: Caveman. Zero compromessi. 1. ANATEMA O ECO: Eco. Nessun \"vangelo segreto\" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
+description: "MODO: Caveman. Zero compromessi. 1. ANATEMA O ECO: Eco. Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
 keywords: "Matrix, codici, 42, analisi, teologia, geometria"
 tags:
   - pagine
-  - polvere
+  - verità
+  - header
+  - verita
   - anatema
   - nessun
   - vangelo
-  - modo
-  - caveman
 ---
+
 # 42 Pagine - Ipotesi Verità
 
 ![Header pagine_verita_2026](/blog-bibbia/assets/images/header_pagine_verita_2026.svg)
@@ -18,30 +19,11 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "42 Pagine (Polvere alla Polvere)"
-description: "MODO: Caveman. Nessun \"vangelo segreto\" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
-keywords: "Matrix, codici, 42, analisi, teologia, geometria"
-tags:
-  - pagine
-  - polvere
-  - anatema
-  - nessun
-  - vangelo
-  - modo
-  - caveman
----
-# 42 Pagine - Ipotesi Verità
+<p># 42 Pagine - Ipotesi Verità
 
-! Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di Paolo (Codice H).</p>
+! Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di Paolo (Codice H). Il testo conferma la Croce, non la altera. Non aggiungono una virgola alla salvezza.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -62,12 +44,6 @@ La Sposa non trema per gli scavi e non esulta per i pixel. La Parola è Persona 
 
 **SENTENZA:**
 Curiosità archeologica. Impatto ontologico nullo. La Verità non è mai stata perduta, pertanto non è stata ritrovata. Avanti.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

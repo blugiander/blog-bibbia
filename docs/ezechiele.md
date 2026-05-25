@@ -1,16 +1,17 @@
 ---
 title: "Ezechiele (La Gloria nell"
-description: "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato.\" Il Libro di Ezechiele non è un trattato. È..."
+description: "> "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È..."
 keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
 tags:
-  - ezechiele
   - uomo
+  - ezechiele
   - fuoco
   - cuore
   - ossa
-  - gloria
   - esilio
+  - abisso
 ---
+
 # Ezechiele: La Gloria nell'Esilio
 
 ![Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Ezechiele (La Gloria nell"
-description: "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato.\" Il Libro di Ezechiele non è un trattato. È..."
-keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
-tags:
-  - ezechiele
-  - uomo
-  - fuoco
-  - cuore
-  - ossa
-  - gloria
-  - esilio
----
-# Ezechiele: La Gloria nell'Esilio
+<p># Ezechiele: La Gloria nell'Esilio
 
 ! [Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
 
 
 
-
-
-
-
-
-
 > 
-"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla.</p>
+"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla. Il popolo è schiavo in Babilonia.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -105,12 +81,6 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

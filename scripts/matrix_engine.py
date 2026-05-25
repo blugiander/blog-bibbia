@@ -338,14 +338,13 @@ def generate_audio(basename, text):
 
 def ensure_yaml_frontmatter(content, tags):
     """Fase 2: Inserisce i tag nel meta-header YAML."""
-    if content.startswith("---"):
-        # Modifica frontmatter esistente
-        end_idx = content.find("---", 3)
-        if end_idx != -1:
-            frontmatter = content[3:end_idx]
+    if content.startswith("---\n") or content.startswith("---\r\n"):
+        match = re.search(r'\r?\n---\s*\r?\n', content)
+        if match:
+            frontmatter = content[3:match.start()].strip()
             if "tags:" not in frontmatter:
-                new_fm = frontmatter.strip() + f"\ntags:\n" + "\n".join([f"  - {t}" for t in tags]) + "\n"
-                return "---\n" + new_fm + "---\n" + content[end_idx+3:].lstrip()
+                new_fm = frontmatter + f"\ntags:\n" + "\n".join([f"  - {t}" for t in tags]) + "\n"
+                return "---\n" + new_fm + "---\n\n" + content[match.end():].lstrip()
             return content
     
     # Crea nuovo frontmatter
@@ -370,11 +369,18 @@ def process_file(filepath, all_files):
     h1_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
     title = h1_match.group(1) if h1_match else basename
     
+    # Rimuovi yaml frontmatter SOLO per il riassunto e NLP
+    text_for_nlp = content
+    if text_for_nlp.startswith("---\n") or text_for_nlp.startswith("---\r\n"):
+        match = re.search(r'\r?\n---\s*\r?\n', text_for_nlp)
+        if match:
+            text_for_nlp = text_for_nlp[match.end():]
+            
     # Fase 1: Riassunto
-    summary = generate_summary(content)
+    summary = generate_summary(text_for_nlp)
     
     # Fase 2: Tag
-    tags = generate_tags(content)
+    tags = generate_tags(text_for_nlp)
     content = ensure_yaml_frontmatter(content, tags)
     
     # Fase 4: Mappa Concettuale

@@ -13,17 +13,17 @@
   <circle cx="400" cy="300" r="40" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="400" y="300" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALMI</text>
   <circle cx="599" cy="184" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="599" y="184" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALMI</text>
+  <text x="599" y="184" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="570" cy="321" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="570" y="321" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <text x="570" y="321" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALMO</text>
   <circle cx="521" cy="282" r="30" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="521" y="282" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALMO</text>
+  <text x="521" y="282" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SALMI</text>
   <circle cx="393" cy="428" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="393" y="428" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
+  <text x="393" y="428" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LODE</text>
   <circle cx="624" cy="316" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="624" y="316" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LODE</text>
+  <text x="624" y="316" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
   <circle cx="519" cy="429" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="519" y="429" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
+  <text x="519" y="429" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NIENTE</text>
   <circle cx="496" cy="175" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="496" y="175" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIORNO</text>
+  <text x="496" y="175" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
 </svg>

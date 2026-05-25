@@ -21,9 +21,9 @@
   <circle cx="646" cy="333" r="28" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="646" y="333" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ONESIMO</text>
   <circle cx="536" cy="372" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="536" y="372" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ADDEBITALO</text>
+  <text x="536" y="372" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
   <circle cx="259" cy="257" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="259" y="257" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VIENE</text>
+  <text x="259" y="257" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ADDEBITALO</text>
   <circle cx="498" cy="183" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="498" y="183" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FATTO</text>
+  <text x="498" y="183" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">EVANGELO</text>
 </svg>

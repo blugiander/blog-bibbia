@@ -14,15 +14,15 @@
   <circle cx="584" cy="293" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="584" y="293" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAGINE</text>
   <circle cx="463" cy="109" r="22" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="463" y="109" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">POLVERE</text>
+  <text x="463" y="109" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VERITÀ</text>
   <circle cx="242" cy="184" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="242" y="184" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ANATEMA</text>
+  <text x="242" y="184" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">HEADER</text>
   <circle cx="549" cy="291" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="549" y="291" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUN</text>
+  <text x="549" y="291" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VERITA</text>
   <circle cx="296" cy="302" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="296" y="302" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
+  <text x="296" y="302" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ANATEMA</text>
   <circle cx="622" cy="257" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="622" y="257" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MODO</text>
+  <text x="622" y="257" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUN</text>
   <circle cx="502" cy="168" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="502" y="168" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CAVEMAN</text>
+  <text x="502" y="168" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VANGELO</text>
 </svg>

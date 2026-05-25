@@ -1,16 +1,17 @@
 ---
 title: "Il Cantico dei Cantici (L"
-description: "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio.\" Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
+description: "> "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
 keywords: "Matrix, codici, il, analisi, teologia, geometria"
 tags:
   - cantico
-  - sigillo
   - amore
-  - cuore
   - fuoco
   - cerca
   - sposa
+  - sete
+  - sigillo
 ---
+
 # Il Cantico dei Cantici: L'Amore di Fuoco
 
 ![Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Il Cantico dei Cantici (L"
-description: "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio.\" Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
-keywords: "Matrix, codici, il, analisi, teologia, geometria"
-tags:
-  - cantico
-  - sigillo
-  - amore
-  - cuore
-  - fuoco
-  - cerca
-  - sposa
----
-# Il Cantico dei Cantici: L'Amore di Fuoco
+<p># Il Cantico dei Cantici: L'Amore di Fuoco
 
 ! [Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola.</p>
+"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo incandescente della rivelazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -106,12 +82,6 @@ Il letargo è morte. La voce è resurrezione.
 
 **La religione ti dà regole. Il Cantico ti dà fuoco.**
 **Non fermarti al cortile. Entra nella camera del Re e brucia.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

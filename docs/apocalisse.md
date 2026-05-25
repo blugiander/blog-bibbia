@@ -1,6 +1,7 @@
 ---
 title: "Apocalisse"
-description: "﻿
+description: "﻿--- title: "Apocalisse (Livello Profondo)" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via..."
+keywords: "Matrix, codici, apocalisse, analisi, teologia, geometria"
 tags:
   - apocalisse
   - bestia
@@ -8,11 +9,9 @@ tags:
   - sempre
   - fallimento
   - imperiale
-  - livello
+  - numeri
 ---
-title: \"Apocalisse (Livello Profondo)\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via..."
-keywords: "Matrix, codici, apocalisse, analisi, teologia, geometria"
----
+
 ﻿---
 title: "Apocalisse (Livello Profondo)"
 ---
@@ -276,22 +275,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Apocalisse"
-description: "﻿
-tags:
-  - apocalisse
-  - bestia
-  - male
-  - sempre
-  - fallimento
-  - imperiale
-  - livello
----
-title: \"Apocalisse (Livello Profondo)\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via..."
-keywords: "Matrix, codici, apocalisse, analisi, teologia, geometria"
----
-﻿---
+<p>﻿---
 title: "Apocalisse (Livello Profondo)"
 ---
 
@@ -455,12 +439,6 @@ I Segreti della Scrittura
     - [5.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -647,12 +625,6 @@ L'Apocalisse non predice il futuro. Rivela la struttura profonda del presente.
     
     
       [Next &raquo;](../apocrifi/)
-
-
-
-
-
-
 
 
 <!-- MATRIX_FOOTER_START -->

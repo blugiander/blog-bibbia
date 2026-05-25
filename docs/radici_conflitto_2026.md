@@ -4,13 +4,14 @@ description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Cavema
 keywords: "Matrix, codici, radici, analisi, teologia, geometria"
 tags:
   - israele
-  - radici
   - conflitto
+  - radici
   - iran
   - invisibile
   - sangue
-  - palestina
+  - carnale
 ---
+
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
 
 ![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
@@ -18,42 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
-description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
-keywords: "Matrix, codici, radici, analisi, teologia, geometria"
-tags:
-  - israele
-  - radici
-  - conflitto
-  - iran
-  - invisibile
-  - sangue
-  - palestina
----
-# Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
+<p># Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
 
 ! [Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
 
 
 
-
-
-
-
-
-
 **Target:** L'Architettura Invisibile del Conflitto
 **Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
-**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile.</p>
+**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile. Angeli e demoni combattono per l'orologio profetico.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -98,12 +74,6 @@ Il credente non si schiera con nazioni carnali, né sventola bandiere fatte di s
 
 **Conclusione:**
 Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cadono sulla terra, ma la guerra si vince o si perde nello Spirito. Prepararsi all'impatto finale.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

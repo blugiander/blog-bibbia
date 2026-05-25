@@ -15,15 +15,15 @@
   <circle cx="627" cy="351" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="627" y="351" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GLOBALE</text>
   <circle cx="544" cy="146" r="18" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="544" y="146" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANITÀ</text>
+  <text x="544" y="146" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
   <circle cx="255" cy="248" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="255" y="248" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CORPO</text>
+  <text x="255" y="248" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANITÀ</text>
   <circle cx="576" cy="296" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="576" y="296" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCRITTURE</text>
+  <text x="576" y="296" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
   <circle cx="340" cy="103" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="340" y="103" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
+  <text x="340" y="103" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIVENTA</text>
   <circle cx="288" cy="261" r="24" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="288" y="261" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEMPIO</text>
+  <text x="288" y="261" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SCRITTURE</text>
   <circle cx="445" cy="86" r="24" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="445" y="86" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIVENTA</text>
+  <text x="445" y="86" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
 </svg>

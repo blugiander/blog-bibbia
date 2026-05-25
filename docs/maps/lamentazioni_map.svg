@@ -16,15 +16,15 @@
   <circle cx="368" cy="130" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="368" y="130" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LAMENTAZIO</text>
   <circle cx="509" cy="111" r="23" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="509" y="111" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
+  <text x="509" y="111" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOLORE</text>
   <circle cx="577" cy="410" r="27" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="577" y="410" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOLORE</text>
+  <text x="577" y="410" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDIZIO</text>
   <circle cx="621" cy="253" r="29" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="621" y="253" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDIZIO</text>
+  <text x="621" y="253" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ETERNO</text>
   <circle cx="359" cy="209" r="21" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="359" y="209" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OGNI</text>
+  <text x="359" y="209" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIBRO</text>
   <circle cx="593" cy="341" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="593" y="341" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIBRO</text>
+  <text x="593" y="341" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OGNI</text>
   <circle cx="209" cy="275" r="29" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="209" y="275" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">STATI</text>
+  <text x="209" y="275" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LETTERA</text>
 </svg>

@@ -1,18 +1,17 @@
 ---
 title: "Analisi 2026 (Codici nel Presente)"
-description: "La carne contro il codice: una mappa teologica dell'era digitale.
+description: "La carne contro il codice: una mappa teologica dell'era digitale. --- Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
+keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
 tags:
   - carne
-  - analisi
   - digitale
   - tesi
-  - nuova
   - lettura
   - biblica
+  - dati
+  - caos
 ---
-Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
-keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
----
+
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente
 
 ![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
@@ -20,43 +19,19 @@ keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Analisi 2026 (Codici nel Presente)"
-description: "La carne contro il codice: una mappa teologica dell'era digitale. tags:
-  - carne
-  - analisi
-  - digitale
-  - tesi
-  - nuova
-  - lettura
-  - biblica
----
-Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
-keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
----
-# ­ƒôí Aprile 2026 — Codici Biblici nel Presente
+<p># ­ƒôí Aprile 2026 — Codici Biblici nel Presente
 
 ! [Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
 
 
 
-
-
-
-
-
-
 *La carne contro il codice: una mappa teologica dell'era digitale. Anticristo Digitale: Docetismo 2.0
 
-Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione.</p>
+Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR, avatar, metaverso, identità digitali, intelligenze artificiali: tutto tende a separare la persona dalla carne. ### ­ƒöì Lettura biblica
+
+`1Gv 1:1` insiste sulla materialità: *"ciò che abbiamo udito, visto, toccato"*.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -180,12 +155,6 @@ Non come concetto, ma come ontologia:
 - vulnerabilità
 
 - realtà non riducibile a dati
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

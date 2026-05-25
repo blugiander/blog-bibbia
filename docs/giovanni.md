@@ -1,18 +1,17 @@
 ---
 title: "Il Vangelo di Giovanni"
-description: "Il Vangelo che non narra la storia: la interpreta dall'eternità.
+description: "Il Vangelo che non narra la storia: la interpreta dall'eternità. --- Giovanni non inizia con Betlemme, ma con l'eternità. > En arch─ô ─ôn ho Logos — "Nel..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
 tags:
   - giovanni
   - logos
-  - vangelo
   - luce
   - gloria
+  - vangelo
   - vita
-  - eternità
+  - segni
 ---
-Giovanni non inizia con Betlemme, ma con l'eternità. > En arch─ô ─ôn ho Logos — \"Nel..."
-keywords: "Matrix, codici, il, analisi, teologia, geometria"
----
+
 # 📜 Il Vangelo di Giovanni: L'Architettura del Logos
 
 ![Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
@@ -20,43 +19,20 @@ keywords: "Matrix, codici, il, analisi, teologia, geometria"
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Il Vangelo di Giovanni"
-description: "Il Vangelo che non narra la storia: la interpreta dall'eternità. tags:
-  - giovanni
-  - logos
-  - vangelo
-  - luce
-  - gloria
-  - vita
-  - eternità
----
-Giovanni non inizia con Betlemme, ma con l'eternità. > En arch─ô ─ôn ho Logos — \"Nel..."
-keywords: "Matrix, codici, il, analisi, teologia, geometria"
----
-# 📜 Il Vangelo di Giovanni: L'Architettura del Logos
+<p># 📜 Il Vangelo di Giovanni: L'Architettura del Logos
 
 ! [Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
 
 
 
-
-
-
-
-
-
 *Il Vangelo che non narra la storia: la interpreta dall'eternità. Il Logos: Il Reset Cosmico
 
-Giovanni non inizia con Betlemme, ma con l'eternità.</p>
+Giovanni non inizia con Betlemme, ma con l'eternità. > 
+*En arch─ô ─ôn ho Logos* — "Nel principio era il Logos"
+
+È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -237,12 +213,6 @@ Giovanni costruisce un Vangelo che è:
 
 > 
 Giovanni non racconta la storia. Racconta la struttura dell'essere.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

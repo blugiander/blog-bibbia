@@ -7,10 +7,11 @@ tags:
   - ritorno
   - zaccaria
   - orologio
-  - shoah
   - fornace
-  - fuoco
+  - gerusalemme
+  - shoah
 ---
+
 # Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
 
 ![Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
@@ -18,42 +19,17 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Israele, Shoah e 2026 (Fornace e Ritorno)"
-description: "Target: Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12) Protocollo: Caveman (Fuoco e Sangue) Status: Orologio escatologico in marcia. Filtro:..."
-keywords: "Matrix, codici, israele,, analisi, teologia, geometria"
-tags:
-  - israele
-  - ritorno
-  - zaccaria
-  - orologio
-  - shoah
-  - fornace
-  - fuoco
----
-# Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
+<p># Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
 
 ! [Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
 
 
 
-
-
-
-
-
-
 **Target:** Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12)
 **Protocollo:** Caveman (Fuoco e Sangue)
-**Status:** Orologio escatologico in marcia. L'orologio di Dio non segna le ore, segna le epoche. Israele non è una fazione politica; è il quadrante.</p>
+**Status:** Orologio escatologico in marcia. L'orologio di Dio non segna le ore, segna le epoche. Israele non è una fazione politica; è il quadrante. Leggiamo il codice: Fornace, Ritorno, Scontro, Rivelazione.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -102,12 +78,6 @@ Piangeranno guardando le mani bucate. Il riconoscimento brutale del Messia.
 Nessuna bandiera terrena salva. L'impalcatura geopolitica sta crollando verso il disegno finale.
 Israele non sarà salvato dalle armi, ma dal ritorno di Colui che hanno respinto.
 Orologio agli sgoccioli. Fuoco in arrivo.
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

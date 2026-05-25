@@ -19,13 +19,13 @@
   <circle cx="238" cy="232" r="29" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="238" y="232" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DOGLIE</text>
   <circle cx="295" cy="351" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="295" y="351" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CUORI</text>
+  <text x="295" y="351" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDO</text>
   <circle cx="364" cy="482" r="16" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="364" y="482" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PIETRA</text>
+  <text x="364" y="482" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TERRA</text>
   <circle cx="563" cy="413" r="21" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="563" y="413" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">BRUCIA</text>
+  <text x="563" y="413" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TREMA</text>
   <circle cx="266" cy="362" r="28" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="266" y="362" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MONDO</text>
+  <text x="266" y="362" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SOLO</text>
   <circle cx="363" cy="510" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="363" y="510" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TERRA</text>
+  <text x="363" y="510" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">HEADER</text>
 </svg>

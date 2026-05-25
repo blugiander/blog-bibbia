@@ -1,16 +1,17 @@
 ---
 title: "Proverbi (Il Codice della Sapienza)"
-description: "Il timore dell'Eterno è il principio della scienza.\" Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
+description: "> "Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
 keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
 tags:
-  - proverbi
   - sapienza
-  - timore
   - vita
+  - proverbi
+  - timore
   - follia
   - lingua
-  - codice
+  - brucia
 ---
+
 # I Proverbi: Il Codice della Sapienza Viva
 
 ![Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
@@ -18,41 +19,16 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Proverbi (Il Codice della Sapienza)"
-description: "Il timore dell'Eterno è il principio della scienza.\" Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è etica..."
-keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
-tags:
-  - proverbi
-  - sapienza
-  - timore
-  - vita
-  - follia
-  - lingua
-  - codice
----
-# I Proverbi: Il Codice della Sapienza Viva
+<p># I Proverbi: Il Codice della Sapienza Viva
 
 ! [Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
 
 
 
-
-
-
-
-
-
 > 
-"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte.</p>
+"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte. La carne viene crocifissa dalla verità.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -110,12 +86,6 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 
 **La Sapienza non si impara. Si incarna.**
 **Taglia l'orgoglio. Brucia le parole vane. Scegli la Vita.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

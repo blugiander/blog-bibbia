@@ -17,13 +17,13 @@
   <circle cx="165" cy="274" r="26" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="165" y="274" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">VEDE</text>
   <circle cx="369" cy="414" r="20" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="369" y="414" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TEOPOLITIC</text>
+  <text x="369" y="414" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FARAONE</text>
   <circle cx="338" cy="436" r="22" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="338" y="436" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
   <circle cx="555" cy="368" r="20" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="555" y="368" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FARAONE</text>
+  <text x="555" y="368" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PUOI</text>
   <circle cx="440" cy="516" r="19" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="440" y="516" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">TRONO</text>
+  <text x="440" y="516" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PERICOLO</text>
   <circle cx="467" cy="219" r="23" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="467" y="219" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PUOI</text>
+  <text x="467" y="219" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PARLA</text>
 </svg>

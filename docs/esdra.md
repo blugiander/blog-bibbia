@@ -1,16 +1,17 @@
 ---
 title: "Esdra (Il Ritorno e l"
-description: "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme...\" L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
+description: "> "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..." L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
 keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
 tags:
   - esdra
-  - gerusalemme
-  - esilio
-  - inizia
   - altare
   - ricostruzione
   - codice
+  - patto
+  - tempio
+  - gerusalemme
 ---
+
 # Esdra: Il Ritorno, l'Altare e la Radice Santa
 
 ![Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
@@ -18,43 +19,18 @@ tags:
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Esdra (Il Ritorno e l"
-description: "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme...\" L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
-keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
-tags:
-  - esdra
-  - gerusalemme
-  - esilio
-  - inizia
-  - altare
-  - ricostruzione
-  - codice
----
-# Esdra: Il Ritorno, l'Altare e la Radice Santa
+<p># Esdra: Il Ritorno, l'Altare e la Radice Santa
 
 ! [Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
-
-
-
-
-
-
 
 
 
 > 
 "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
 
-L'esilio in Babilonia è finito, ma la vera prova inizia ora.</p>
+L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il Libro di Esdra non è la cronaca di un trionfo, è la mappa della ricostruzione dalle macerie. L'impero babilonese è stato schiacciato dai Persiani.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -107,12 +83,6 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 **Nessuna ricostruzione senza altare.**
 **Nessun patto con l'infiltrazione.**
 **La Parola rivela sempre l'infezione della carne.**
-
-
-
-
-
-
 
 <!-- MATRIX_FOOTER_START -->
 <hr>

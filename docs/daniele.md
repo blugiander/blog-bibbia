@@ -1,18 +1,17 @@
 ---
 title: "Daniele"
-description: "﻿
+description: "﻿--- title: "Le Radici in Daniele" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
 tags:
   - daniele
   - bestie
   - apocalisse
   - uomo
   - figlio
-  - radici
   - giovanni
+  - radici
 ---
-title: \"Le Radici in Daniele\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
----
+
 ﻿---
 title: "Le Radici in Daniele"
 ---
@@ -260,22 +259,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Daniele"
-description: "﻿
-tags:
-  - daniele
-  - bestie
-  - apocalisse
-  - uomo
-  - figlio
-  - radici
-  - giovanni
----
-title: \"Le Radici in Daniele\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
----
-﻿---
+<p>﻿---
 title: "Le Radici in Daniele"
 ---
 
@@ -518,12 +502,6 @@ I Segreti della Scrittura
 
 
 
-
-
-
-
-
-
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
 Gli imperi sono visti dall'esterno come splendore, dall'interno come fragilità.
 
@@ -725,12 +703,6 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
     
     
       [Next &raquo;](../matteo/)
-
-
-
-
-
-
 
 
 <!-- MATRIX_FOOTER_START -->

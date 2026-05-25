@@ -1,18 +1,17 @@
 ---
 title: "Isaia"
-description: "﻿
+description: "﻿--- title: "I 5 Segreti di Isaia" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
 tags:
   - isaia
-  - segreti
   - testamento
   - messia
-  - antico
+  - segreti
   - fuoco
   - codice
+  - paradosso
 ---
-title: \"I 5 Segreti di Isaia\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
----
+
 ﻿---
 title: "I 5 Segreti di Isaia"
 ---
@@ -250,22 +249,7 @@ I Segreti della Scrittura
 <!-- MATRIX_SUMMARY_START -->
 <div class="admonition note matrix-summary">
 <p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
-<p>---
-title: "Isaia"
-description: "﻿
-tags:
-  - isaia
-  - segreti
-  - testamento
-  - messia
-  - antico
-  - fuoco
-  - codice
----
-title: \"I 5 Segreti di Isaia\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
-keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
----
-﻿---
+<p>﻿---
 title: "I 5 Segreti di Isaia"
 ---
 
@@ -345,12 +329,6 @@ I Segreti della Scrittura
     - [5.</p>
 </div>
 <!-- MATRIX_SUMMARY_END -->
-
-
-
-
-
-
 
 
 
@@ -533,12 +511,6 @@ Isaia è:
     
     
       [Next &raquo;](../lamentazioni/)
-
-
-
-
-
-
 
 
 <!-- MATRIX_FOOTER_START -->

@@ -14,15 +14,15 @@
   <circle cx="570" cy="308" r="17" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="570" y="308" fill="#008F11" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ATTI</text>
   <circle cx="474" cy="215" r="17" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="474" y="215" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIBRO</text>
+  <text x="474" y="215" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AVVERBIO</text>
   <circle cx="528" cy="366" r="22" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="528" y="366" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">AVVERBIO</text>
+  <text x="528" y="366" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">LIBRO</text>
   <circle cx="313" cy="381" r="17" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="313" y="381" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">MISSIONE</text>
   <circle cx="547" cy="440" r="18" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="547" y="440" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NUOVO</text>
+  <text x="547" y="440" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOSTOLI</text>
   <circle cx="535" cy="267" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="535" y="267" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">APOSTOLI</text>
+  <text x="535" y="267" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PIANO</text>
   <circle cx="631" cy="207" r="22" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="631" y="207" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PIANO</text>
+  <text x="631" y="207" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CODICE</text>
 </svg>
