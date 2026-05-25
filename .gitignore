@@ -1,0 +1,6 @@
+# MkDocs build output - generated automatically, do not edit
+site/
+
+# Script temporanei
+generate_assets.py
+generate_assets.ps1
