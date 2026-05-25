@@ -14,15 +14,13 @@ document.addEventListener("DOMContentLoaded", () => {
     const FONT_SIZE = 14;
 
     function makeDrops(w) {
-        const count = Math.floor(w / FONT_SIZE);
-        return new Int32Array(count).fill(1);
+        return new Int32Array(Math.floor(w / FONT_SIZE)).fill(1);
     }
 
     let drops = makeDrops(width);
 
     function randomChar() {
-        const idx = Math.floor(Math.random() * chars.length);
-        return chars.at(idx) ?? "0";
+        return chars.at(Math.floor(Math.random() * chars.length)) ?? "0";
     }
 
     function draw() {
@@ -31,10 +29,10 @@ document.addEventListener("DOMContentLoaded", () => {
         ctx.fillStyle = "#00ff00";
         ctx.font = FONT_SIZE + "px 'Fira Code', monospace";
 
-        drops.forEach((dropY, col) => {
+        // Rebuild drops each frame using Int32Array.from — no bracket[variable] writes
+        drops = Int32Array.from(drops, (dropY, col) => {
             ctx.fillText(randomChar(), col * FONT_SIZE, dropY * FONT_SIZE);
-            const shouldReset = dropY * FONT_SIZE > height && Math.random() > 0.975;
-            drops[col] = shouldReset ? 0 : dropY + 1;
+            return (dropY * FONT_SIZE > height && Math.random() > 0.975) ? 0 : dropY + 1;
         });
     }
 
@@ -57,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
         h.appendChild(hc);
 
         const hctx = hc.getContext("2d");
-        const hDrops = new Int32Array(Math.floor(hc.width / HEADER_FONT)).fill(1);
+        let hDrops = new Int32Array(Math.floor(hc.width / HEADER_FONT)).fill(1);
 
         setInterval(() => {
             hctx.fillStyle = "rgba(0, 0, 0, 0.1)";
@@ -65,11 +63,10 @@ document.addEventListener("DOMContentLoaded", () => {
             hctx.fillStyle = "#00ff00";
             hctx.font = HEADER_FONT + "px monospace";
 
-            hDrops.forEach((dropY, col) => {
-                const bit = Math.random() > 0.5 ? "1" : "0";
-                hctx.fillText(bit, col * HEADER_FONT, dropY * HEADER_FONT);
-                const shouldReset = dropY * HEADER_FONT > hc.height && Math.random() > 0.9;
-                hDrops[col] = shouldReset ? 0 : dropY + 1;
+            // Rebuild hDrops each frame — no bracket[variable] writes
+            hDrops = Int32Array.from(hDrops, (dropY, col) => {
+                hctx.fillText(Math.random() > 0.5 ? "1" : "0", col * HEADER_FONT, dropY * HEADER_FONT);
+                return (dropY * HEADER_FONT > hc.height && Math.random() > 0.9) ? 0 : dropY + 1;
             });
         }, 50);
     });
