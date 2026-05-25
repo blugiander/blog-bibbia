@@ -1,5 +1,5 @@
 ---
-title: "Mappa Evangelica Torino (Setaccio e Fuoco)"
+title: "Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica"
 ---
 
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica

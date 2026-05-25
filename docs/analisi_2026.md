@@ -1,5 +1,5 @@
 ---
-title: "Analisi 2026 (Codici nel Presente)"
+title: "­ƒôí Aprile 2026 — Codici Biblici nel Presente"
 ---
 
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente

@@ -1,5 +1,5 @@
 ---
-title: "Teopolitica 2026 (Evangelici e Cattolici)"
+title: "La Bestia Non Ha Corna. Ha un Profilo."
 ---
 
 # La Bestia Non Ha Corna. Ha un Profilo.

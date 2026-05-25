@@ -1,5 +1,5 @@
 ---
-title: "L'Arma Sonora (Influenza della Musica)"
+title: "L'Arma Sonora: Influenza Spirituale della Musica"
 ---
 
 # L'Arma Sonora: Influenza Spirituale della Musica

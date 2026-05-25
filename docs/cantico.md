@@ -1,5 +1,5 @@
 ---
-title: "Il Cantico dei Cantici (L'Amore di Fuoco)"
+title: "Il Cantico dei Cantici: L'Amore di Fuoco"
 ---
 
 # Il Cantico dei Cantici: L'Amore di Fuoco

@@ -1,5 +1,5 @@
 ---
-title: "Giobbe (La Sofferenza Innocente)"
+title: "📜 Giobbe: L'Integrità della Ribellione"
 ---
 
 # 📜 Giobbe: L'Integrità della Ribellione

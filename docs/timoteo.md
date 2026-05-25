@@ -1,5 +1,5 @@
 ---
-title: "1 e 2 Timoteo (Il Deposito e la Struttura)"
+title: "1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito"
 ---
 
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito

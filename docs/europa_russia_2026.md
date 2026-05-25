@@ -1,5 +1,5 @@
 ---
-title: "Attualità 2026 (Europa e Russia)"
+title: "Aprile 2026: Europa, Russia e le Catene d'Oro"
 ---
 
 # Aprile 2026: Europa, Russia e le Catene d'Oro

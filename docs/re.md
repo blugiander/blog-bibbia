@@ -1,5 +1,5 @@
 ---
-title: "1 e 2 Re (Fuoco, Idoli e Rovina)"
+title: "1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni"
 ---
 
 # 1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni

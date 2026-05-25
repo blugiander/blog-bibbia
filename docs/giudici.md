@@ -1,5 +1,5 @@
 ---
-title: "Giudici (Il Collasso e gli Eroi Rotti)"
+title: "Giudici: Il Ciclo del Collasso e gli Eroi Rotti"
 ---
 
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti

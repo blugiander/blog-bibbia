@@ -1,5 +1,5 @@
 ---
-title: "Il Vangelo di Giovanni"
+title: "📜 Il Vangelo di Giovanni: L'Architettura del Logos"
 ---
 
 # 📜 Il Vangelo di Giovanni: L'Architettura del Logos

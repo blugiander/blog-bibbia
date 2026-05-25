@@ -1,7 +1,5 @@
 ---
-title: "I Segreti della Scrittura – Un Viaggio Oltre il Testo"
-description: "Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi. Uomo, algoritmo e metodo Caveman."
-tags: [analisi, codice, simboli, struttura, testo]
+title: "I Segreti della Scrittura: Un Viaggio Oltre il Testo"
 ---
 
 # I Segreti della Scrittura: Un Viaggio Oltre il Testo

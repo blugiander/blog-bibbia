@@ -1,5 +1,5 @@
 ---
-title: "Israele, Shoah e 2026 (Fornace e Ritorno)"
+title: "Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico"
 ---
 
 # Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico

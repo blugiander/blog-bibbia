@@ -1,5 +1,5 @@
 ---
-title: "Lettere di Giovanni (Carne e Amore)"
+title: "📜 Lettere di Giovanni: Carne e Amore"
 ---
 
 # 📜 Lettere di Giovanni: Carne e Amore

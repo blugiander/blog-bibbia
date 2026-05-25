@@ -1,5 +1,5 @@
 ---
-title: "La Stampa 2026 (I Codici Nascosti)"
+title: "I Codici della Stampa: Aprile 2026"
 ---
 
 # I Codici della Stampa: Aprile 2026

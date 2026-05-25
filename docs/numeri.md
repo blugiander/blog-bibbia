@@ -1,5 +1,5 @@
 ---
-title: "Numeri (La Fornace del Deserto)"
+title: "I Numeri: La Fornace del Deserto"
 ---
 
 # I Numeri: La Fornace del Deserto

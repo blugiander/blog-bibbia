@@ -1,5 +1,5 @@
 ---
-title: "1 e 2 Tessalonicesi (Escatologia e l'Iniquo)"
+title: "1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato"
 ---
 
 # 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato

@@ -1,5 +1,5 @@
 ---
-title: "Ezechiele (La Gloria nell'Esilio)"
+title: "Ezechiele: La Gloria nell'Esilio"
 ---
 
 # Ezechiele: La Gloria nell'Esilio

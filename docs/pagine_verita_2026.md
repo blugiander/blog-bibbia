@@ -1,5 +1,5 @@
 ---
-title: "42 Pagine (Polvere alla Polvere)"
+title: "42 Pagine - Ipotesi Verità"
 ---
 
 # 42 Pagine - Ipotesi Verità

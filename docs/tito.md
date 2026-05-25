@@ -1,5 +1,5 @@
 ---
-title: "Tito (Architettura nel Caos)"
+title: "Tito: Architettura nel Caos e la Grazia che Addestra"
 ---
 
 # Tito: Architettura nel Caos e la Grazia che Addestra

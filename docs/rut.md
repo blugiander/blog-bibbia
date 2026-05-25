@@ -1,5 +1,5 @@
 ---
-title: "Rut (Il Redentore e la Grazia Straniera)"
+title: "Rut: Il Redentore e la Grazia Straniera"
 ---
 
 # Rut: Il Redentore e la Grazia Straniera

@@ -1,5 +1,5 @@
 ---
-title: "Esdra (Il Ritorno e l'Altare)"
+title: "Esdra: Il Ritorno, l'Altare e la Radice Santa"
 ---
 
 # Esdra: Il Ritorno, l'Altare e la Radice Santa

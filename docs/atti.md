@@ -1,5 +1,5 @@
 ---
-title: "Atti (L'Azione dello Spirito)"
+title: "📜 Gli Atti: Autobiografia dello Spirito Santo"
 ---
 
 # 📜 Gli Atti: Autobiografia dello Spirito Santo

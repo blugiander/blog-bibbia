@@ -1,5 +1,5 @@
 ---
-title: "Esodo (La Via dell'Uscita)"
+title: "Esodo (Versione Teopolitica Integrata 2026)"
 ---
 
 # Esodo (Versione Teopolitica Integrata 2026)

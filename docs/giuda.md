@@ -1,5 +1,5 @@
 ---
-title: "Giuda (L'Infiltrazione e il Fuoco)"
+title: "L'Epistola di Giuda: Infiltrazione e Guerra Spirituale"
 ---
 
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale

@@ -1,5 +1,5 @@
 ---
-title: "Il Vangelo di Matteo (Il Re e il Regno)"
+title: "Il Vangelo di Matteo: Il Re e il Regno"
 ---
 
 # Il Vangelo di Matteo: Il Re e il Regno

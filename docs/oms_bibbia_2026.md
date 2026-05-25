@@ -1,5 +1,5 @@
 ---
-title: "Sanità Globale vs Scritture (L'Idolo Biomedico)"
+title: "Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità"
 ---
 
 # Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità

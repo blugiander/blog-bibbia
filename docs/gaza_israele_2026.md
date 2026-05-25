@@ -1,5 +1,5 @@
 ---
-title: "Gaza, Israele e il Sangue (Muro Abbattuto)"
+title: "Gaza, Palestinesi e Israele 2026: Sangue, Deserto e il Muro Abbattuto"
 ---
 
 # Gaza, Palestinesi e Israele 2026: Sangue, Deserto e il Muro Abbattuto

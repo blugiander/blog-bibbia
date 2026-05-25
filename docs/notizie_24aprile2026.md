@@ -1,5 +1,5 @@
 ---
-title: "Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)"
+title: "24 Aprile 2026: I Codici Nascosti Nelle Notizie"
 ---
 
 # 24 Aprile 2026: I Codici Nascosti Nelle Notizie

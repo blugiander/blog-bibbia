@@ -1,5 +1,5 @@
 ---
-title: "Attualità 2026 (Iran e USA)"
+title: "Aprile 2026: Rumori di Guerra tra Iran e USA"
 ---
 
 # Aprile 2026: Rumori di Guerra tra Iran e USA

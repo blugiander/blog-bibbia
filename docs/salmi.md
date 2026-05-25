@@ -1,5 +1,5 @@
 ---
-title: "I Salmi (Carne, Sangue e Fuoco)"
+title: "I Salmi: Carne, Sangue e Fuoco"
 ---
 
 # I Salmi: Carne, Sangue e Fuoco

@@ -1,5 +1,5 @@
 ---
-title: "1 e 2 Samuele (Il Re e l'Unzione)"
+title: "1 e 2 Samuele: Il Re e l'Unzione"
 ---
 
 # 1 e 2 Samuele: Il Re e l'Unzione

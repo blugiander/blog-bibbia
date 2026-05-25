@@ -1,5 +1,5 @@
 ---
-title: "Genesi (La Cosmologia Ebraica)"
+title: "📜 La Genesi: L'Architettura del Tempio Cosmico"
 ---
 
 # 📜 La Genesi: L'Architettura del Tempio Cosmico

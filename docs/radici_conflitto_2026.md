@@ -1,5 +1,5 @@
 ---
-title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
+title: "Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA"
 ---
 
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA

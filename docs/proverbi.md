@@ -1,5 +1,5 @@
 ---
-title: "Proverbi (Il Codice della Sapienza)"
+title: "I Proverbi: Il Codice della Sapienza Viva"
 ---
 
 # I Proverbi: Il Codice della Sapienza Viva

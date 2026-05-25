@@ -1,5 +1,5 @@
 ---
-title: "Filemone (L'Esplosivo Ontologico)"
+title: "Filemone: L'Esplosivo Ontologico e il Costo della Fraternità"
 ---
 
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità

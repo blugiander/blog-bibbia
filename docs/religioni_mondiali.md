@@ -1,5 +1,5 @@
 ---
-title: "Religioni Mondiali vs Evangelo (La Torre e la Croce)"
+title: "Tutte le Religioni vs L'Evangelo: La Torre e la Croce"
 ---
 
 # Tutte le Religioni vs L'Evangelo: La Torre e la Croce

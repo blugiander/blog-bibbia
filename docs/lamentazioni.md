@@ -1,5 +1,5 @@
 ---
-title: "Lamentazioni (L'Architettura del Dolore)"
+title: "Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie"
 ---
 
 # Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie

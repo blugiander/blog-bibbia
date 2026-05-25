@@ -1,5 +1,5 @@
 ---
-title: "Paolo ed Ebrei (Il Cambio di Regime)"
+title: "📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico"
 ---
 
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico

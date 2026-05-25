@@ -1,5 +1,5 @@
 ---
-title: "Giacomo (La Fede e le Opere)"
+title: "Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua"
 ---
 
 # Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua

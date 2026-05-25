@@ -1,5 +1,5 @@
 ---
-title: "Apocrifi e Testi Nascosti"
+title: "📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia"
 ---
 
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
