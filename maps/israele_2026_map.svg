@@ -21,9 +21,9 @@
   <circle cx="562" cy="404" r="26" fill="#030303" stroke="#008F11" stroke-width="3"/>
   <text x="562" y="404" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OROLOGIO</text>
   <circle cx="322" cy="215" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="322" y="215" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SHOAH</text>
+  <text x="322" y="215" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FORNACE</text>
   <circle cx="326" cy="445" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="326" y="445" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FORNACE</text>
+  <text x="326" y="445" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GERUSALEMM</text>
   <circle cx="353" cy="402" r="25" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="353" y="402" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FUOCO</text>
+  <text x="353" y="402" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SHOAH</text>
 </svg>

@@ -13,9 +13,9 @@
   <circle cx="458" cy="457" r="21" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="458" y="457" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISRAELE</text>
   <circle cx="508" cy="154" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="508" y="154" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RADICI</text>
+  <text x="508" y="154" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CONFLITTO</text>
   <circle cx="371" cy="408" r="21" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="371" y="408" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CONFLITTO</text>
+  <text x="371" y="408" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RADICI</text>
   <circle cx="347" cy="441" r="27" fill="#030303" stroke="#00FF41" stroke-width="3"/>
   <text x="347" y="441" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IRAN</text>
   <circle cx="243" cy="325" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
@@ -23,5 +23,5 @@
   <circle cx="378" cy="133" r="15" fill="#030303" stroke="#33FF66" stroke-width="3"/>
   <text x="378" y="133" fill="#33FF66" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANGUE</text>
   <circle cx="249" cy="272" r="20" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="249" y="272" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PALESTINA</text>
+  <text x="249" y="272" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNALE</text>
 </svg>

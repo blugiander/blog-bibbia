@@ -15,15 +15,15 @@
   <circle cx="520" cy="398" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="520" y="398" fill="#003B00" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDICI</text>
   <circle cx="281" cy="252" r="26" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="281" y="252" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISRAELE</text>
+  <text x="281" y="252" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANSONE</text>
   <circle cx="592" cy="245" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="592" y="245" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SANSONE</text>
+  <text x="592" y="245" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ISRAELE</text>
   <circle cx="446" cy="114" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="446" y="114" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">COLLASSO</text>
+  <text x="446" y="114" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIUDICE</text>
   <circle cx="274" cy="91" r="24" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="274" y="91" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">ROTTI</text>
+  <text x="274" y="91" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARNE</text>
   <circle cx="344" cy="453" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="344" y="453" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">OGNUNO</text>
+  <text x="344" y="453" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">CARATTERE</text>
   <circle cx="491" cy="215" r="19" fill="#030303" stroke="#00FF41" stroke-width="3"/>
-  <text x="491" y="215" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PAREVA</text>
+  <text x="491" y="215" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UNZIONE</text>
 </svg>

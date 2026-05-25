@@ -22,7 +22,7 @@
   <circle cx="265" cy="449" r="24" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="265" y="449" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PRIMA</text>
   <circle cx="483" cy="149" r="27" fill="#030303" stroke="#33FF66" stroke-width="3"/>
-  <text x="483" y="149" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NESSUNO</text>
+  <text x="483" y="149" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">PANICO</text>
   <circle cx="290" cy="147" r="29" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="290" y="147" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">UOMO</text>
 </svg>

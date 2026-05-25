@@ -24,7 +24,7 @@
   <circle cx="372" cy="203" r="25" fill="#030303" stroke="#003B00" stroke-width="3"/>
   <text x="372" y="203" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">FIGLIO</text>
   <circle cx="201" cy="275" r="22" fill="#030303" stroke="#008F11" stroke-width="3"/>
-  <text x="201" y="275" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RADICI</text>
+  <text x="201" y="275" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIOVANNI</text>
   <circle cx="600" cy="310" r="15" fill="#030303" stroke="#003B00" stroke-width="3"/>
-  <text x="600" y="310" fill="#003B00" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GIOVANNI</text>
+  <text x="600" y="310" fill="#003B00" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RADICI</text>
 </svg>
