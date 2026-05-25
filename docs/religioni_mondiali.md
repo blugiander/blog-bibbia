@@ -1,8 +1,13 @@
 ---
 title: "Religioni Mondiali vs Evangelo (La Torre e la Croce)"
+description: "> "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12) Le religioni mondiali, nonostante le loro immense..."
+keywords: "Matrix, codici, religioni, analisi, teologia, geometria"
 ---
-
 # Tutte le Religioni vs L'Evangelo: La Torre e la Croce
+
+![Header religioni_mondiali](/blog-bibbia/assets/images/header_religioni_mondiali.svg)
+
+
 
 > 
 "C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte." (Proverbi 14:12)

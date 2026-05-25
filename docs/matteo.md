@@ -1,8 +1,13 @@
 ---
 title: "Il Vangelo di Matteo (Il Re e il Regno)"
+description: "> "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
 ---
-
 # Il Vangelo di Matteo: Il Re e il Regno
+
+![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
+
+
 
 > 
 "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo."

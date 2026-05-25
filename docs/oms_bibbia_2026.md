@@ -1,8 +1,13 @@
 ---
-title: "Sanità Globale vs Scritture (L'Idolo Biomedico)"
+title: "Sanità Globale vs Scritture (L"
+description: "> "Egli ha detto nella sua superbia: 'Io sono un dio, siedo sul trono di Dio...'. Eppure tu sei un uomo e non Dio, per quanto tu faccia il tuo cuore..."
+keywords: "Matrix, codici, sanità, analisi, teologia, geometria"
 ---
-
 # Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità
+
+![Header oms_bibbia_2026](/blog-bibbia/assets/images/header_oms_bibbia_2026.svg)
+
+
 
 > 
 "Egli ha detto nella sua superbia: 'Io sono un dio, siedo sul trono di Dio...'. Eppure tu sei un uomo e non Dio, per quanto tu faccia il tuo cuore simile al cuore di Dio." (Ezechiele 28:2)

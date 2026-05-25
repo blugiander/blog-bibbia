@@ -1,8 +1,13 @@
 ---
 title: "Paolo ed Ebrei (Il Cambio di Regime)"
+description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. --- Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
+keywords: "Matrix, codici, paolo, analisi, teologia, geometria"
 ---
-
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
+
+![Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
+
+
 
 *Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere.*
 

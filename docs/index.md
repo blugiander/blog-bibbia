@@ -1,9 +1,8 @@
 ---
 title: "I Segreti della Scrittura – Un Viaggio Oltre il Testo"
-description: "Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi. Uomo, algoritmo e metodo Caveman."
-tags: [analisi, codice, simboli, struttura, matrix, testo]
+description: "> "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto." Benvenuti in questo spazio di esplorazione...."
+keywords: "Matrix, codici, i, analisi, teologia, geometria"
 ---
-
 # I Segreti della Scrittura: Un Viaggio Oltre il Testo
 
 > "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto."

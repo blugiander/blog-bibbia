@@ -1,3 +1,8 @@
+---
+title: "Daniele"
+description: "﻿--- title: "Le Radici in Daniele" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
+---
 ﻿---
 title: "Le Radici in Daniele"
 ---
@@ -238,7 +243,11 @@ I Segreti della Scrittura
 
 ---
 
-## 1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)
+# 1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)
+
+![Header daniele](/blog-bibbia/assets/images/header_daniele.svg)
+
+
 
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
 Gli imperi sono visti dall'esterno come splendore, dall'interno come fragilità.

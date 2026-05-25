@@ -1,8 +1,13 @@
 ---
-title: "Giuda (L'Infiltrazione e il Fuoco)"
+title: "Giuda (L"
+description: "> "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
+keywords: "Matrix, codici, giuda, analisi, teologia, geometria"
 ---
-
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
+
+![Header giuda](/blog-bibbia/assets/images/header_giuda.svg)
+
+
 
 > 
 "Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata trasmessa ai santi una volta per sempre."

@@ -1,8 +1,13 @@
 ---
-title: "Il Cantico dei Cantici (L'Amore di Fuoco)"
+title: "Il Cantico dei Cantici (L"
+description: "> "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
 ---
-
 # Il Cantico dei Cantici: L'Amore di Fuoco
+
+![Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
+
+
 
 > 
 "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio."

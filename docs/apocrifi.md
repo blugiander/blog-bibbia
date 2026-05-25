@@ -1,8 +1,13 @@
 ---
 title: "Apocrifi e Testi Nascosti"
+description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna..."
+keywords: "Matrix, codici, apocrifi, analisi, teologia, geometria"
 ---
-
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
+
+![Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
+
+
 
 *Perché non è una questione politica, ma ontologica.*
 

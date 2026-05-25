@@ -1,8 +1,13 @@
 ---
 title: "Tito (Architettura nel Caos)"
+description: "> "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..." Creta..."
+keywords: "Matrix, codici, tito, analisi, teologia, geometria"
 ---
-
 # Tito: Architettura nel Caos e la Grazia che Addestra
+
+![Header tito](/blog-bibbia/assets/images/header_tito.svg)
+
+
 
 > 
 "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..."

@@ -1,8 +1,13 @@
 ---
 title: "Israele, Shoah e 2026 (Fornace e Ritorno)"
+description: "Target: Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12) Protocollo: Caveman (Fuoco e Sangue) Status: Orologio escatologico in marcia. Filtro:..."
+keywords: "Matrix, codici, israele,, analisi, teologia, geometria"
 ---
-
 # Israele, Shoah e 2026: Fornace, Ritorno e Fuoco Escatologico
+
+![Header israele_2026](/blog-bibbia/assets/images/header_israele_2026.svg)
+
+
 
 **Target:** Israele (Cronologia Divina: Shoah, 1948, 2026, Zaccaria 12)
 **Protocollo:** Caveman (Fuoco e Sangue)

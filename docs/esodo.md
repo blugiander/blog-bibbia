@@ -1,8 +1,13 @@
 ---
-title: "Esodo (La Via dell'Uscita)"
+title: "Esodo (La Via dell"
+description: "LÔÇÖEsodo non è un racconto antico. È il prototipo di ogni liberazione quando il potere tenta di trasformare lÔÇÖessere umano in funzione, dato, identità..."
+keywords: "Matrix, codici, esodo, analisi, teologia, geometria"
 ---
-
 # Esodo (Versione Teopolitica Integrata 2026)
+
+![Header esodo](/blog-bibbia/assets/images/header_esodo.svg)
+
+
 
 ### La Via dellÔÇÖUscita nellÔÇÖEra del Controllo Digitale
 

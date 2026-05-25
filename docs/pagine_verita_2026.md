@@ -1,8 +1,13 @@
 ---
 title: "42 Pagine (Polvere alla Polvere)"
+description: "MODO: Caveman. Zero compromessi. 1. ANATEMA O ECO: Eco. Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
+keywords: "Matrix, codici, 42, analisi, teologia, geometria"
 ---
-
 # 42 Pagine - Ipotesi Verità
+
+![Header pagine_verita_2026](/blog-bibbia/assets/images/header_pagine_verita_2026.svg)
+
+
 
 **MODO:** Caveman. Zero compromessi.
 

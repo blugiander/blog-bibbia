@@ -1,8 +1,13 @@
 ---
-title: "Esdra (Il Ritorno e l'Altare)"
+title: "Esdra (Il Ritorno e l"
+description: "> "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..." L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
+keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
 ---
-
 # Esdra: Il Ritorno, l'Altare e la Radice Santa
+
+![Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
+
+
 
 > 
 "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."

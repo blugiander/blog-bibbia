@@ -1,8 +1,13 @@
 ---
-title: "Filemone (L'Esplosivo Ontologico)"
+title: "Filemone (L"
+description: "> "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
+keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
 ---
-
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
+
+![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
+
+
 
 > 
 "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me."

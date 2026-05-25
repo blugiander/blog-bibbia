@@ -1,8 +1,13 @@
 ---
 title: "Giudici (Il Collasso e gli Eroi Rotti)"
+description: "> "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. È..."
+keywords: "Matrix, codici, giudici, analisi, teologia, geometria"
 ---
-
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti
+
+![Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
+
+
 
 > 
 "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi."

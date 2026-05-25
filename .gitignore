@@ -4,3 +4,8 @@ site/
 # Script temporanei
 generate_assets.py
 generate_assets.ps1
+recovered_*.html
+*.json
+*.ps1
+restore_from_*.py
+fix_encoding.py

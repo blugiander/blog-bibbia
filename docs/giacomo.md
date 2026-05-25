@@ -1,8 +1,13 @@
 ---
 title: "Giacomo (La Fede e le Opere)"
+description: "> "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede." Giacomo..."
+keywords: "Matrix, codici, giacomo, analisi, teologia, geometria"
 ---
-
 # Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua
+
+![Header giacomo](/blog-bibbia/assets/images/header_giacomo.svg)
+
+
 
 > 
 "Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede."

@@ -1,3 +1,8 @@
+---
+title: "Isaia"
+description: "﻿--- title: "I 5 Segreti di Isaia" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
+---
 ﻿---
 title: "I 5 Segreti di Isaia"
 ---
@@ -228,7 +233,11 @@ I Segreti della Scrittura
 
 ---
 
-## 1. Il Codice "66": La Struttura Frattale della Bibbia
+# 1. Il Codice "66": La Struttura Frattale della Bibbia
+
+![Header isaia](/blog-bibbia/assets/images/header_isaia.svg)
+
+
 
 Isaia è un microcosmo canonico:
 

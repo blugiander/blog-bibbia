@@ -1,8 +1,13 @@
 ---
-title: "Atti (L'Azione dello Spirito)"
+title: "Atti (L"
+description: "Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. --- Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento...."
+keywords: "Matrix, codici, atti, analisi, teologia, geometria"
 ---
-
 # 📜 Gli Atti: Autobiografia dello Spirito Santo
+
+![Header atti](/blog-bibbia/assets/images/header_atti.svg)
+
+
 
 *Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte.*
 

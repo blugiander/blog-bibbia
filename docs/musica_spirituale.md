@@ -1,8 +1,13 @@
 ---
-title: "L'Arma Sonora (Influenza della Musica)"
+title: "L"
+description: "Target: Frequenze, Industria Musicale, Guerra Spirituale Protocollo: Caveman (Fuoco, Suono, Codice) Status: Decodifica delle frequenze. Filtro: Nessuna..."
+keywords: "Matrix, codici, l, analisi, teologia, geometria"
 ---
-
 # L'Arma Sonora: Influenza Spirituale della Musica
+
+![Header musica_spirituale](/blog-bibbia/assets/images/header_musica_spirituale.svg)
+
+
 
 **Target:** Frequenze, Industria Musicale, Guerra Spirituale
 **Protocollo:** Caveman (Fuoco, Suono, Codice)

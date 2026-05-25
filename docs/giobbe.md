@@ -1,8 +1,13 @@
 ---
 title: "Giobbe (La Sofferenza Innocente)"
+description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. --- Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è..."
+keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
 ---
-
 # 📜 Giobbe: L'Integrità della Ribellione
+
+![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
+
+
 
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo.*
 

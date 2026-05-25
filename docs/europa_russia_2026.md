@@ -1,8 +1,13 @@
 ---
 title: "Attualità 2026 (Europa e Russia)"
+description: "> "Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta." Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che..."
+keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
 ---
-
 # Aprile 2026: Europa, Russia e le Catene d'Oro
+
+![Header europa_russia_2026](/blog-bibbia/assets/images/header_europa_russia_2026.svg)
+
+
 
 > 
 "Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta."

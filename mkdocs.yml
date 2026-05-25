@@ -1,5 +1,7 @@
 site_name: I Segreti della Scrittura
 site_description: Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi.
+site_url: https://blugiander.github.io/blog-bibbia/
+
 theme:
   name: material
   language: it
@@ -7,9 +9,22 @@ theme:
     text: Fira Code
     code: Fira Code
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
       accent: green
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: green
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+
 docs_dir: docs
 site_dir: site
 

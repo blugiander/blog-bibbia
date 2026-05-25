@@ -1,8 +1,13 @@
 ---
-title: "1 e 2 Tessalonicesi (Escatologia e l'Iniquo)"
+title: "1 e 2 Tessalonicesi (Escatologia e l"
+description: "> "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il..."
+keywords: "Matrix, codici, 1, analisi, teologia, geometria"
 ---
-
 # 1 e 2 Tessalonicesi: L'Escatologia del Fuoco e l'Uomo del Peccato
+
+![Header tessalonicesi](/blog-bibbia/assets/images/header_tessalonicesi.svg)
+
+
 
 > 
 "Nessuno vi inganni in alcun modo; poiché quel giorno non verrà se prima non sia venuta l'apostasia e non sia stato manifestato l'uomo del peccato, il figlio della perdizione."

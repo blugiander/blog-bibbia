@@ -1,152 +1,109 @@
-/* Matrix Theme Override */
+/* Matrix Theme Override 3.0 */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');
 
+:root {
+  --matrix-bg: #030303;
+  --matrix-green: #00FF41;
+  --matrix-dark-green: #003B00;
+  --matrix-light-green: #33FF66;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--matrix-bg);
+  --md-default-fg-color: var(--matrix-green);
+  --md-primary-fg-color: #000;
+  --md-primary-bg-color: var(--matrix-green);
+  --md-accent-fg-color: var(--matrix-light-green);
+}
+
+/* Modalità chiara terminal-inverted */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f0f0f0;
+  --md-default-fg-color: #003300;
+  --md-primary-fg-color: #00ff41;
+  --md-primary-bg-color: #002200;
+  --md-accent-fg-color: #005500;
+}
+
 body, html {
-    background-color: #000000 !important;
-    color: #00ff00 !important;
     font-family: 'Fira Code', 'Courier New', monospace !important;
 }
 
-/* MkDocs Theme specific overrides */
-.navbar {
-    background-color: #001100 !important;
-    border-bottom: 1px solid #00ff00 !important;
+/* Core glow and aesthetics */
+.md-header, .md-tabs {
+    background-color: var(--matrix-dark-green) !important;
+    border-bottom: 1px solid var(--matrix-green) !important;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.4);
 }
 
-.navbar .navbar-brand, .navbar .nav-link {
-    color: #00ff00 !important;
-    text-shadow: 0 0 5px #00ff00;
+.md-nav__link--active, .md-nav__link:hover {
+    color: var(--matrix-light-green) !important;
+    text-shadow: 0 0 8px var(--matrix-green);
 }
 
-.container .col-md-3, .col-md-9 {
-    background-color: transparent !important;
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+    color: var(--matrix-green) !important;
+    text-shadow: 0 0 5px var(--matrix-green);
+    border-bottom: 1px dashed var(--matrix-dark-green);
+    padding-bottom: 0.3em;
 }
 
-.bs-sidebar {
-    background-color: #001100 !important;
-    border-right: 1px solid #00ff00 !important;
+.md-typeset a {
+    color: var(--matrix-green) !important;
+    text-decoration: none;
+    transition: all 0.3s ease;
 }
 
-.bs-sidebar .nav > li > a {
-    color: #00cc00 !important;
+.md-typeset a:hover {
+    color: var(--matrix-light-green) !important;
+    text-shadow: 0 0 10px var(--matrix-light-green);
 }
 
-.bs-sidebar .nav > li > a:hover, .bs-sidebar .nav > .active > a {
-    background-color: #003300 !important;
-    color: #00ff00 !important;
-    border-left: 2px solid #00ff00 !important;
-    text-shadow: 0 0 8px #00ff00;
+.md-button {
+    border: 1px solid var(--matrix-green) !important;
+    color: var(--matrix-green) !important;
+    box-shadow: 0 0 5px var(--matrix-green);
+    transition: all 0.2s ease-in-out;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #00ff00 !important;
-    border-bottom: 1px dashed #004400 !important;
-    padding-bottom: 5px;
-    text-shadow: 0 0 5px #00ff00;
+.md-button:hover {
+    background-color: var(--matrix-green) !important;
+    color: var(--matrix-bg) !important;
+    box-shadow: 0 0 15px var(--matrix-green);
 }
 
-a {
-    color: #00ff00 !important;
-    text-decoration: none !important;
+.md-typeset blockquote {
+    border-left: 4px solid var(--matrix-green);
+    background-color: rgba(0, 59, 0, 0.2);
+    color: var(--matrix-light-green);
+    box-shadow: inset 0 0 10px rgba(0, 255, 65, 0.1);
 }
 
-a:hover {
-    text-shadow: 0 0 10px #00ff00 !important;
+.md-typeset pre > code {
+    background-color: #000 !important;
+    border: 1px solid var(--matrix-dark-green);
+    box-shadow: inset 0 0 10px rgba(0, 255, 65, 0.1);
 }
 
-p, li, td, th {
-    color: #00cc00 !important;
-    line-height: 1.6;
-}
-
-blockquote {
-    border-left: 4px solid #00ff00 !important;
-    background-color: rgba(0, 50, 0, 0.3) !important;
-    color: #00ff00 !important;
-    padding: 10px 20px !important;
-    margin: 20px 0 !important;
-    font-style: italic;
-    text-shadow: 0 0 2px #00ff00;
-}
-
-code {
-    background-color: #002200 !important;
-    color: #00ff00 !important;
-    border: 1px solid #005500 !important;
-}
-
-pre {
-    background-color: #001100 !important;
-    border: 1px solid #00ff00 !important;
-    box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
-}
-
-table {
-    width: 100%;
-    margin-bottom: 1rem;
-    color: #00cc00;
-    border: 1px solid #00ff00;
-}
-
-th, td {
-    padding: 0.75rem;
-    vertical-align: top;
-    border-top: 1px solid #005500;
-}
-
-thead th {
-    vertical-align: bottom;
-    border-bottom: 2px solid #00ff00;
-    background-color: #002200;
-}
-
-/* Scrollbar */
+/* Scrollbar Cyberpunk */
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 8px;
+    height: 8px;
 }
 ::-webkit-scrollbar-track {
-    background: #000;
+    background: var(--matrix-bg);
+    border-left: 1px solid var(--matrix-dark-green);
 }
 ::-webkit-scrollbar-thumb {
-    background: #00ff00;
+    background: var(--matrix-green);
+    border-radius: 0;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #00cc00;
+    background: var(--matrix-light-green);
+    box-shadow: 0 0 10px var(--matrix-green);
 }
 
-/* Matrix Header Animated Container */
-.matrix-header-container {
-    width: 100%;
-    height: 100px;
-    background-color: #000;
-    border: 1px solid #00ff00;
-    box-shadow: inset 0 0 10px #00ff00;
-    margin-bottom: 20px;
-    position: relative;
-    overflow: hidden;
-}
-
-.matrix-header-container::after {
-    content: "SCANNING DATA...";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #00ff00;
-    font-weight: bold;
-    font-size: 24px;
-    letter-spacing: 5px;
-    text-shadow: 0 0 10px #00ff00;
-    animation: blink 1.5s infinite;
-    z-index: 2;
-}
-
-@keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-}
-
-/* Background canvas */
+/* Matrix Background Canvas */
 #matrix-bg {
     position: fixed;
     top: 0;
@@ -154,6 +111,47 @@ thead th {
     width: 100vw;
     height: 100vh;
     z-index: -1;
-    opacity: 0.15;
+    opacity: 0.12;
     pointer-events: none;
+}
+
+/* Active Footer */
+.matrix-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 25px;
+    background-color: #000;
+    border-top: 1px solid var(--matrix-green);
+    color: var(--matrix-green);
+    font-size: 12px;
+    line-height: 25px;
+    white-space: nowrap;
+    overflow: hidden;
+    z-index: 999;
+}
+
+.matrix-footer-text {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-footer 20s linear infinite;
+    text-shadow: 0 0 3px var(--matrix-green);
+}
+
+@keyframes scroll-footer {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+
+/* Hide mkdocs default footer */
+.md-footer-meta {
+    margin-bottom: 25px;
+}
+
+img[src$=".svg"] {
+    border: 1px solid var(--matrix-dark-green);
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.2);
+    border-radius: 4px;
+    background-color: var(--matrix-bg);
 }

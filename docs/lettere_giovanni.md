@@ -1,8 +1,13 @@
 ---
 title: "Lettere di Giovanni (Carne e Amore)"
+description: "Analisi tecnica contro l'eresia e definizione ontologica dell'amore. --- Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria..."
+keywords: "Matrix, codici, lettere, analisi, teologia, geometria"
 ---
-
 # 📜 Lettere di Giovanni: Carne e Amore
+
+![Header lettere_giovanni](/blog-bibbia/assets/images/header_lettere_giovanni.svg)
+
+
 
 *Analisi tecnica contro l'eresia e definizione ontologica dell'amore.*
 

@@ -1,8 +1,13 @@
 ---
 title: "Proverbi (Il Codice della Sapienza)"
+description: "> "Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
+keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
 ---
-
 # I Proverbi: Il Codice della Sapienza Viva
+
+![Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
+
+
 
 > 
 "Il timore dell'Eterno è il principio della scienza."

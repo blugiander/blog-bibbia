@@ -1,8 +1,13 @@
 ---
 title: "Teopolitica 2026 (Evangelici e Cattolici)"
+description: "Il fuoco non si analizza. Si teme, o si attraversa. --- Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
+keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 ---
-
 # La Bestia Non Ha Corna. Ha un Profilo.
+
+![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
+
+
 
 *Il fuoco non si analizza. Si teme, o si attraversa.*
 

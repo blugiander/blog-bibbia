@@ -1,8 +1,13 @@
 ---
 title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
+description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
+keywords: "Matrix, codici, radici, analisi, teologia, geometria"
 ---
-
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
+
+![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
+
+
 
 **Target:** L'Architettura Invisibile del Conflitto
 **Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)

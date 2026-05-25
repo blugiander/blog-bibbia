@@ -1,8 +1,13 @@
 ---
 title: "Genesi (La Cosmologia Ebraica)"
+description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. --- Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
+keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
 ---
-
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
+
+![Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
+
+
 
 *Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono.*
 

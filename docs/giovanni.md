@@ -1,8 +1,13 @@
 ---
 title: "Il Vangelo di Giovanni"
+description: "Il Vangelo che non narra la storia: la interpreta dall'eternità. --- Giovanni non inizia con Betlemme, ma con l'eternità. > En arch─ô ─ôn ho Logos — "Nel..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
 ---
-
 # 📜 Il Vangelo di Giovanni: L'Architettura del Logos
+
+![Header giovanni](/blog-bibbia/assets/images/header_giovanni.svg)
+
+
 
 *Il Vangelo che non narra la storia: la interpreta dall'eternità.*
 

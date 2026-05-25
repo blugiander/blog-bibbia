@@ -1,8 +1,13 @@
 ---
 title: "Attualità 2026 (Iran e USA)"
+description: "> "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi." Dimentica la geopolitica. Dimentica gli analisti. Il mondo trema per l'Iran e..."
+keywords: "Matrix, codici, attualità, analisi, teologia, geometria"
 ---
-
 # Aprile 2026: Rumori di Guerra tra Iran e USA
+
+![Header iran_usa_2026](/blog-bibbia/assets/images/header_iran_usa_2026.svg)
+
+
 
 > 
 "Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi."

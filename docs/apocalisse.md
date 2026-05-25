@@ -1,3 +1,8 @@
+---
+title: "Apocalisse"
+description: "﻿--- title: "Apocalisse (Livello Profondo)" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via..."
+keywords: "Matrix, codici, apocalisse, analisi, teologia, geometria"
+---
 ﻿---
 title: "Apocalisse (Livello Profondo)"
 ---
@@ -254,7 +259,11 @@ I Segreti della Scrittura
 
 ---
 
-## 1. Il Simbolismo Numerico: La Matematica del Sacro
+# 1. Il Simbolismo Numerico: La Matematica del Sacro
+
+![Header apocalisse](/blog-bibbia/assets/images/header_apocalisse.svg)
+
+
 
 Nell'Apocalisse i numeri non contano quantità: definiscono essenze.
 

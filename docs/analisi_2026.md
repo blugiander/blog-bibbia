@@ -1,8 +1,13 @@
 ---
 title: "Analisi 2026 (Codici nel Presente)"
+description: "La carne contro il codice: una mappa teologica dell'era digitale. --- Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
+keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
 ---
-
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente
+
+![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
+
+
 
 *La carne contro il codice: una mappa teologica dell'era digitale.*
 

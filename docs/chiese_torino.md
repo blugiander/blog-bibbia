@@ -1,8 +1,13 @@
 ---
 title: "Mappa Evangelica Torino (Setaccio e Fuoco)"
+description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: Caveman (Fuoco e Sangue) Status: Decodifica in corso. La mappa riporta indirizzi...."
+keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
 ---
-
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
+
+![Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
+
+
 
 **Target:** Mappa Istituzionale (Torino, evangelici.net)
 **Protocollo:** Caveman (Fuoco e Sangue)
