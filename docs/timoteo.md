@@ -1,11 +1,53 @@
 ---
 title: "1 e 2 Timoteo (Il Deposito e la Struttura)"
-description: "> "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
+description: "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi.\" Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
+tags:
+  - timoteo
+  - deposito
+  - paolo
+  - struttura
+  - buon
+  - mezzo
+  - lascia
 ---
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
 
 ![Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "1 e 2 Timoteo (Il Deposito e la Struttura)"
+description: "Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi.\" Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
+keywords: "Matrix, codici, 1, analisi, teologia, geometria"
+tags:
+  - timoteo
+  - deposito
+  - paolo
+  - struttura
+  - buon
+  - mezzo
+  - lascia
+---
+# 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
+
+! [Header timoteo](/blog-bibbia/assets/images/header_timoteo.svg)
+
+
+
+
+
+
+> 
+"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi." Non lascia a Timoteo un impero immobiliare, una rete di contatti politici o una mega-chiesa. Gli lascia un "deposito": la cruda verità del Vangelo, e il peso di proteggerla dall'infezione.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -53,3 +95,28 @@ L'apostolo muore, ma il codice sopravvive. "Quello che hai udito da me... affida
 **La chiesa senza struttura morale crolla sotto la cultura.**
 **Negli ultimi giorni la religione di facciata sarà l'inganno peggiore.**
 **Il vero leader non cerca applausi, custodisce il deposito e muore fedele.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
+- [FILEMONE](../filemone/)
+- [MUSICA SPIRITUALE](../musica_spirituale/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/timoteo_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/timoteo.pdf)
+- 📚 **EPUB**: [Download](../export/timoteo.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/timoteo.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

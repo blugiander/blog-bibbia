@@ -1,11 +1,53 @@
 ---
 title: "Il Vangelo di Matteo (Il Re e il Regno)"
-description: "> "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
+description: "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo.\" Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
 keywords: "Matrix, codici, il, analisi, teologia, geometria"
+tags:
+  - matteo
+  - regno
+  - vangelo
+  - figlio
+  - sangue
+  - viene
+  - genealogia
 ---
 # Il Vangelo di Matteo: Il Re e il Regno
 
 ![Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Il Vangelo di Matteo (Il Re e il Regno)"
+description: "Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo.\" Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
+tags:
+  - matteo
+  - regno
+  - vangelo
+  - figlio
+  - sangue
+  - viene
+  - genealogia
+---
+# Il Vangelo di Matteo: Il Re e il Regno
+
+! [Header matteo](/blog-bibbia/assets/images/header_matteo.svg)
+
+
+
+
+
+
+> 
+"Libro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo." Il Vangelo di Matteo non è un racconto storico. È il manifesto di un colpo di stato cosmico.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -54,3 +96,28 @@ La morte è sconfitta. Il Re vive. Il Regno è inarrestabile.
 
 **Il Regno dei Cieli ha invaso la terra.**
 **Sottomettiti al Re o verrai stritolato dalla Sua grazia.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+- [ISRAELE 2026](../israele_2026/)
+- [PAOLO](../paolo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/matteo_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/matteo.pdf)
+- 📚 **EPUB**: [Download](../export/matteo.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/matteo.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

@@ -1,11 +1,53 @@
 ---
 title: "1 e 2 Samuele (Il Re e l"
-description: "> "L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
+description: "L'Eterno non guarda a quello a cui guarda l'uomo.\" I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
 keywords: "Matrix, codici, 1, analisi, teologia, geometria"
+tags:
+  - samuele
+  - uomo
+  - unzione
+  - eterno
+  - guarda
+  - umana
+  - carne
 ---
 # 1 e 2 Samuele: Il Re e l'Unzione
 
 ![Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "1 e 2 Samuele (Il Re e l"
+description: "L'Eterno non guarda a quello a cui guarda l'uomo.\" I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
+keywords: "Matrix, codici, 1, analisi, teologia, geometria"
+tags:
+  - samuele
+  - uomo
+  - unzione
+  - eterno
+  - guarda
+  - umana
+  - carne
+---
+# 1 e 2 Samuele: Il Re e l'Unzione
+
+! [Header samuele](/blog-bibbia/assets/images/header_samuele.svg)
+
+
+
+
+
+
+> 
+"L'Eterno non guarda a quello a cui guarda l'uomo." I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta divina.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -54,3 +96,28 @@ Grazia assoluta, ma le conseguenze restano scritte nel sangue.
 
 **Smetti di cercare re di carne.**
 **L'armatura umana non ferma i giganti. Solo l'Unzione spezza il giogo.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [ANALISI 2026](../analisi_2026/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/samuele_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/samuele.pdf)
+- 📚 **EPUB**: [Download](../export/samuele.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/samuele.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

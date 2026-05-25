@@ -1,11 +1,53 @@
 ---
 title: "Il Cantico dei Cantici (L"
-description: "> "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
+description: "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio.\" Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
 keywords: "Matrix, codici, il, analisi, teologia, geometria"
+tags:
+  - cantico
+  - sigillo
+  - amore
+  - cuore
+  - fuoco
+  - cerca
+  - sposa
 ---
 # Il Cantico dei Cantici: L'Amore di Fuoco
 
 ![Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Il Cantico dei Cantici (L"
+description: "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio.\" Il Cantico non è una favola. Non è teologia per la mente. È il nucleo..."
+keywords: "Matrix, codici, il, analisi, teologia, geometria"
+tags:
+  - cantico
+  - sigillo
+  - amore
+  - cuore
+  - fuoco
+  - cerca
+  - sposa
+---
+# Il Cantico dei Cantici: L'Amore di Fuoco
+
+! [Header cantico](/blog-bibbia/assets/images/header_cantico.svg)
+
+
+
+
+
+
+> 
+"Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio." Il Cantico non è una favola.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -58,3 +100,28 @@ Il letargo è morte. La voce è resurrezione.
 
 **La religione ti dà regole. Il Cantico ti dà fuoco.**
 **Non fermarti al cortile. Entra nella camera del Re e brucia.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [MUSICA SPIRITUALE](../musica_spirituale/)
+- [RE](../re/)
+- [MATTEO](../matteo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/cantico_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/cantico.pdf)
+- 📚 **EPUB**: [Download](../export/cantico.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/cantico.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

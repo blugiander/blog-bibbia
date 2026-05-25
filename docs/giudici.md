@@ -1,11 +1,53 @@
 ---
 title: "Giudici (Il Collasso e gli Eroi Rotti)"
-description: "> "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. È..."
+description: "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi.\" Il Libro dei Giudici non è un manuale di morale. È..."
 keywords: "Matrix, codici, giudici, analisi, teologia, geometria"
+tags:
+  - giudici
+  - israele
+  - sansone
+  - collasso
+  - rotti
+  - ognuno
+  - pareva
 ---
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti
 
 ![Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Giudici (Il Collasso e gli Eroi Rotti)"
+description: "In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi.\" Il Libro dei Giudici non è un manuale di morale. È..."
+keywords: "Matrix, codici, giudici, analisi, teologia, geometria"
+tags:
+  - giudici
+  - israele
+  - sansone
+  - collasso
+  - rotti
+  - ognuno
+  - pareva
+---
+# Giudici: Il Ciclo del Collasso e gli Eroi Rotti
+
+! [Header giudici](/blog-bibbia/assets/images/header_giudici.svg)
+
+
+
+
+
+
+> 
+"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi." Il Libro dei Giudici non è un manuale di morale. La generazione che ha visto il fuoco e il mare aperto è sepolta.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -66,3 +108,28 @@ Nessun giudice. Nessuna legge. Solo la carne senza freno.
 **Il compromesso non si stabilizza, marcisce.**
 **L'unzione non garantisce il carattere.**
 **Quando la verità oggettiva cade ("ognuno faceva ciò che pareva giusto"), il risultato non è la libertà. È la barbarie.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [SALMI](../salmi/)
+- [GIUDA](../giuda/)
+- [LETTERE GIOVANNI](../lettere_giovanni/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giudici_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/giudici.pdf)
+- 📚 **EPUB**: [Download](../export/giudici.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/giudici.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

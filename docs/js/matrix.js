@@ -71,17 +71,4 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 50);
     });
 
-    // Inject Active Footer
-    const footer = document.createElement("div");
-    footer.className = "matrix-footer";
-    
-    const footerText = document.createElement("div");
-    footerText.className = "matrix-footer-text";
-    
-    // Generate some raw tech/biblical-sounding code for the footer
-    const footerString = "SYSTEM.ONLINE // PROTOCOL_OMEGA_2026 // ALL_DATA_INTERCEPTED // ENCRYPTION_LEVEL_7 // THE_WORD_IS_CODE // SEEK_AND_YOU_SHALL_FIND_0x00FF // END_OF_FILE_REACHED // WAITING_FOR_INPUT...";
-    footerText.innerText = footerString.repeat(5);
-    
-    footer.appendChild(footerText);
-    document.body.appendChild(footer);
 });

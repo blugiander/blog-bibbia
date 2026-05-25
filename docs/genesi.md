@@ -1,11 +1,57 @@
 ---
 title: "Genesi (La Cosmologia Ebraica)"
-description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. --- Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
+description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono.
+tags:
+  - giorno
+  - genesi
+  - uomo
+  - trono
+  - tempio
+  - albero
+  - tohu
+---
+Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
 keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
 ---
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
 
 ![Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Genesi (La Cosmologia Ebraica)"
+description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. tags:
+  - giorno
+  - genesi
+  - uomo
+  - trono
+  - tempio
+  - albero
+  - tohu
+---
+Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
+keywords: "Matrix, codici, genesi, analisi, teologia, geometria"
+---
+# 📜 La Genesi: L'Architettura del Tempio Cosmico
+
+! [Header genesi](/blog-bibbia/assets/images/header_genesi.svg)
+
+
+
+
+
+
+*Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. Il Caos (*Tohu wa-Bohu*): Potenzialità, non Nulla
+
+Genesi 1 non descrive l'*ex nihilo* (che verrà formulato molto più tardi). Descrive l'azione di Dio che ordina un caos preesistente.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -163,3 +209,28 @@ Genesi 1–3 non è cosmologia scientifica. È **cosmologia liturgica**.
 
 > 
 La Genesi non spiega **come** è fatto il mondo. Spiega **perché** il mondo è sacro.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [GIUDA](../giuda/)
+- [TESSALONICESI](../tessalonicesi/)
+- [ESODO](../esodo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/genesi_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/genesi.pdf)
+- 📚 **EPUB**: [Download](../export/genesi.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/genesi.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

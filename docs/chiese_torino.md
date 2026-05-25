@@ -2,10 +2,53 @@
 title: "Mappa Evangelica Torino (Setaccio e Fuoco)"
 description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: Caveman (Fuoco e Sangue) Status: Decodifica in corso. La mappa riporta indirizzi...."
 keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
+tags:
+  - mappa
+  - torino
+  - fuoco
+  - sangue
+  - chiese
+  - protocollo
+  - decodifica
 ---
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
 
 ![Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Mappa Evangelica Torino (Setaccio e Fuoco)"
+description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: Caveman (Fuoco e Sangue) Status: Decodifica in corso. La mappa riporta indirizzi...."
+keywords: "Matrix, codici, mappa, analisi, teologia, geometria"
+tags:
+  - mappa
+  - torino
+  - fuoco
+  - sangue
+  - chiese
+  - protocollo
+  - decodifica
+---
+# Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
+
+! [Header chiese_torino](/blog-bibbia/assets/images/header_chiese_torino.svg)
+
+
+
+
+
+
+**Target:** Mappa Istituzionale (Torino, evangelici.net)
+**Protocollo:** Caveman (Fuoco e Sangue)
+**Status:** Decodifica in corso. Il Cielo legge un'altra mappa: quella dell'Unzione. Le istituzioni non impressionano il Trono.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -55,3 +98,28 @@ L'etichetta "evangelica" non garantisce l'ingresso al banchetto. L'unica moneta 
 **Conclusione:**
 Bruciare le mappe umane. Cercare le coordinate dello Spirito.
 Uscire dalla Babilonia religiosa. Il Re sta tornando per una Sposa, non per un consiglio d'amministrazione.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [LASTAMPA 2026](../lastampa_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/chiese_torino_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/chiese_torino.pdf)
+- 📚 **EPUB**: [Download](../export/chiese_torino.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/chiese_torino.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

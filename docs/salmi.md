@@ -1,11 +1,53 @@
 ---
 title: "I Salmi (Carne, Sangue e Fuoco)"
-description: "> "Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. Non è poesia per l'anima. È un manuale di..."
+description: "Le mie lacrime sono diventate il mio cibo giorno e notte.\" Il Libro dei Salmi non è una raccolta di canzoni. Non è poesia per l'anima. È un manuale di..."
 keywords: "Matrix, codici, i, analisi, teologia, geometria"
+tags:
+  - salmi
+  - fuoco
+  - salmo
+  - sangue
+  - lode
+  - carne
+  - giorno
 ---
 # I Salmi: Carne, Sangue e Fuoco
 
 ![Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "I Salmi (Carne, Sangue e Fuoco)"
+description: "Le mie lacrime sono diventate il mio cibo giorno e notte.\" Il Libro dei Salmi non è una raccolta di canzoni. È un manuale di..."
+keywords: "Matrix, codici, i, analisi, teologia, geometria"
+tags:
+  - salmi
+  - fuoco
+  - salmo
+  - sangue
+  - lode
+  - carne
+  - giorno
+---
+# I Salmi: Carne, Sangue e Fuoco
+
+! [Header salmi](/blog-bibbia/assets/images/header_salmi.svg)
+
+
+
+
+
+
+> 
+"Le mie lacrime sono diventate il mio cibo giorno e notte." Il Libro dei Salmi non è una raccolta di canzoni. È la rivelazione della preghiera come carne, sangue e fuoco.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -72,3 +114,28 @@ Mille cadranno al tuo fianco, ma tu resterai.
 
 **La preghiera non è un pensiero. È l'impatto tra la terra e il cielo.**
 **Parole di fuoco. Brucia la mente. Parla allo spirito.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [EZECHIELE](../ezechiele/)
+- [MUSICA SPIRITUALE](../musica_spirituale/)
+- [NUMERI](../numeri/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/salmi_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/salmi.pdf)
+- 📚 **EPUB**: [Download](../export/salmi.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/salmi.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

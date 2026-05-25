@@ -1,11 +1,57 @@
 ---
 title: "Analisi 2026 (Codici nel Presente)"
-description: "La carne contro il codice: una mappa teologica dell'era digitale. --- Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
+description: "La carne contro il codice: una mappa teologica dell'era digitale.
+tags:
+  - carne
+  - analisi
+  - digitale
+  - tesi
+  - nuova
+  - lettura
+  - biblica
+---
+Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
 keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
 ---
 # ­ƒôí Aprile 2026 — Codici Biblici nel Presente
 
 ![Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Analisi 2026 (Codici nel Presente)"
+description: "La carne contro il codice: una mappa teologica dell'era digitale. tags:
+  - carne
+  - analisi
+  - digitale
+  - tesi
+  - nuova
+  - lettura
+  - biblica
+---
+Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
+keywords: "Matrix, codici, analisi, analisi, teologia, geometria"
+---
+# ­ƒôí Aprile 2026 — Codici Biblici nel Presente
+
+! [Header analisi_2026](/blog-bibbia/assets/images/header_analisi_2026.svg)
+
+
+
+
+
+
+*La carne contro il codice: una mappa teologica dell'era digitale. Anticristo Digitale: Docetismo 2.0
+
+Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -128,3 +174,29 @@ Non come concetto, ma come ontologia:
 - vulnerabilità
 
 - realtà non riducibile a dati
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [ISAIA](../isaia/)
+- [RUT](../rut/)
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/analisi_2026_map.svg)
+- ⏱️ **Timeline**: [Visualizza SVG](../timeline/analisi_2026_timeline.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/analisi_2026.pdf)
+- 📚 **EPUB**: [Download](../export/analisi_2026.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/analisi_2026.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

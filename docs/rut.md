@@ -1,11 +1,53 @@
 ---
 title: "Rut (Il Redentore e la Grazia Straniera)"
-description: "> "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo..."
+description: "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio.\" Il Libro di Rut si apre nell'oscurità del periodo..."
 keywords: "Matrix, codici, rut, analisi, teologia, geometria"
+tags:
+  - boaz
+  - straniera
+  - redentore
+  - popolo
+  - goel
+  - parente
+  - mantello
 ---
 # Rut: Il Redentore e la Grazia Straniera
 
 ![Header rut](/blog-bibbia/assets/images/header_rut.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Rut (Il Redentore e la Grazia Straniera)"
+description: "Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio.\" Il Libro di Rut si apre nell'oscurità del periodo..."
+keywords: "Matrix, codici, rut, analisi, teologia, geometria"
+tags:
+  - boaz
+  - straniera
+  - redentore
+  - popolo
+  - goel
+  - parente
+  - mantello
+---
+# Rut: Il Redentore e la Grazia Straniera
+
+! [Header rut](/blog-bibbia/assets/images/header_rut.svg)
+
+
+
+
+
+
+> 
+"Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio." Il Libro di Rut si apre nell'oscurità del periodo dei Giudici. Elimelec porta la sua famiglia in Moab. Ma mentre i Giudici raccontano la macro-storia di un collasso nazionale, Rut rivela la micro-storia di una redenzione silenziosa.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -56,3 +98,28 @@ Da Betlemme (la "casa del pane", dove Boaz nutre Rut) nascerà non solo Davide, 
 **La Legge esclude, la Grazia include.**
 **Nessun abisso è troppo profondo per il Goel.**
 **Il re viene dalla polvere straniera, redenta a caro prezzo.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [TESSALONICESI](../tessalonicesi/)
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+- [GAZA ISRAELE 2026](../gaza_israele_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/rut_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/rut.pdf)
+- 📚 **EPUB**: [Download](../export/rut.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/rut.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

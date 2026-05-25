@@ -1,11 +1,53 @@
 ---
 title: "Ezechiele (La Gloria nell"
-description: "> "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È..."
+description: "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato.\" Il Libro di Ezechiele non è un trattato. È..."
 keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
+tags:
+  - ezechiele
+  - uomo
+  - fuoco
+  - cuore
+  - ossa
+  - gloria
+  - esilio
 ---
 # Ezechiele: La Gloria nell'Esilio
 
 ![Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Ezechiele (La Gloria nell"
+description: "E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato.\" Il Libro di Ezechiele non è un trattato. È..."
+keywords: "Matrix, codici, ezechiele, analisi, teologia, geometria"
+tags:
+  - ezechiele
+  - uomo
+  - fuoco
+  - cuore
+  - ossa
+  - gloria
+  - esilio
+---
+# Ezechiele: La Gloria nell'Esilio
+
+! [Header ezechiele](/blog-bibbia/assets/images/header_ezechiele.svg)
+
+
+
+
+
+
+> 
+"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato." Il Libro di Ezechiele non è un trattato. È la visione di Dio quando tutto crolla.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -57,3 +99,28 @@ Dove l'uomo vede la fine, lo Spirito sta per iniziare la guerra.
 
 **Dio non è sconfitto dal tuo esilio.**
 **Egli cavalca la tempesta. Spezza il tuo cuore di pietra e ti soffia la Vita nei polmoni.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [PAOLO](../paolo/)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [GIACOMO](../giacomo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/ezechiele_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/ezechiele.pdf)
+- 📚 **EPUB**: [Download](../export/ezechiele.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/ezechiele.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

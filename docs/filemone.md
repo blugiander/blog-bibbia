@@ -1,11 +1,53 @@
 ---
 title: "Filemone (L"
-description: "> "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
+description: "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me.\" L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
 keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
+tags:
+  - filemone
+  - paolo
+  - schiavo
+  - onesimo
+  - addebitalo
+  - viene
+  - fatto
 ---
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
 
 ![Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Filemone (L"
+description: "Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me.\" L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
+keywords: "Matrix, codici, filemone, analisi, teologia, geometria"
+tags:
+  - filemone
+  - paolo
+  - schiavo
+  - onesimo
+  - addebitalo
+  - viene
+  - fatto
+---
+# Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
+
+! [Header filemone](/blog-bibbia/assets/images/header_filemone.svg)
+
+
+
+
+
+
+> 
+"Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me." L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una potenza nucleare sufficiente a far crollare l'Impero Romano dall'interno.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -47,3 +89,28 @@ L'obbedienza legale produce risentimento. L'obbedienza per amore produce trasfor
 **Le leggi umane si limitano a marchiare; la grazia rigenera.**
 **Nessuna riconciliazione avviene senza che qualcuno paghi il debito.**
 **L'Evangelo trasforma la peggiore delle gerarchie nella più profonda delle fratellanze.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
+- [PROVERBI](../proverbi/)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/filemone_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/filemone.pdf)
+- 📚 **EPUB**: [Download](../export/filemone.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/filemone.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

@@ -1,11 +1,55 @@
 ---
 title: "Lamentazioni (L"
-description: "> "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."..."
+description: "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina...\"..."
 keywords: "Matrix, codici, lamentazioni, analisi, teologia, geometria"
+tags:
+  - lamentazioni
+  - eterno
+  - dolore
+  - giudizio
+  - ogni
+  - libro
+  - stati
 ---
 # Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie
 
 ![Header lamentazioni](/blog-bibbia/assets/images/header_lamentazioni.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Lamentazioni (L"
+description: "È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina...\"..."
+keywords: "Matrix, codici, lamentazioni, analisi, teologia, geometria"
+tags:
+  - lamentazioni
+  - eterno
+  - dolore
+  - giudizio
+  - ogni
+  - libro
+  - stati
+---
+# Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie
+
+! [Header lamentazioni](/blog-bibbia/assets/images/header_lamentazioni.svg)
+
+
+
+
+
+
+> 
+"È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina..."
+
+Gerusalemme è caduta. I falsi profeti, che gridavano "pace e prosperità", sono stati smentiti dal sangue.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -51,3 +95,28 @@ Lamentazioni ci insegna a sedere nel dolore senza cercare risposte facili o scor
 **La falsa pace anestetizza, il vero profeta piange sulle rovine.**
 **L'alfabeto del dolore porta alla speranza oggettiva.**
 **Solo chi riconosce la giustizia del giudizio può gustare la fedeltà del mattino.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [GENESI](../genesi/)
+- [ANALISI 2026](../analisi_2026/)
+- [APOCRIFI](../apocrifi/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lamentazioni_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/lamentazioni.pdf)
+- 📚 **EPUB**: [Download](../export/lamentazioni.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/lamentazioni.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

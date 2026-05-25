@@ -1,11 +1,54 @@
 ---
 title: "Apocrifi e Testi Nascosti"
-description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna..."
+description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché \"scomodi\", ma perché incompatibili con la logica interna..."
 keywords: "Matrix, codici, apocrifi, analisi, teologia, geometria"
+tags:
+  - apocrifi
+  - corpo
+  - gnosi
+  - materia
+  - vangeli
+  - stati
+  - incompatibili
 ---
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
 
 ![Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Apocrifi e Testi Nascosti"
+description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché \"scomodi\", ma perché incompatibili con la logica interna..."
+keywords: "Matrix, codici, apocrifi, analisi, teologia, geometria"
+tags:
+  - apocrifi
+  - corpo
+  - gnosi
+  - materia
+  - vangeli
+  - stati
+  - incompatibili
+---
+# 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
+
+! [Header apocrifi](/blog-bibbia/assets/images/header_apocrifi.svg)
+
+
+
+
+
+
+*Perché non è una questione politica, ma ontologica. *
+
+Gli apocrifi non sono stati esclusi perché "scomodi", ma perché incompatibili con la logica interna della rivelazione biblica. Il cristianesimo canonico e la gnosi non sono due varianti della stessa fede: sono due cosmologie opposte.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -159,3 +202,28 @@ Vuole redimere il corpo
 
 > 
 La carne è il luogo della salvezza. La gnosi è il suo rifiuto.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [NUMERI](../numeri/)
+- [APOCALISSE](../apocalisse/)
+- [GENESI](../genesi/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/apocrifi_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/apocrifi.pdf)
+- 📚 **EPUB**: [Download](../export/apocrifi.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/apocrifi.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

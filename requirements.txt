@@ -1,0 +1,7 @@
+nltk
+pyttsx3
+fpdf2
+EbookLib
+watchdog
+beautifulsoup4
+markdown

@@ -1,11 +1,53 @@
 ---
 title: "Proverbi (Il Codice della Sapienza)"
-description: "> "Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
+description: "Il timore dell'Eterno è il principio della scienza.\" Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
 keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
+tags:
+  - proverbi
+  - sapienza
+  - timore
+  - vita
+  - follia
+  - lingua
+  - codice
 ---
 # I Proverbi: Il Codice della Sapienza Viva
 
 ![Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Proverbi (Il Codice della Sapienza)"
+description: "Il timore dell'Eterno è il principio della scienza.\" Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è etica..."
+keywords: "Matrix, codici, proverbi, analisi, teologia, geometria"
+tags:
+  - proverbi
+  - sapienza
+  - timore
+  - vita
+  - follia
+  - lingua
+  - codice
+---
+# I Proverbi: Il Codice della Sapienza Viva
+
+! [Header proverbi](/blog-bibbia/assets/images/header_proverbi.svg)
+
+
+
+
+
+
+> 
+"Il timore dell'Eterno è il principio della scienza." Il Libro dei Proverbi non è una raccolta di buoni consigli. È il codice binario dello Spirito: Vita o Morte.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -62,3 +104,28 @@ Impara a tacere. O la tua stessa bocca firmerà la tua condanna.
 
 **La Sapienza non si impara. Si incarna.**
 **Taglia l'orgoglio. Brucia le parole vane. Scegli la Vita.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [RELIGIONI MONDIALI](../religioni_mondiali/)
+- [CANTICO](../cantico/)
+- [PAGINE VERITA 2026](../pagine_verita_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/proverbi_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/proverbi.pdf)
+- 📚 **EPUB**: [Download](../export/proverbi.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/proverbi.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

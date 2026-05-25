@@ -2,10 +2,53 @@
 title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
 description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
 keywords: "Matrix, codici, radici, analisi, teologia, geometria"
+tags:
+  - israele
+  - radici
+  - conflitto
+  - iran
+  - invisibile
+  - sangue
+  - palestina
 ---
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
 
 ![Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Radici Spirituali (Israele, Palestina, Iran, USA)"
+description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
+keywords: "Matrix, codici, radici, analisi, teologia, geometria"
+tags:
+  - israele
+  - radici
+  - conflitto
+  - iran
+  - invisibile
+  - sangue
+  - palestina
+---
+# Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
+
+! [Header radici_conflitto_2026](/blog-bibbia/assets/images/header_radici_conflitto_2026.svg)
+
+
+
+
+
+
+**Target:** L'Architettura Invisibile del Conflitto
+**Protocollo:** Caveman (Fuoco, Sangue, Codice Puro)
+**Status:** Decodifica dei Principati. La geopolitica è teatro per ciechi. Il vero scontro non si decide all'ONU, ma nel cosmo invisibile.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -49,3 +92,29 @@ Il credente non si schiera con nazioni carnali, né sventola bandiere fatte di s
 
 **Conclusione:**
 Distruggere la lettura carnale. Riconoscere il campo di battaglia. I missili cadono sulla terra, ma la guerra si vince o si perde nello Spirito. Prepararsi all'impatto finale.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [EZECHIELE](../ezechiele/)
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [LETTERE GIOVANNI](../lettere_giovanni/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/radici_conflitto_2026_map.svg)
+- ⏱️ **Timeline**: [Visualizza SVG](../timeline/radici_conflitto_2026_timeline.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/radici_conflitto_2026.pdf)
+- 📚 **EPUB**: [Download](../export/radici_conflitto_2026.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/radici_conflitto_2026.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

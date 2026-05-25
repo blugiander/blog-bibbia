@@ -1,11 +1,57 @@
 ---
 title: "Giobbe (La Sofferenza Innocente)"
-description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. --- Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma. C'è..."
+description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo.
+tags:
+  - giobbe
+  - teologia
+  - uomo
+  - ribellione
+  - amici
+  - integrità
+  - sofferenza
+---
+Nel testo ebraico non c'è \"Satana\" come figura demoniaca autonoma. C'è..."
 keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
 ---
 # 📜 Giobbe: L'Integrità della Ribellione
 
 ![Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Giobbe (La Sofferenza Innocente)"
+description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. tags:
+  - giobbe
+  - teologia
+  - uomo
+  - ribellione
+  - amici
+  - integrità
+  - sofferenza
+---
+Nel testo ebraico non c'è \"Satana\" come figura demoniaca autonoma. C'è..."
+keywords: "Matrix, codici, giobbe, analisi, teologia, geometria"
+---
+# 📜 Giobbe: L'Integrità della Ribellione
+
+! [Header giobbe](/blog-bibbia/assets/images/header_giobbe.svg)
+
+
+
+
+
+
+*Il libro che smaschera la teologia facile e difende il grido dell'uomo. Il "Satan": Il Pubblico Ministero della Corte Celeste
+
+Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -146,3 +192,28 @@ Il Libro di Giobbe insegna che:
 
 > 
 Giobbe non perde la fede: la purifica. E Dio lo riconosce come il suo servo più vero.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [ANALISI 2026](../analisi_2026/)
+- [GIUDICI](../giudici/)
+- [RUT](../rut/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/giobbe_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/giobbe.pdf)
+- 📚 **EPUB**: [Download](../export/giobbe.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/giobbe.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

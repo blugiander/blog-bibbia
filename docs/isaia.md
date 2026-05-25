@@ -1,6 +1,16 @@
 ---
 title: "Isaia"
-description: "﻿--- title: "I 5 Segreti di Isaia" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+description: "﻿
+tags:
+  - isaia
+  - segreti
+  - testamento
+  - messia
+  - antico
+  - fuoco
+  - codice
+---
+title: \"I 5 Segreti di Isaia\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
 keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
 ---
 ﻿---
@@ -237,6 +247,109 @@ I Segreti della Scrittura
 
 ![Header isaia](/blog-bibbia/assets/images/header_isaia.svg)
 
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Isaia"
+description: "﻿
+tags:
+  - isaia
+  - segreti
+  - testamento
+  - messia
+  - antico
+  - fuoco
+  - codice
+---
+title: \"I 5 Segreti di Isaia\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, isaia, analisi, teologia, geometria"
+---
+﻿---
+title: "I 5 Segreti di Isaia"
+---
+
+I Segreti della Scrittura
+        
+  
+      *
+  
+
+      
+
+      
+              
+                - [Home](..)
+                
+
+              
+
+              Antico Testamento
+
+              
+                  - [Genesi (La Cosmologia Ebraica)](../genesi/)
+                  
+
+                  - [Esodo (La Via dell'Uscita)](../esodo/)
+                  
+
+                  - [Numeri (La Fornace del Deserto)](../numeri/)
+                  
+
+                  - [Giudici (Il Collasso e gli Eroi Rotti)](../giudici/)
+                  
+
+                  - [Rut (Il Redentore e la Grazia Straniera)](../rut/)
+                  
+
+                  - [1 e 2 Samuele (Il Re e l'Unzione)](../samuele/)
+                  
+
+                  - [1 e 2 Re (Fuoco, Idoli e Rovina)](../re/)
+                  
+
+                  - [Esdra (Il Ritorno e l'Altare)](../esdra/)
+                  
+
+                  - [Giobbe (La Sofferenza Innocente)](../giobbe/)
+                  
+
+                  - [I Salmi (Carne, Sangue e Fuoco)](../salmi/)
+                  
+
+                  - [Proverbi (Il Codice della Sapienza)](../proverbi/)
+                  
+
+                  - [Il Cantico dei Cantici (L'Amore di Fuoco)](../cantico/)
+                  
+
+                  - [I 5 Segreti di Isaia](#)
+    
+    [1. Il Codice "66": La Struttura Frattale della Bibbia](#1-il-codice-66-la-struttura-frattale-della-bibbia)
+    
+
+    - [2. Il Salto Temporale: La Cucitura dei Secoli](#2-il-salto-temporale-la-cucitura-dei-secoli)
+    
+
+    - [3. Ciro: Il Messia Pagano (Isaia 45)](#3-ciro-il-messia-pagano-isaia-45)
+        
+    [🜂 Significato teologico](#significato-teologico)
+    
+
+        
+
+    
+    - [4. La Sindrome di Lucifero (Isaia 14)](#4-la-sindrome-di-lucifero-isaia-14)
+    
+
+    - [5.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
+
 
 
 Isaia è un microcosmo canonico:
@@ -417,3 +530,30 @@ Isaia è:
     
     
       [Next &raquo;](../lamentazioni/)
+
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [DANIELE](../daniele/)
+- [RADICI CONFLITTO 2026](../radici_conflitto_2026/)
+- [IRAN USA 2026](../iran_usa_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/isaia_map.svg)
+- ⏱️ **Timeline**: [Visualizza SVG](../timeline/isaia_timeline.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/isaia.pdf)
+- 📚 **EPUB**: [Download](../export/isaia.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/isaia.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

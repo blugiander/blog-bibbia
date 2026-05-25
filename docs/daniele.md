@@ -1,6 +1,16 @@
 ---
 title: "Daniele"
-description: "﻿--- title: "Le Radici in Daniele" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+description: "﻿
+tags:
+  - daniele
+  - bestie
+  - apocalisse
+  - uomo
+  - figlio
+  - radici
+  - giovanni
+---
+title: \"Le Radici in Daniele\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
 keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
 ---
 ﻿---
@@ -247,6 +257,268 @@ I Segreti della Scrittura
 
 ![Header daniele](/blog-bibbia/assets/images/header_daniele.svg)
 
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Daniele"
+description: "﻿
+tags:
+  - daniele
+  - bestie
+  - apocalisse
+  - uomo
+  - figlio
+  - radici
+  - giovanni
+---
+title: \"Le Radici in Daniele\" --- I Segreti della Scrittura - Home Antico Testamento - Genesi (La Cosmologia Ebraica) - Esodo (La Via dell'Uscita) -..."
+keywords: "Matrix, codici, daniele, analisi, teologia, geometria"
+---
+﻿---
+title: "Le Radici in Daniele"
+---
+
+I Segreti della Scrittura
+        
+  
+      *
+  
+
+      
+
+      
+              
+                - [Home](..)
+                
+
+              
+
+              Antico Testamento
+
+              
+                  - [Genesi (La Cosmologia Ebraica)](../genesi/)
+                  
+
+                  - [Esodo (La Via dell'Uscita)](../esodo/)
+                  
+
+                  - [Numeri (La Fornace del Deserto)](../numeri/)
+                  
+
+                  - [Giudici (Il Collasso e gli Eroi Rotti)](../giudici/)
+                  
+
+                  - [Rut (Il Redentore e la Grazia Straniera)](../rut/)
+                  
+
+                  - [1 e 2 Samuele (Il Re e l'Unzione)](../samuele/)
+                  
+
+                  - [1 e 2 Re (Fuoco, Idoli e Rovina)](../re/)
+                  
+
+                  - [Esdra (Il Ritorno e l'Altare)](../esdra/)
+                  
+
+                  - [Giobbe (La Sofferenza Innocente)](../giobbe/)
+                  
+
+                  - [I Salmi (Carne, Sangue e Fuoco)](../salmi/)
+                  
+
+                  - [Proverbi (Il Codice della Sapienza)](../proverbi/)
+                  
+
+                  - [Il Cantico dei Cantici (L'Amore di Fuoco)](../cantico/)
+                  
+
+                  - [I 5 Segreti di Isaia](../isaia/)
+                  
+
+                  - [Lamentazioni (L'Architettura del Dolore)](../lamentazioni/)
+                  
+
+                  - [Ezechiele (La Gloria nell'Esilio)](../ezechiele/)
+                  
+
+                  - [Le Radici in Daniele](#)
+    
+    [1. La Statua dei Metalli: Il Codice Politico Originario (Daniele 2)](#1-la-statua-dei-metalli-il-codice-politico-originario-daniele-2)
+        
+    [🜂 La Pietra "non tagliata da mano d'uomo"](#la-pietra-non-tagliata-da-mano-duomo)
+    
+
+        
+
+    
+    - [2. Le Quattro Bestie: La Visione dal Punto di Vista di Dio (Daniele 7)](#2-le-quattro-bestie-la-visione-dal-punto-di-vista-di-dio-daniele-7)
+        
+    [🜂 Il collegamento con l'Apocalisse](#il-collegamento-con-lapocalisse)
+    
+
+        
+
+    
+    - [3. Il Figlio dell'Uomo: L'Umano che Sconfigge le Bestie](#3-il-figlio-delluomo-lumano-che-sconfigge-le-bestie)
+        
+    [🜂 Il paradosso](#il-paradosso)
+    
+
+    - [🜂 Gesù e il titolo "Figlio dell'Uomo"](#gesu-e-il-titolo-figlio-delluomo)
+    
+
+        
+
+    
+    - [4. La Matematica Sacra: Il Tempo del Male è Sempre a Metà](#4-la-matematica-sacra-il-tempo-del-male-e-sempre-a-meta)
+        
+    [🜂 Significato](#significato)
+    
+
+    - [🜂 L'Apocalisse eredita e aggiorna](#lapocalisse-eredita-e-aggiorna)
+    
+
+        
+
+    
+    - [🔥 Sintesi Ontologica: Daniele come Kernel, Apocalisse come Interfaccia](#sintesi-ontologica-daniele-come-kernel-apocalisse-come-interfaccia)
+    
+
+    
+                  
+              
+              Nuovo Testamento
+
+              
+                  - [Il Vangelo di Matteo (Il Re e il Regno)](../matteo/)
+                  
+
+                  - [Il Vangelo di Giovanni](../giovanni/)
+                  
+
+                  - [Atti (L'Azione dello Spirito)](../atti/)
+                  
+
+                  - [Paolo ed Ebrei (Il Cambio di Regime)](../paolo/)
+                  
+
+                  - [1 e 2 Tessalonicesi (Escatologia e l'Iniquo)](../tessalonicesi/)
+                  
+
+                  - [1 e 2 Timoteo (Il Deposito e la Struttura)](../timoteo/)
+                  
+
+                  - [Tito (Architettura nel Caos)](../tito/)
+                  
+
+                  - [Filemone (L'Esplosivo Ontologico)](../filemone/)
+                  
+
+                  - [Giacomo (La Fede e le Opere)](../giacomo/)
+                  
+
+                  - [Lettere di Giovanni (Carne e Amore)](../lettere_giovanni/)
+                  
+
+                  - [Giuda (L'Infiltrazione e il Fuoco)](../giuda/)
+                  
+
+                  - [Apocalisse (Livello Profondo)](../apocalisse/)
+                  
+
+              
+
+              Oltre il Canone e Attualità
+
+              
+                  - [Apocrifi vs Canonici](../apocrifi/)
+                  
+
+                  - [Religioni Mondiali vs Evangelo (La Torre e la Croce)](../religioni_mondiali/)
+                  
+
+                  - [Analisi 2026 (Codici nel Presente)](../analisi_2026/)
+                  
+
+                  - [Sanità Globale vs Scritture (L'Idolo Biomedico)](../oms_bibbia_2026/)
+                  
+
+                  - [Teopolitica 2026 (Evangelici e Cattolici)](../teopolitica_2026/)
+                  
+
+                  - [Attualità 2026 (Iran e USA)](../iran_usa_2026/)
+                  
+
+                  - [Attualità 2026 (Europa e Russia)](../europa_russia_2026/)
+                  
+
+                  - [Israele, Shoah e 2026 (Fornace e Ritorno)](../israele_2026/)
+                  
+
+                  - [Gaza, Israele e il Sangue (Muro Abbattuto)](../gaza_israele_2026/)
+                  
+
+                  - [Radici Spirituali (Israele, Palestina, Iran, USA)](../radici_conflitto_2026/)
+                  
+
+                  - [L'Arma Sonora (Influenza della Musica)](../musica_spirituale/)
+                  
+
+                  - [Mappa Evangelica Torino (Setaccio e Fuoco)](../chiese_torino/)
+                  
+
+                  - [La Stampa 2026 (I Codici Nascosti)](../lastampa_2026/)
+                  
+
+                  - [Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra)](../notizie_24aprile2026/)
+                  
+
+                  - [42 Pagine (Polvere alla Polvere)](../pagine_verita_2026/)
+                  
+
+              
+
+      
+    
+    
+
+    
+      
+          *
+          [I Segreti della Scrittura](..)
+        
+      
+      
+        
+  
+    - [](..)
+
+          - Antico Testamento
+
+      - Le Radici in Daniele
+
+    - 
+    
+
+  
+
+  
+---
+
+          
+            
+              
+                # 📜 Le Radici in Daniele: Il Sistema Operativo delle Profezie
+
+*Daniele come kernel profetico.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
+
 
 
 Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia.
@@ -450,3 +722,30 @@ Daniele è il sistema operativo. L'Apocalisse è l'interfaccia grafica. Il Regno
     
     
       [Next &raquo;](../matteo/)
+
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [TITO](../tito/)
+- [TEOPOLITICA 2026](../teopolitica_2026/)
+- [ESODO](../esodo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/daniele_map.svg)
+- ⏱️ **Timeline**: [Visualizza SVG](../timeline/daniele_timeline.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/daniele.pdf)
+- 📚 **EPUB**: [Download](../export/daniele.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/daniele.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

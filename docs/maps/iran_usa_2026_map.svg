@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="400" y1="300" x2="338" y2="440" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="207" y2="201" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="338" y1="440" x2="207" y2="201" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="611" y2="356" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="207" y1="201" x2="611" y2="356" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <line x1="400" y1="300" x2="605" y2="359" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="294" y2="402" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="287" y2="427" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="300" x2="575" y2="468" stroke="#00FF41" stroke-width="2" opacity="0.5"/>
+  <line x1="287" y1="427" x2="575" y2="468" stroke="#008F11" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="300" r="40" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="400" y="300" fill="#00FF41" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IRAN_USA_2</text>
+  <circle cx="338" cy="440" r="16" fill="#030303" stroke="#003B00" stroke-width="3"/>
+  <text x="338" y="440" fill="#003B00" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">IRAN</text>
+  <circle cx="207" cy="201" r="21" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="207" y="201" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">SOLO</text>
+  <circle cx="611" cy="356" r="28" fill="#030303" stroke="#33FF66" stroke-width="3"/>
+  <text x="611" y="356" fill="#33FF66" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">RUMORI</text>
+  <circle cx="605" cy="359" r="29" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="605" y="359" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUERRE</text>
+  <circle cx="294" cy="402" r="17" fill="#030303" stroke="#008F11" stroke-width="3"/>
+  <text x="294" y="402" fill="#008F11" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">DIMENTICA</text>
+  <circle cx="287" cy="427" r="17" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="287" y="427" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">GUERRA</text>
+  <circle cx="575" cy="468" r="20" fill="#030303" stroke="#00FF41" stroke-width="3"/>
+  <text x="575" y="468" fill="#00FF41" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" alignment-baseline="middle">NOTIZIE</text>
+</svg>

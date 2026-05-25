@@ -1,11 +1,71 @@
 ---
 title: "Atti (L"
-description: "Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. --- Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento...."
+description: "Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte.
+tags:
+  - atti
+  - libro
+  - avverbio
+  - missione
+  - nuovo
+  - apostoli
+  - piano
+---
+Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento...."
 keywords: "Matrix, codici, atti, analisi, teologia, geometria"
 ---
 # 📜 Gli Atti: Autobiografia dello Spirito Santo
 
 ![Header atti](/blog-bibbia/assets/images/header_atti.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Atti (L"
+description: "Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. tags:
+  - atti
+  - libro
+  - avverbio
+  - missione
+  - nuovo
+  - apostoli
+  - piano
+---
+Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento...."
+keywords: "Matrix, codici, atti, analisi, teologia, geometria"
+---
+# 📜 Gli Atti: Autobiografia dello Spirito Santo
+
+! [Header atti](/blog-bibbia/assets/images/header_atti.svg)
+
+
+
+
+
+
+*Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. Lo Spirito come Protagonista: Il "No" di Dio (Atti 16)
+
+Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento. Gli apostoli:
+
+- hanno un piano
+
+- hanno una strategia
+
+- hanno una missione chiara
+
+Eppure:
+
+> 
+*"Lo Spirito Santo vietò loroÔÇª"*
+*"Lo Spirito di Gesù non lo permiseÔÇª"*
+
+Il soggetto grammaticale è sempre lo Spirito, non gli apostoli.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -164,3 +224,28 @@ L'avverbio è il lieto fine. L'avverbio è la teologia. L'avverbio è la profezi
 
 > 
 Atti non è un libro chiuso. È un libro che continua nella carne dei credenti.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [RUT](../rut/)
+- [PROVERBI](../proverbi/)
+- [ESODO](../esodo/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/atti_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/atti.pdf)
+- 📚 **EPUB**: [Download](../export/atti.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/atti.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

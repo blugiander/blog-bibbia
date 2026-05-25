@@ -1,11 +1,53 @@
 ---
 title: "Numeri (La Fornace del Deserto)"
-description: "> "I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è..."
+description: "I vostri cadaveri cadranno in questo deserto.\" Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è..."
 keywords: "Matrix, codici, numeri, analisi, teologia, geometria"
+tags:
+  - numeri
+  - deserto
+  - ribellione
+  - fornace
+  - terra
+  - libro
+  - egitto
 ---
 # I Numeri: La Fornace del Deserto
 
 ![Header numeri](/blog-bibbia/assets/images/header_numeri.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Numeri (La Fornace del Deserto)"
+description: "I vostri cadaveri cadranno in questo deserto.\" Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è..."
+keywords: "Matrix, codici, numeri, analisi, teologia, geometria"
+tags:
+  - numeri
+  - deserto
+  - ribellione
+  - fornace
+  - terra
+  - libro
+  - egitto
+---
+# I Numeri: La Fornace del Deserto
+
+! [Header numeri](/blog-bibbia/assets/images/header_numeri.svg)
+
+
+
+
+
+
+> 
+"I vostri cadaveri cadranno in questo deserto." Il Libro dei Numeri non è statistica.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -54,3 +96,28 @@ Se non sei pronto a combattere, non vedrai mai la Terra.
 
 **Il deserto farà seccare la tua ribellione o le tue ossa.**
 **Smetti di mormorare. Guarda il serpente innalzato. Prendi la spada.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [GIOBBE](../giobbe/)
+- [PROVERBI](../proverbi/)
+- [ATTI](../atti/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/numeri_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/numeri.pdf)
+- 📚 **EPUB**: [Download](../export/numeri.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/numeri.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

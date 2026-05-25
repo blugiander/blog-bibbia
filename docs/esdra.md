@@ -1,11 +1,55 @@
 ---
 title: "Esdra (Il Ritorno e l"
-description: "> "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..." L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
+description: "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme...\" L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
 keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
+tags:
+  - esdra
+  - gerusalemme
+  - esilio
+  - inizia
+  - altare
+  - ricostruzione
+  - codice
 ---
 # Esdra: Il Ritorno, l'Altare e la Radice Santa
 
 ![Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Esdra (Il Ritorno e l"
+description: "Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme...\" L'esilio in Babilonia è finito, ma la vera prova inizia ora. Il..."
+keywords: "Matrix, codici, esdra, analisi, teologia, geometria"
+tags:
+  - esdra
+  - gerusalemme
+  - esilio
+  - inizia
+  - altare
+  - ricostruzione
+  - codice
+---
+# Esdra: Il Ritorno, l'Altare e la Radice Santa
+
+! [Header esdra](/blog-bibbia/assets/images/header_esdra.svg)
+
+
+
+
+
+
+> 
+"Chi di voi appartiene al Suo popolo? Il suo Dio sia con lui, e salga a Gerusalemme..."
+
+L'esilio in Babilonia è finito, ma la vera prova inizia ora.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -57,3 +101,28 @@ Israele firma un patto per mandare via le mogli straniere. È una chirurgia brut
 **Nessuna ricostruzione senza altare.**
 **Nessun patto con l'infiltrazione.**
 **La Parola rivela sempre l'infezione della carne.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [TIMOTEO](../timoteo/)
+- [CHIESE TORINO](../chiese_torino/)
+- [TITO](../tito/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/esdra_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/esdra.pdf)
+- 📚 **EPUB**: [Download](../export/esdra.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/esdra.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

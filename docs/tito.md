@@ -1,11 +1,55 @@
 ---
 title: "Tito (Architettura nel Caos)"
-description: "> "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..." Creta..."
+description: "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città...\" Creta..."
 keywords: "Matrix, codici, tito, analisi, teologia, geometria"
+tags:
+  - tito
+  - caos
+  - creta
+  - ordine
+  - carattere
+  - dottrina
+  - architettura
 ---
 # Tito: Architettura nel Caos e la Grazia che Addestra
 
 ![Header tito](/blog-bibbia/assets/images/header_tito.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Tito (Architettura nel Caos)"
+description: "Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città...\" Creta..."
+keywords: "Matrix, codici, tito, analisi, teologia, geometria"
+tags:
+  - tito
+  - caos
+  - creta
+  - ordine
+  - carattere
+  - dottrina
+  - architettura
+---
+# Tito: Architettura nel Caos e la Grazia che Addestra
+
+! [Header tito](/blog-bibbia/assets/images/header_tito.svg)
+
+
+
+
+
+
+> 
+"Ti ho lasciato a Creta per questo motivo: affinché tu metta in ordine le cose che restano da fare e costituisca degli anziani in ogni città..."
+
+Creta non è una vacanza. Paolo cita un loro stesso poeta: "I Cretesi sono sempre bugiardi, male bestie, ventri pigri". L'isola è dominata dalla truffa, dall'edonismo e dal caos morale. Cosa fai quando la chiesa si trova in mezzo a una cultura completamente corrotta?</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -54,3 +98,28 @@ L'energia va messa nell'edificare ciò che è solido, non nel discutere con i fa
 **Il caos culturale non è una scusa, è il campo di battaglia.**
 **La leadership si fonda sul carattere, non sul palcoscenico.**
 **La grazia non perdona soltanto: ti addestra a fare la guerra al peccato.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [TESSALONICESI](../tessalonicesi/)
+- [RUT](../rut/)
+- [APOCALISSE](../apocalisse/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/tito_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/tito.pdf)
+- 📚 **EPUB**: [Download](../export/tito.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/tito.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

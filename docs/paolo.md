@@ -1,11 +1,57 @@
 ---
 title: "Paolo ed Ebrei (Il Cambio di Regime)"
-description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. --- Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
+description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere.
+tags:
+  - paolo
+  - legge
+  - ebrei
+  - esteriore
+  - interiore
+  - essere
+  - cambio
+---
+Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
 keywords: "Matrix, codici, paolo, analisi, teologia, geometria"
 ---
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
 
 ![Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Paolo ed Ebrei (Il Cambio di Regime)"
+description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. tags:
+  - paolo
+  - legge
+  - ebrei
+  - esteriore
+  - interiore
+  - essere
+  - cambio
+---
+Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
+keywords: "Matrix, codici, paolo, analisi, teologia, geometria"
+---
+# 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
+
+! [Header paolo](/blog-bibbia/assets/images/header_paolo.svg)
+
+
+
+
+
+
+*Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. Il Pedagogo e l'Effetto Paradosso (Galati / Romani)
+
+Paolo non demonizza la Legge: la colloca nella storia dell'essere.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -179,3 +225,28 @@ Coscienza purificata
 > 
 Non è un cambiamento morale. È un cambiamento dell'essere.
 **Cristo non modifica il sistema: lo sostituisce.**
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [TESSALONICESI](../tessalonicesi/)
+- [FILEMONE](../filemone/)
+- [ISRAELE 2026](../israele_2026/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/paolo_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/paolo.pdf)
+- 📚 **EPUB**: [Download](../export/paolo.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/paolo.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

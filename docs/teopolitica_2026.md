@@ -1,11 +1,59 @@
 ---
 title: "Teopolitica 2026 (Evangelici e Cattolici)"
-description: "Il fuoco non si analizza. Si teme, o si attraversa. --- Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
+description: "Il fuoco non si analizza. Si teme, o si attraversa.
+tags:
+  - senza
+  - vede
+  - teopolitica
+  - fuoco
+  - faraone
+  - trono
+  - puoi
+---
+Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
 keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
 ---
 # La Bestia Non Ha Corna. Ha un Profilo.
 
 ![Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Teopolitica 2026 (Evangelici e Cattolici)"
+description: "Il fuoco non si analizza. tags:
+  - senza
+  - vede
+  - teopolitica
+  - fuoco
+  - faraone
+  - trono
+  - puoi
+---
+Non siederà su un trono dorato. Non urlerà proclami nelle piazze...."
+keywords: "Matrix, codici, teopolitica, analisi, teologia, geometria"
+---
+# La Bestia Non Ha Corna. [Header teopolitica_2026](/blog-bibbia/assets/images/header_teopolitica_2026.svg)
+
+
+
+
+
+
+*Il fuoco non si analizza. *
+
+---
+
+## Il Nuovo Faraone Non Ha Trono
+
+Non siederà su un trono dorato.</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -220,3 +268,29 @@ Non si sospende.
 È già adesso.
 
 Svegliati.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [NUMERI](../numeri/)
+- [OMS BIBBIA 2026](../oms_bibbia_2026/)
+- [RE](../re/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/teopolitica_2026_map.svg)
+- ⏱️ **Timeline**: [Visualizza SVG](../timeline/teopolitica_2026_timeline.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/teopolitica_2026.pdf)
+- 📚 **EPUB**: [Download](../export/teopolitica_2026.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/teopolitica_2026.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->

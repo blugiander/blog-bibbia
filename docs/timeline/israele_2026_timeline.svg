@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#030303"/>
+  <line x1="50" y1="100" x2="750" y2="100" stroke="#00FF41" stroke-width="4"/>
+  <circle cx="50.0" cy="100" r="8" fill="#00FF41"/>
+  <text x="50.0" y="80" fill="#33FF66" font-family="monospace" font-size="16" text-anchor="middle">1948</text>
+  <circle cx="750.0" cy="100" r="8" fill="#00FF41"/>
+  <text x="750.0" y="135" fill="#33FF66" font-family="monospace" font-size="16" text-anchor="middle">2026</text>
+</svg>

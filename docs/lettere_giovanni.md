@@ -1,11 +1,59 @@
 ---
 title: "Lettere di Giovanni (Carne e Amore)"
-description: "Analisi tecnica contro l'eresia e definizione ontologica dell'amore. --- Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria..."
+description: "Analisi tecnica contro l'eresia e definizione ontologica dell'amore.
+tags:
+  - amore
+  - giovanni
+  - carne
+  - lettere
+  - anticristo
+  - docetismo
+  - analisi
+---
+Giovanni non usa \"anticristo\" come figura apocalittica futura, ma come categoria..."
 keywords: "Matrix, codici, lettere, analisi, teologia, geometria"
 ---
 # 📜 Lettere di Giovanni: Carne e Amore
 
 ![Header lettere_giovanni](/blog-bibbia/assets/images/header_lettere_giovanni.svg)
+
+<!-- MATRIX_SUMMARY_START -->
+<div class="admonition note matrix-summary">
+<p class="admonition-title">SYSTEM_ANALYSIS // RIASSUNTO</p>
+<p>---
+title: "Lettere di Giovanni (Carne e Amore)"
+description: "Analisi tecnica contro l'eresia e definizione ontologica dell'amore. tags:
+  - amore
+  - giovanni
+  - carne
+  - lettere
+  - anticristo
+  - docetismo
+  - analisi
+---
+Giovanni non usa \"anticristo\" come figura apocalittica futura, ma come categoria..."
+keywords: "Matrix, codici, lettere, analisi, teologia, geometria"
+---
+# 📜 Lettere di Giovanni: Carne e Amore
+
+! [Header lettere_giovanni](/blog-bibbia/assets/images/header_lettere_giovanni.svg)
+
+
+
+
+
+
+*Analisi tecnica contro l'eresia e definizione ontologica dell'amore. Anticristo: Categoria Presente, non Futuristica
+
+Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria teologica attuale. ### ­ƒöì Definizione tecnica
+
+- Negazione cristologica: *"Chi nega che Gesù è il Cristo"* (1Gv 2:22).</p>
+</div>
+<!-- MATRIX_SUMMARY_END -->
+
+
+
+
 
 
 
@@ -148,3 +196,28 @@ Non è l'atto, ma la pratica che nega l'incarnazione.
 
 > 
 Carne e amore sono le due colonne della fede giovannea. Il docetismo le abbatte entrambe.
+
+
+
+
+<!-- MATRIX_FOOTER_START -->
+<hr>
+## COLLEGAMENTI UTILI
+<div class="matrix-links">
+- [NOTIZIE 24APRILE2026](../notizie_24aprile2026/)
+- [GIACOMO](../giacomo/)
+- [LAMENTAZIONI](../lamentazioni/)
+</div>
+
+## DATA ASSETS
+<div class="matrix-assets">
+- 🗺️ **Mappa Concettuale**: [Visualizza SVG](../maps/lettere_giovanni_map.svg)
+</div>
+
+## EXPORT FILES
+<div class="matrix-exports">
+- 📄 **PDF**: [Download](../export/lettere_giovanni.pdf)
+- 📚 **EPUB**: [Download](../export/lettere_giovanni.epub)
+- 🔊 **Audio Summary**: [Ascolta MP3](../export/lettere_giovanni.mp3)
+</div>
+<!-- MATRIX_FOOTER_END -->
