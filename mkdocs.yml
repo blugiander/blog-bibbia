@@ -2,6 +2,13 @@ site_name: I Segreti della Scrittura
 site_description: Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi.
 theme:
   name: material
+  font:
+    text: Fira Code
+    code: Fira Code
+  palette:
+    - scheme: slate
+      primary: black
+      accent: green
 docs_dir: docs
 site_dir: site
 
@@ -13,6 +20,49 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Apocalisse (Livello Profondo): apocalisse.md
-  - Le Radici in Daniele: daniele.md
-  - I 5 Segreti di Isaia: isaia.md
+  - Antico Testamento:
+    - Genesi (La Cosmologia Ebraica): genesi.md
+    - Esodo (La Via dell'Uscita): esodo.md
+    - Numeri (La Fornace del Deserto): numeri.md
+    - Giudici (Il Collasso e gli Eroi Rotti): giudici.md
+    - Rut (Il Redentore e la Grazia Straniera): rut.md
+    - 1 e 2 Samuele (Il Re e l'Unzione): samuele.md
+    - 1 e 2 Re (Fuoco, Idoli e Rovina): re.md
+    - Esdra (Il Ritorno e l'Altare): esdra.md
+    - Giobbe (La Sofferenza Innocente): giobbe.md
+    - I Salmi (Carne, Sangue e Fuoco): salmi.md
+    - Proverbi (Il Codice della Sapienza): proverbi.md
+    - Il Cantico dei Cantici (L'Amore di Fuoco): cantico.md
+    - I 5 Segreti di Isaia: isaia.md
+    - Lamentazioni (L'Architettura del Dolore): lamentazioni.md
+    - Ezechiele (La Gloria nell'Esilio): ezechiele.md
+    - Le Radici in Daniele: daniele.md
+  - Nuovo Testamento:
+    - Il Vangelo di Matteo (Il Re e il Regno): matteo.md
+    - Il Vangelo di Giovanni: giovanni.md
+    - Atti (L'Azione dello Spirito): atti.md
+    - Paolo ed Ebrei (Il Cambio di Regime): paolo.md
+    - 1 e 2 Tessalonicesi (Escatologia e l'Iniquo): tessalonicesi.md
+    - 1 e 2 Timoteo (Il Deposito e la Struttura): timoteo.md
+    - Tito (Architettura nel Caos): tito.md
+    - Filemone (L'Esplosivo Ontologico): filemone.md
+    - Giacomo (La Fede e le Opere): giacomo.md
+    - Lettere di Giovanni (Carne e Amore): lettere_giovanni.md
+    - Giuda (L'Infiltrazione e il Fuoco): giuda.md
+    - Apocalisse (Livello Profondo): apocalisse.md
+  - Oltre il Canone e Attualità:
+    - Apocrifi e Testi Nascosti: apocrifi.md
+    - Religioni Mondiali vs Evangelo (La Torre e la Croce): religioni_mondiali.md
+    - Analisi 2026 (Codici nel Presente): analisi_2026.md
+    - Sanità Globale vs Scritture (L'Idolo Biomedico): oms_bibbia_2026.md
+    - Teopolitica 2026 (Evangelici e Cattolici): teopolitica_2026.md
+    - Attualità 2026 (Iran e USA): iran_usa_2026.md
+    - Attualità 2026 (Europa e Russia): europa_russia_2026.md
+    - Israele, Shoah e 2026 (Fornace e Ritorno): israele_2026.md
+    - Gaza, Israele e il Sangue (Muro Abbattuto): gaza_israele_2026.md
+    - Radici Spirituali (Israele, Palestina, Iran, USA): radici_conflitto_2026.md
+    - L'Arma Sonora (Influenza della Musica): musica_spirituale.md
+    - Mappa Evangelica Torino (Setaccio e Fuoco): chiese_torino.md
+    - La Stampa 2026 (I Codici Nascosti): lastampa_2026.md
+    - Notizie 24 Aprile 2026 (Doglie e Cuori di Pietra): notizie_24aprile2026.md
+    - 42 Pagine (Polvere alla Polvere): pagine_verita_2026.md
