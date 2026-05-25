@@ -1,7 +1,7 @@
 site_name: I Segreti della Scrittura
 site_description: Laboratorio di analisi multidisciplinare dedicato a codici, strutture e simbologie nascoste nei testi antichi.
 theme:
-  name: mkdocs
+  name: material
 docs_dir: docs
 site_dir: site
 
