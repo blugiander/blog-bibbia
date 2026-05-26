@@ -1,7 +1,8 @@
 ---
 title: "Aprile 2026: Rumori di Guerra tra Iran e USA"
+description: "> \"Udrete rumori di guerre e notizie di guerre; guardate di non turbarvi.\" Dimentica la geopolitica. Dimentica gli analisti. Il mondo trema per l'Iran e..."
+keywords: "Matrix, codici, aprile, analisi, teologia, bibbia, scrittura"
 ---
-
 # Aprile 2026: Rumori di Guerra tra Iran e USA
 
 > 

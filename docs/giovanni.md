@@ -1,7 +1,8 @@
 ---
 title: "📜 Il Vangelo di Giovanni: L'Architettura del Logos"
+description: "Il Vangelo che non narra la storia: la interpreta dall'eternità. --- Giovanni non inizia con Betlemme, ma con l'eternità. > En archô ôn ho Logos — \"Nel..."
+keywords: "Matrix, codici, il, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Il Vangelo di Giovanni: L'Architettura del Logos
 
 *Il Vangelo che non narra la storia: la interpreta dall'eternità.*
@@ -13,7 +14,7 @@ title: "📜 Il Vangelo di Giovanni: L'Architettura del Logos"
 Giovanni non inizia con Betlemme, ma con l'eternità.
 
 > 
-*En arch─ô ─ôn ho Logos* — "Nel principio era il Logos"
+*En archô ôn ho Logos* — "Nel principio era il Logos"
 
 È la stessa formula della Genesi. Non è un caso: è un secondo inizio, una nuova creazione.
 
@@ -67,7 +68,7 @@ Sono icone teologiche, non metafore poetiche.
 ## 3. I 7 Segni: Portali Spirituali
 
 Giovanni non usa mai "miracolo".
-Usa *segno* (s─ômeion): un evento che apre un portale interpretativo.
+Usa *segno* (sômeion): un evento che apre un portale interpretativo.
 
 Segno
 Codice
@@ -97,7 +98,7 @@ Ogni segno è un portale: non prova la divinità, la spiega.
 
 ---
 
-## 4. La Struttura Frattale: Segni ÔåÆ Gloria
+## 4. La Struttura Frattale: Segni → Gloria
 
 Il Vangelo è diviso in due libri:
 
@@ -134,11 +135,11 @@ Termine commerciale: debito saldato. **La croce è il trono.**
 
 Giovanni opera su tre assi:
 
-- Luce / Tenebre ÔåÆ ontologia
+- Luce / Tenebre → ontologia
 
-- Spirito / Carne ÔåÆ generazione
+- Spirito / Carne → generazione
 
-- Alto / Basso ÔåÆ provenienza
+- Alto / Basso → provenienza
 
 ### 🜂 Non è dualismo anti-materia
 

@@ -1,7 +1,8 @@
 ---
 title: "📜 Giobbe: L'Integrità della Ribellione"
+description: "Il libro che smaschera la teologia facile e difende il grido dell'uomo. --- Nel testo ebraico non c'è \"Satana\" come figura demoniaca autonoma. C'è..."
+keywords: "Matrix, codici, giobbe, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Giobbe: L'Integrità della Ribellione
 
 *Il libro che smaschera la teologia facile e difende il grido dell'uomo.*
@@ -11,7 +12,7 @@ title: "📜 Giobbe: L'Integrità della Ribellione"
 ## 1. Il "Satan": Il Pubblico Ministero della Corte Celeste
 
 Nel testo ebraico non c'è "Satana" come figura demoniaca autonoma.
-C'è *ha-┼ø─üß╣¡─ün* — l'Accusatore, con articolo determinativo.
+C'è *ha-ha-śāṭānn* — l'Accusatore, con articolo determinativo.
 
 ### Funzione tecnica
 
@@ -102,9 +103,9 @@ La sofferenza non è sempre punizione. È parte di un mondo che non ruota attorn
 Il finale è uno dei più sovversivi dell'intera Scrittura.
 
 **Dio condanna gli amici:** *"Non avete parlato di me rettamente"* (42:7).
-Gli amici hanno difeso DioÔÇª ma hanno mentito sulla realtà.
+Gli amici hanno difeso Dio… ma hanno mentito sulla realtà.
 
-**Dio assolve Giobbe:** Giobbe ha gridato, protestato, accusatoÔÇª ma ha detto la verità.
+**Dio assolve Giobbe:** Giobbe ha gridato, protestato, accusato… ma ha detto la verità.
 
 > 
 La menzogna devota è idolatria. La ribellione sincera è fede.

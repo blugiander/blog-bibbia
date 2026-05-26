@@ -1,7 +1,8 @@
 ---
 title: "📜 Lettere di Giovanni: Carne e Amore"
+description: "Analisi tecnica contro l'eresia e definizione ontologica dell'amore. --- Giovanni non usa \"anticristo\" come figura apocalittica futura, ma come categoria..."
+keywords: "Matrix, codici, lettere, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Lettere di Giovanni: Carne e Amore
 
 *Analisi tecnica contro l'eresia e definizione ontologica dell'amore.*
@@ -12,13 +13,13 @@ title: "📜 Lettere di Giovanni: Carne e Amore"
 
 Giovanni non usa "anticristo" come figura apocalittica futura, ma come categoria teologica attuale.
 
-### ­ƒöì Definizione tecnica
+### 🜂 Definizione tecnica
 
 - Negazione cristologica: *"Chi nega che Gesù è il Cristo"* (1Gv 2:22).
 
 - Natura pneumatica: non un individuo, ma uno spirito (1Gv 4:3).
 
-- Segno distintivo: negazione della *sarx* (¤â╬¼¤ü╬¥), cioè della carne reale.
+- Segno distintivo: negazione della *sarx* (σάρξ), cioè della carne reale.
 
 ### 🔥 Implicazione
 
@@ -47,9 +48,9 @@ Non è una frase devozionale: è una formula tecnica anti-gnostica.
 
 ### Colpo 3 — Acqua e Sangue
 
-- Acqua ÔåÆ battesimo reale
+- Acqua → battesimo reale
 
-- Sangue ÔåÆ morte reale
+- Sangue → morte reale
 
 Il sangue è l'argomento definitivo: uno spirito non sanguina.
 
@@ -64,12 +65,12 @@ Per Giovanni, è l'eresia per eccellenza.
 
 Giovanni non definisce l'amore come sentimento, ma come essere.
 
-### ­ƒöì Ontologia
+### 🜂 Ontologia
 
 *"Dio è amore"* (1Gv 4:8). Non "Dio ama", ma Dio **è**.
 L'amore non è un'emozione divina: è la struttura dell'essere di Dio.
 
-### ­ƒöì Dinamica
+### 🜂 Dinamica
 
 - Dio ama
 
@@ -79,9 +80,9 @@ L'amore non è un'emozione divina: è la struttura dell'essere di Dio.
 
 L'amore è processione ontologica, non morale.
 
-### ­ƒöì Misura materiale
+### 🜂 Misura materiale
 
-*"Chi ha beni di questo mondo e vede il fratello nel bisognoÔÇª"* (1Gv 3:17).
+*"Chi ha beni di questo mondo e vede il fratello nel bisogno…"* (1Gv 3:17).
 L'amore si misura in materia, non in parole.
 Non è un'astrazione: è carne che si dona.
 
@@ -119,7 +120,7 @@ Non è un peccato morale grave. È l'apostasia cristologica: il rifiuto del Cris
 
 ---
 
-## ­ƒº® Sintesi Finale
+## 🔥 Sintesi Finale
 
 Le Lettere di Giovanni costruiscono un sistema coerente:
 

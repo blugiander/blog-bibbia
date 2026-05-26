@@ -1,7 +1,8 @@
 ---
 title: "📜 Le Radici in Daniele: Il Sistema Operativo delle Profezie"
+description: "Daniele come kernel profetico. L'Apocalisse come interfaccia grafica avanzata. --- Daniele 2 è la prima grande mappa geopolitica teologica della Bibbia...."
+keywords: "Matrix, codici, le, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Le Radici in Daniele: Il Sistema Operativo delle Profezie
 
 *Daniele come kernel profetico. L'Apocalisse come interfaccia grafica avanzata.*
@@ -59,13 +60,13 @@ Distrugge la statua colpendo i piedi, il punto più fragile del sistema.
 Daniele 7 è la versione "interna" del capitolo 2.
 Ciò che agli uomini appare come metallo prezioso, a Dio appare come bestialità.
 
-- Leone alato ÔåÆ Babilonia
+- Leone alato → Babilonia
 
-- Orso vorace ÔåÆ Media-Persia
+- Orso vorace → Media-Persia
 
-- Leopardo a 4 teste ÔåÆ Grecia (i diadochi)
+- Leopardo a 4 teste → Grecia (i diadochi)
 
-- Bestia terribile a 10 corna ÔåÆ Roma e i suoi persecutori
+- Bestia terribile a 10 corna → Roma e i suoi persecutori
 
 ### 🜂 Il collegamento con l'Apocalisse
 

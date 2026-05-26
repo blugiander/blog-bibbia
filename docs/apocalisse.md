@@ -1,7 +1,8 @@
 ---
 title: "📜 L'Apocalisse: Livello Profondo"
+description: "Numeri come archetipi, simboli come codici, storia come teatro cosmico. --- Nell'Apocalisse i numeri non contano quantità: definiscono essenze. - 7 giorni..."
+keywords: "Matrix, codici, lapocalisse, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 L'Apocalisse: Livello Profondo
 
 *Numeri come archetipi, simboli come codici, storia come teatro cosmico.*
@@ -32,7 +33,7 @@ Il 6 è l'uomo senza Dio: quasi perfetto, ma sempre incompleto.
 
 Il 666 è:
 
-- fallimento ├ù fallimento ├ù fallimento
+- fallimento × fallimento × fallimento
 
 - la parodia della Trinità
 
@@ -47,7 +48,7 @@ La Nuova Gerusalemme è costruita su questa simmetria.
 
 ### 🜂 144.000 — La Totalità Perfetta
 
-12 ├ù 12 ├ù 1000. Non è un numero chiuso: è la pienezza dei salvati di tutti i tempi.
+12 × 12 × 1000. Non è un numero chiuso: è la pienezza dei salvati di tutti i tempi.
 
 ---
 

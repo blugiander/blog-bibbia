@@ -1,7 +1,8 @@
 ---
 title: "1 e 2 Samuele: Il Re e l'Unzione"
+description: "> \"L'Eterno non guarda a quello a cui guarda l'uomo.\" I Libri di Samuele non sono cronache monarchiche. Sono lo specchio della fame umana e della scelta..."
+keywords: "Matrix, codici, e, analisi, teologia, bibbia, scrittura"
 ---
-
 # 1 e 2 Samuele: Il Re e l'Unzione
 
 > 

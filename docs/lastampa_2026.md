@@ -1,7 +1,8 @@
 ---
 title: "I Codici della Stampa: Aprile 2026"
+description: "> \"Poiché nazione insorgerà contro nazione, e regno contro regno; vi saranno carestie e terremoti in vari luoghi.\" Apri un quotidiano e cosa vedi? Numeri,..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # I Codici della Stampa: Aprile 2026
 
 > 

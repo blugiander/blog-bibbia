@@ -1,8 +1,9 @@
 ---
-title: "­ƒôí Aprile 2026 — Codici Biblici nel Presente"
+title: "📜 Aprile 2026 — Codici Biblici nel Presente"
+description: "La carne contro il codice: una mappa teologica dell'era digitale. --- Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione. VR,..."
+keywords: "Matrix, codici, aprile, analisi, teologia, bibbia, scrittura"
 ---
-
-# ­ƒôí Aprile 2026 — Codici Biblici nel Presente
+# 📜 Aprile 2026 — Codici Biblici nel Presente
 
 *La carne contro il codice: una mappa teologica dell'era digitale.*
 
@@ -13,7 +14,7 @@ title: "­ƒôí Aprile 2026 — Codici Biblici nel Presente"
 Tesi: la tecnologia contemporanea produce una nuova forma di disincarnazione.
 VR, avatar, metaverso, identità digitali, intelligenze artificiali: tutto tende a separare la persona dalla carne.
 
-### ­ƒöì Lettura biblica
+### 🜂 Lettura biblica
 
 `1Gv 1:1` insiste sulla materialità: *"ciò che abbiamo udito, visto, toccato"*.
 
@@ -40,7 +41,7 @@ La carne invece è resistenza: limite, opacità, imprevedibilità, libertà.
 Tesi: il potere contemporaneo non è monolitico ma reticolare.
 CBDC, social credit, cloud, piattaforme: non un imperatore, ma un ecosistema di dominio.
 
-### ­ƒöì Lettura biblica
+### 🜂 Lettura biblica
 
 `Dn 2:43`: ferro e argilla *"si mescolano ma non si tengono"*.
 
@@ -59,7 +60,7 @@ Crolla non per attacco, ma per entropia.
 Tesi: i dati diventano il nuovo "segreto iniziatico".
 Le élite tech assumono il ruolo di sacerdoti che interpretano il mistero.
 
-### ­ƒöì Lettura biblica
+### 🜂 Lettura biblica
 
 `Ef 2:8`: la salvezza è grazia, non ottimizzazione.
 
@@ -90,7 +91,7 @@ La comunità reale viene sostituita da:
 Tesi: le crisi globali non sono punizioni, ma rivelazioni.
 Smascherano ordini che sembravano solidi.
 
-### ­ƒöì Lettura biblica
+### 🜂 Lettura biblica
 
 - **Giobbe:** Dio difende il grido dell'uomo, non la teologia dei "difensori dell'ordine".
 
@@ -103,7 +104,7 @@ Il caos non è giudizio: è spazio di creazione.
 
 ---
 
-## ­ƒº® Sintesi Finale
+## 🔥 Sintesi Finale
 
 Tutto converge su un punto:
 

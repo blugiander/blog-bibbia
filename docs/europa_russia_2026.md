@@ -1,7 +1,8 @@
 ---
 title: "Aprile 2026: Europa, Russia e le Catene d'Oro"
+description: "> \"Il ricco signoreggia sui poveri, e chi prende in prestito è schiavo di chi presta.\" Dimentica il PIL, l'inflazione e i tassi di interesse. Quello che..."
+keywords: "Matrix, codici, aprile, analisi, teologia, bibbia, scrittura"
 ---
-
 # Aprile 2026: Europa, Russia e le Catene d'Oro
 
 > 

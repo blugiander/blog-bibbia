@@ -1,7 +1,8 @@
 ---
 title: "📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico"
+description: "Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere. --- Paolo non demonizza la Legge: la colloca nella storia dell'essere. Il..."
+keywords: "Matrix, codici, paolo, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Paolo e gli Ebrei: Il Cambio di Regime Ontologico
 
 *Dalla Legge esteriore allo Spirito interiore: la trasformazione dell'essere.*
@@ -38,7 +39,7 @@ La adempie dall'interno: trasforma l'obbedienza esteriore in vita interiore.
 
 Paolo non immagina la Chiesa come una struttura gerarchica, ma come un **organismo vivente**.
 
-### ­ƒ£ü Logica istituzionale
+### 📜 Logica istituzionale
 
 - visibilità = valore
 
@@ -46,7 +47,7 @@ Paolo non immagina la Chiesa come una struttura gerarchica, ma come un **organis
 
 - forza = prestigio
 
-### ­ƒ£ü Logica organica
+### 📜 Logica organica
 
 - la vita fluisce da ogni membro
 
@@ -88,7 +89,7 @@ Cristo:
 
 - non trattiene la sua uguaglianza con Dio
 
-- si svuota (*eken┼ìsen*)
+- si svuota (*ekenîsen*)
 
 - assume la forma di schiavo (*doulos*)
 

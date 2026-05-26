@@ -1,7 +1,8 @@
 ---
 title: "Ezechiele: La Gloria nell'Esilio"
+description: "> \"E io vidi, ed ecco un vento tempestoso venire dal settentrione, una grossa nuvola, e un fuoco avviluppato.\" Il Libro di Ezechiele non è un trattato. È..."
+keywords: "Matrix, codici, ezechiele, analisi, teologia, bibbia, scrittura"
 ---
-
 # Ezechiele: La Gloria nell'Esilio
 
 > 

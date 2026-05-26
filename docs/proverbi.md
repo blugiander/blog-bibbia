@@ -1,7 +1,8 @@
 ---
 title: "I Proverbi: Il Codice della Sapienza Viva"
+description: "> \"Il timore dell'Eterno è il principio della scienza.\" Il Libro dei Proverbi non è una raccolta di buoni consigli. Non è morale borghese. Non è etica..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # I Proverbi: Il Codice della Sapienza Viva
 
 > 

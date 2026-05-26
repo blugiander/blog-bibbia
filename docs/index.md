@@ -1,14 +1,14 @@
 ---
 title: "I Segreti della Scrittura: Un Viaggio Oltre il Testo"
+description: "> \"Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto.\" Benvenuti in questo spazio di esplorazione...."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # I Segreti della Scrittura: Un Viaggio Oltre il Testo
 
 > "Non c’è nulla di nascosto che non debba essere manifestato, né di segreto che non debba essere conosciuto."
 
 Benvenuti in questo spazio di esplorazione.  
 *I Segreti della Scrittura* non è un blog religioso tradizionale, ma un laboratorio di analisi profonda dedicato a scardinare i codici, le strutture e le simbologie nascoste nei testi biblici.
-
 
 ## La Nostra Missione
 Il nostro obiettivo è guardare dove l’occhio pigro si ferma.  

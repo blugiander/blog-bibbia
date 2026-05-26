@@ -1,7 +1,8 @@
 ---
 title: "Gaza, Palestinesi e Israele 2026: Sangue, Deserto e il Muro Abbattuto"
+description: "Target: Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente Protocollo: Caveman (Fuoco e Sangue) Status: Fuoco incrociato spirituale. Filtro: Zero..."
+keywords: "Matrix, codici, gaza, analisi, teologia, bibbia, scrittura"
 ---
-
 # Gaza, Palestinesi e Israele 2026: Sangue, Deserto e il Muro Abbattuto
 
 **Target:** Gaza, Il Conflitto, Il Deserto, Il Sangue Innocente
@@ -37,7 +38,7 @@ Non esiste una soluzione a due Stati, decretata dagli uomini, che possa neutrali
 ## 4. Il Muro Abbattuto (L'Unica Via d'Uscita)
 
 **Efesini 2:14. Giudei e Arabi alla Croce.**
-*┬½Lui infatti è la nostra pace; lui che dei due popoli ne ha fatto uno solo e ha abbattuto il muro di separazione┬╗*.
+*«Lui infatti è la nostra pace; lui che dei due popoli ne ha fatto uno solo e ha abbattuto il muro di separazione»*.
 C'è un'unica via di fuga dall'inferno mediorientale: il Principe della Pace.
 Due popoli, oggi ostaggi dei propri leader, dei propri odi e dei principati spirituali, possono essere liberati solo ai piedi della stessa Croce.
 La riconciliazione vera non avverrà al tavolo dell'ONU, ma nel Sangue dell'Agnello.

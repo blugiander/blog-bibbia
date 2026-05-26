@@ -1,7 +1,8 @@
 ---
 title: "1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni"
+description: "> \"Fino a quando zoppicherete dai due lati? Se l'Eterno è Dio, seguitelo; se invece lo è Baal, seguite lui.\" I Libri dei Re non sono la celebrazione della..."
+keywords: "Matrix, codici, e, analisi, teologia, bibbia, scrittura"
 ---
-
 # 1 e 2 Re: Fuoco, Idoli e la Rovina dei Troni
 
 > 

@@ -1,7 +1,8 @@
 ---
 title: "L'Epistola di Giuda: Infiltrazione e Guerra Spirituale"
+description: "> \"Carissimi, avendo un gran desiderio di scrivervi... mi sono trovato costretto a farlo per esortarvi a combattere strenuamente per la fede, che è stata..."
+keywords: "Matrix, codici, lepistola, analisi, teologia, bibbia, scrittura"
 ---
-
 # L'Epistola di Giuda: Infiltrazione e Guerra Spirituale
 
 > 

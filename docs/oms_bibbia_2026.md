@@ -1,7 +1,8 @@
 ---
 title: "Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità"
+description: "> \"Egli ha detto nella sua superbia: 'Io sono un dio, siedo sul trono di Dio...'. Eppure tu sei un uomo e non Dio, per quanto tu faccia il tuo cuore..."
+keywords: "Matrix, codici, sanità, analisi, teologia, bibbia, scrittura"
 ---
-
 # Sanità Globale (OMS) vs Sacre Scritture: La Falsa Immortalità
 
 > 

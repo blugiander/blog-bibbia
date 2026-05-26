@@ -1,7 +1,8 @@
 ---
 title: "Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie"
+description: "> \"È una grazia dell'Eterno che non siamo stati interamente distrutti, poiché le Sue compassioni non sono esaurite. Si rinnovano ogni mattina...\"..."
+keywords: "Matrix, codici, lamentazioni, analisi, teologia, bibbia, scrittura"
 ---
-
 # Lamentazioni: L'Architettura del Dolore e la Misericordia nelle Macerie
 
 > 

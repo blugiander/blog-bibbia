@@ -1,7 +1,8 @@
 ---
 title: "Tutte le Religioni vs L'Evangelo: La Torre e la Croce"
+description: "> \"C'è una via che all'uomo sembra diritta, ma la sua fine sfocia in vie di morte.\" (Proverbi 14:12) Le religioni mondiali, nonostante le loro immense..."
+keywords: "Matrix, codici, tutte, analisi, teologia, bibbia, scrittura"
 ---
-
 # Tutte le Religioni vs L'Evangelo: La Torre e la Croce
 
 > 

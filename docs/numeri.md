@@ -1,7 +1,8 @@
 ---
 title: "I Numeri: La Fornace del Deserto"
+description: "> \"I vostri cadaveri cadranno in questo deserto.\" Il Libro dei Numeri non è statistica. È l'anatomia della ribellione e della purificazione. L'Egitto è..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # I Numeri: La Fornace del Deserto
 
 > 

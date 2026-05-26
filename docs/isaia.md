@@ -1,7 +1,8 @@
 ---
 title: "📜 I 5 Segreti di Isaia: La Mappa della Catastrofe"
+description: "Il libro che contiene l'intera Bibbia in miniatura e rivela la logica della distruzione e della rinascita. --- Isaia è un microcosmo canonico: - 66..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 I 5 Segreti di Isaia: La Mappa della Catastrofe
 
 *Il libro che contiene l'intera Bibbia in miniatura e rivela la logica della distruzione e della rinascita.*
@@ -12,11 +13,11 @@ title: "📜 I 5 Segreti di Isaia: La Mappa della Catastrofe"
 
 Isaia è un microcosmo canonico:
 
-- 66 capitoli Ôåö 66 libri della Bibbia
+- 66 capitoli → 66 libri della Bibbia
 
-- 39 capitoli di giudizio Ôåö 39 libri dell'Antico Testamento
+- 39 capitoli di giudizio → 39 libri dell'Antico Testamento
 
-- 27 capitoli di consolazione Ôåö 27 libri del Nuovo Testamento
+- 27 capitoli di consolazione → 27 libri del Nuovo Testamento
 
 Il capitolo 40 (*"Consolate, consolate il mio popolo"*) è l'equivalente narrativo di Matteo 1:
 l'irruzione della grazia dopo la lunga notte del giudizio.
@@ -67,7 +68,7 @@ Il famoso passo non parla originariamente di Satana, ma del re di Babilonia.
 Eppure, nel suo linguaggio poetico, Isaia apre la prima vera analisi dell'Ego assoluto.
 
 > 
-*"Io saliròÔÇª sarò simile all'Altissimo."*
+*"Io salirò… sarò simile all'Altissimo."*
 
 È la nascita dell'archetipo di Lucifero:
 
@@ -110,7 +111,7 @@ Isaia 53 è il codice genetico della croce.
 Quando Isaia chiede: *"Fino a quando, Signore?"*, la risposta è devastante:
 
 > 
-*"Finché la terra non sia devastataÔÇª ma come il ceppo di una quercia abbattuta, in esso rimane un seme santo."*
+*"Finché la terra non sia devastata… ma come il ceppo di una quercia abbattuta, in esso rimane un seme santo."*
 
 La logica è chiara:
 

@@ -1,7 +1,8 @@
 ---
 title: "Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA"
+description: "Target: L'Architettura Invisibile del Conflitto Protocollo: Caveman (Fuoco, Sangue, Codice Puro) Status: Decodifica dei Principati. Filtro: Zero..."
+keywords: "Matrix, codici, radici, analisi, teologia, bibbia, scrittura"
 ---
-
 # Radici Spirituali del Conflitto 2026: Israele, Palestina, Iran, USA
 
 **Target:** L'Architettura Invisibile del Conflitto
@@ -28,7 +29,7 @@ Se Israele scompare, le profezie sul ritorno del Messia a Gerusalemme vengono in
 ## 3. Israele con USA (L'Egitto Moderno)
 
 **Isaia 31. La Falsa Sicurezza e l'Idolatria.**
-*┬½Guai a quelli che scendono in Egitto in cerca di soccorso, che si appoggiano sui cavalli, che confidano nei carri perché sono numerosi┬╗* (Isaia 31:1).
+*«Guai a quelli che scendono in Egitto in cerca di soccorso, che si appoggiano sui cavalli, che confidano nei carri perché sono numerosi»* (Isaia 31:1).
 Gli USA sono l'Egitto moderno. Israele ripone la sua fede nel veto all'ONU, nei finanziamenti del Pentagono, nei caccia, nell'intelligenza artificiale e nell'Iron Dome.
 Questa è idolatria pura. È fede nel ferro, non nell'Eterno degli Eserciti.
 Questa alleanza carnale è destinata a collassare. Dio lascerà che l'appoggio umano si frantumi, affinché Israele, isolato e accerchiato, possa finalmente alzare gli occhi al cielo e piangere per il Messia trafitto (Zaccaria 12:10).

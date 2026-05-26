@@ -1,7 +1,8 @@
 ---
 title: "📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia"
+description: "Perché non è una questione politica, ma ontologica. Gli apocrifi non sono stati esclusi perché \"scomodi\", ma perché incompatibili con la logica interna..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 I Vangeli Apocrifi: Il Conflitto tra Gnosi e Grazia
 
 *Perché non è una questione politica, ma ontologica.*
@@ -25,7 +26,7 @@ Il cristianesimo canonico e la gnosi non sono due varianti della stessa fede: so
 
 - La gnosi è meritocratica: ti salvi perché **sai**.
 
-### Ô£Ø´©Å La via canonica: salvezza per grazia
+### 🜂 La via canonica: salvezza per grazia
 
 - La materia è creata buona.
 
@@ -69,7 +70,7 @@ Il cristianesimo non può accettare un Salvatore che finge.
 
 Il cuore dello gnosticismo è un odio metafisico per la materia.
 
-### ­ƒ£ü Per gli gnostici
+### 📜 Per gli gnostici
 
 - Il mondo è opera di un dio minore (Demiurgo).
 
@@ -77,7 +78,7 @@ Il cuore dello gnosticismo è un odio metafisico per la materia.
 
 - La salvezza è fuga dalla carne.
 
-### Ô£Ø´©Å Per la fede canonica
+### 🜂 Per la fede canonica
 
 - Genesi: la materia è *molto buona*.
 
@@ -98,7 +99,7 @@ Se la croce è inutile, il cristianesimo crolla.
 
 La narrativa popolare ("Nicea ha censurato i vangeli scomodi") è storicamente infondata.
 
-### ­ƒôî Fatti storici
+### 🜂 Fatti storici
 
 - Il canone era già quasi definito nel II secolo.
 
@@ -106,7 +107,7 @@ La narrativa popolare ("Nicea ha censurato i vangeli scomodi") è storicamente i
 
 - Non sono stati "soppressi": erano semplicemente incompatibili.
 
-### ­ƒôî Perché incompatibili?
+### 🜂 Perché incompatibili?
 
 Perché richiedono:
 

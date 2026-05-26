@@ -1,7 +1,8 @@
 ---
 title: "42 Pagine - Ipotesi Verità"
+description: "MODO: Caveman. Zero compromessi. 1. ANATEMA O ECO: Eco. Nessun \"vangelo segreto\" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di..."
+keywords: "Matrix, codici, pagine, analisi, teologia, bibbia, scrittura"
 ---
-
 # 42 Pagine - Ipotesi Verità
 
 **MODO:** Caveman. Zero compromessi.
@@ -9,7 +10,7 @@ title: "42 Pagine - Ipotesi Verità"
 **1. ANATEMA O ECO:**
 Eco. Nessun "vangelo segreto" rinvenuto, nessuna rivelazione nascosta. Sono frammenti delle Lettere di Paolo (Codice H). Il testo conferma la Croce, non la altera. Non aggiungono una virgola alla salvezza. Nessun anatema, solo polvere medievale riportata alla luce. 
 
-**2. SOVRANIT├Ç:**
+**2. SOVRANITÀ:**
 L'Eterno non perde i Suoi decreti nei ripostigli di un monastero. Il Canone è chiuso, perfetto, sufficiente per la salvezza. L'infrastruttura del Regno non necessitava di un "aggiornamento" da Glasgow. Quelle 42 pagine sono storia della rilegatura, non completamento divino. Il Vangelo non era monco ieri, non è più integro oggi.
 
 **3. PROVA DEL FUOCO:**

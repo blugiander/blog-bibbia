@@ -1,11 +1,29 @@
 # MkDocs build output - generated automatically, do not edit
 site/
 
-# Script temporanei
+# Script temporanei e di utilità
 generate_assets.py
 generate_assets.ps1
+convert_pages.ps1
 recovered_*.html
-*.json
-*.ps1
 restore_from_*.py
 fix_encoding.py
+fix_encoding_all.py
+fix_encoding_final.py
+fix_double_encoded_emoji.py
+fix_special_chars.py
+fix_yaml.py
+clean_md.py
+debug_encoding.py
+check_pattern.py
+check_emoji.py
+encoding_report.txt
+temp_*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Recovery files
+*.json

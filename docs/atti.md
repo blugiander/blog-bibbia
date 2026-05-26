@@ -1,7 +1,8 @@
 ---
 title: "📜 Gli Atti: Autobiografia dello Spirito Santo"
+description: "Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte. --- Atti 16 è uno dei passaggi più sovversivi del Nuovo Testamento...."
+keywords: "Matrix, codici, gli, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 Gli Atti: Autobiografia dello Spirito Santo
 
 *Il libro in cui lo Spirito non ispira soltanto: dirige, vieta, apre, chiude, sovverte.*
@@ -23,8 +24,8 @@ Gli apostoli:
 Eppure:
 
 > 
-*"Lo Spirito Santo vietò loroÔÇª"*
-*"Lo Spirito di Gesù non lo permiseÔÇª"*
+*"Lo Spirito Santo vietò loro…"*
+*"Lo Spirito di Gesù non lo permise…"*
 
 Il soggetto grammaticale è sempre lo Spirito, non gli apostoli.
 
@@ -66,7 +67,7 @@ Il primo concilio della storia non produce un trattato teologico.
 Produce una frase che dovrebbe far tremare ogni istituzione religiosa:
 
 > 
-*"È parso bene allo Spirito Santo e a noiÔÇª"*
+*"È parso bene allo Spirito Santo e a noi…"*
 
 ### 🔥 Codice
 
@@ -101,7 +102,7 @@ Tre giorni di buio = morte rituale.
 
 ### 🜂 Le "scaglie"
 
-*h┼ìsei lepides* — "come squame"
+*hîsei lepides* — "come squame"
 
 Non è un dettaglio narrativo. È un simbolo di **mutazione percettiva**.
 
@@ -127,7 +128,7 @@ Eppure Atti finisce a Roma. Perché Roma è:
 Ma il vero colpo di genio è l'ultima parola del libro:
 
 > 
-**ß╝Ç╬║¤ë╬╗¤ì¤ä¤ë¤é** — *ak┼ìlyt┼ìs* — "senza impedimento"
+**ἀκωλύτως** — *akîlytîs* — "senza impedimento"
 
 Nessun finale narrativo. Nessuna chiusura. Nessuna morale. Solo un avverbio.
 

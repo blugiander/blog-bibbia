@@ -1,7 +1,9 @@
+# Dipendenze per il build e deploy (usate in CI)
+mkdocs-material>=9.0
+mkdocs-minify-plugin>=0.8
+
+# Dipendenze per gli script Python locali (opzionali)
 nltk
-pyttsx3
-fpdf2
-EbookLib
 watchdog
 beautifulsoup4
 markdown

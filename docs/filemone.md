@@ -1,7 +1,8 @@
 ---
 title: "Filemone: L'Esplosivo Ontologico e il Costo della Fraternità"
+description: "> \"Se egli ti ha fatto qualche torto o ti deve qualcosa, addebitalo a me.\" L'Epistola a Filemone è una lettera privata, un solo capitolo. Ma contiene una..."
+keywords: "Matrix, codici, filemone, analisi, teologia, bibbia, scrittura"
 ---
-
 # Filemone: L'Esplosivo Ontologico e il Costo della Fraternità
 
 > 

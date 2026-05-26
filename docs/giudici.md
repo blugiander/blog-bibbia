@@ -1,7 +1,8 @@
 ---
 title: "Giudici: Il Ciclo del Collasso e gli Eroi Rotti"
+description: "> \"In quei giorni non c'era re in Israele; ognuno faceva quello che gli pareva giusto ai suoi occhi.\" Il Libro dei Giudici non è un manuale di morale. È..."
+keywords: "Matrix, codici, giudici, analisi, teologia, bibbia, scrittura"
 ---
-
 # Giudici: Il Ciclo del Collasso e gli Eroi Rotti
 
 > 
@@ -12,7 +13,7 @@ Giosuè è morto. La generazione che ha visto il fuoco e il mare aperto è sepol
 Quello che resta è il caos: compromesso, idolatria, guerra civile e collasso totale della struttura.
 
 Il libro segue un algoritmo spietato, una spirale discendente:
-**Apostasia ÔåÆ Schiavitù ÔåÆ Grido d'Aiuto ÔåÆ Liberatore (Giudice) ÔåÆ Pace ÔåÆ Nuova Apostasia (peggiore della prima).**
+**Apostasia → Schiavitù → Grido d'Aiuto → Liberatore (Giudice) → Pace → Nuova Apostasia (peggiore della prima).**
 
 Dio non abbandona Israele, ma lo lascia alle conseguenze delle sue stesse scelte. L'idolo che scegli sarà il demone che ti schiavizzerà.
 

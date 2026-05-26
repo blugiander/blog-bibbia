@@ -1,7 +1,8 @@
 ---
 title: "📜 La Genesi: L'Architettura del Tempio Cosmico"
+description: "Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono. --- Genesi 1 non descrive l'ex nihilo (che verrà formulato molto più tardi)...."
+keywords: "Matrix, codici, la, analisi, teologia, bibbia, scrittura"
 ---
-
 # 📜 La Genesi: L'Architettura del Tempio Cosmico
 
 *Il cosmo come Santuario, l'uomo come sacerdote, il settimo giorno come trono.*

@@ -1,7 +1,8 @@
 ---
 title: "I Salmi: Carne, Sangue e Fuoco"
+description: "> \"Le mie lacrime sono diventate il mio cibo giorno e notte.\" Il Libro dei Salmi non è una raccolta di canzoni. Non è poesia per l'anima. È un manuale di..."
+keywords: "Matrix, codici, i, analisi, teologia, bibbia, scrittura"
 ---
-
 # I Salmi: Carne, Sangue e Fuoco
 
 > 

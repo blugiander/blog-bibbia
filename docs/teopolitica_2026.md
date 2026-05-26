@@ -1,7 +1,8 @@
 ---
 title: "La Bestia Non Ha Corna. Ha un Profilo."
+description: "Il fuoco non si analizza. Si teme, o si attraversa. --- Non siederà su un trono dorato. Non marcerà con eserciti. Non urlerà proclami nelle piazze...."
+keywords: "Matrix, codici, la, analisi, teologia, bibbia, scrittura"
 ---
-
 # La Bestia Non Ha Corna. Ha un Profilo.
 
 *Il fuoco non si analizza. Si teme, o si attraversa.*

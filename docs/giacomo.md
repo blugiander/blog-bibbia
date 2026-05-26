@@ -1,7 +1,8 @@
 ---
 title: "Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua"
+description: "> \"Ma qualcuno dirà: 'Tu hai la fede, e io ho le opere'; mostrami la tua fede senza le tue opere, e io con le mie opere ti mostrerò la mia fede.\" Giacomo..."
+keywords: "Matrix, codici, giacomo, analisi, teologia, bibbia, scrittura"
 ---
-
 # Giacomo: La Fede con le Mani Sporche e il Fuoco della Lingua
 
 > 

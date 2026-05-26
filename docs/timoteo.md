@@ -1,7 +1,8 @@
 ---
 title: "1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito"
+description: "> \"Custodisci il buon deposito per mezzo dello Spirito Santo che abita in noi.\" Paolo sta per morire. Non lascia a Timoteo un impero immobiliare, una rete..."
+keywords: "Matrix, codici, e, analisi, teologia, bibbia, scrittura"
 ---
-
 # 1 e 2 Timoteo: Il Deposito, la Struttura e l'Ultimo Ruggito
 
 > 

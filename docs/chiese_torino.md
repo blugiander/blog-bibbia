@@ -1,7 +1,8 @@
 ---
 title: "Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica"
+description: "Target: Mappa Istituzionale (Torino, evangelici.net) Protocollo: Caveman (Fuoco e Sangue) Status: Decodifica in corso. La mappa riporta indirizzi...."
+keywords: "Matrix, codici, mappa, analisi, teologia, bibbia, scrittura"
 ---
-
 # Mappa delle Chiese Evangeliche a Torino: La Decodifica Profetica
 
 **Target:** Mappa Istituzionale (Torino, evangelici.net)

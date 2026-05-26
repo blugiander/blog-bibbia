@@ -1,7 +1,8 @@
 ---
 title: "Rut: Il Redentore e la Grazia Straniera"
+description: "> \"Non insistere perch'io ti lasci... il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio.\" Il Libro di Rut si apre nell'oscurità del periodo..."
+keywords: "Matrix, codici, rut, analisi, teologia, bibbia, scrittura"
 ---
-
 # Rut: Il Redentore e la Grazia Straniera
 
 > 
