@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40">
+  <rect width="200" height="40" fill="transparent"/>
+  <text x="10" y="26" 
+        font-family="'Fira Code', monospace" 
+        font-size="14" 
+        font-weight="300"
+        fill="#6AF089">I Segreti della Scrittura</text>
+</svg>
