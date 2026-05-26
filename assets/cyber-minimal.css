@@ -1,118 +1,570 @@
-/* Tema Cyber Minimal Puro */
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');
+/* ============================================================
+   I Segreti della Scrittura — Tema: Deep Codex
+   MkDocs Material — CSS Personalizzato
+   v2.0 — Layout fisso, contrasto elevato, estetica premium
+   ============================================================ */
 
+/* ── Google Font ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Inter:wght@300;400;500;600&display=swap');
+
+/* ── Variabili Design System ─────────────────────────────── */
 :root {
-    --cyber-bg: #1A1A1A;
-    --cyber-sidebar: #161616;
-    --cyber-text: #E0E0E0;
-    --cyber-accent: #6AF089;
-    --cyber-border: #2A2A2A;
+  /* Palette */
+  --bg-base:      #0e0f13;   /* quasi-nero antracite */
+  --bg-surface:   #14161d;   /* superfici elevate */
+  --bg-card:      #1a1d27;   /* card / sidebar */
+  --bg-overlay:   #1f2230;   /* hover, highlight */
+
+  --text-primary:  #e8eaf0;  /* testo principale — bianco sporco */
+  --text-secondary:#a0a8be;  /* testo secondario — grigio freddo */
+  --text-muted:    #606880;  /* testo disattivato */
+
+  --accent:        #4dd9ac;  /* verde-ciano terminale */
+  --accent-dim:    rgba(77, 217, 172, 0.15);
+  --accent-glow:   rgba(77, 217, 172, 0.25);
+
+  --border:        rgba(77, 217, 172, 0.12);
+  --border-strong: rgba(77, 217, 172, 0.28);
+
+  /* Tipografia */
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'Fira Code', 'Courier New', monospace;
+
+  /* Spacing */
+  --radius-sm:  4px;
+  --radius-md:  8px;
+  --radius-lg: 12px;
 }
 
+/* ── Override variabili Material (dark) ──────────────────── */
 [data-md-color-scheme="slate"] {
-    --md-default-bg-color: var(--cyber-bg);
-    --md-default-fg-color: var(--cyber-text);
-    --md-primary-fg-color: var(--cyber-text);
-    --md-primary-bg-color: var(--cyber-sidebar);
-    --md-accent-fg-color: var(--cyber-accent);
-    --md-code-bg-color: var(--cyber-sidebar);
-    --md-typeset-a-color: var(--cyber-accent);
+  --md-default-bg-color:      var(--bg-base);
+  --md-default-fg-color:      var(--text-primary);
+  --md-default-fg-color--light: var(--text-secondary);
+  --md-default-fg-color--lighter: var(--text-muted);
+  --md-default-fg-color--lightest: var(--text-muted);
+
+  --md-primary-fg-color:      var(--accent);
+  --md-primary-bg-color:      var(--bg-surface);
+  --md-primary-fg-color--light: var(--accent);
+  --md-primary-fg-color--dark:  #39c494;
+
+  --md-accent-fg-color:       var(--accent);
+  --md-accent-fg-color--transparent: var(--accent-dim);
+
+  --md-code-bg-color:         #111318;
+  --md-code-fg-color:         var(--accent);
+
+  --md-typeset-a-color:       var(--accent);
+
+  --md-typeset-table-color:   rgba(77, 217, 172, 0.08);
+
+  --md-admonition-fg-color:   var(--text-primary);
+  --md-admonition-bg-color:   var(--bg-card);
+
+  --md-footer-bg-color:       var(--bg-surface);
+  --md-footer-bg-color--dark: var(--bg-base);
 }
 
-body,
-html {
-    font-family: 'Fira Code', 'Courier New', monospace !important;
-    background-color: var(--cyber-bg);
-    color: var(--cyber-text);
-    background-image: none !important;
+/* ── Override variabili Material (light) — preserva usabilità */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color:    #f5f6fa;
+  --md-default-fg-color:    #1a1d27;
+  --md-primary-fg-color:    #2a6a55;
+  --md-accent-fg-color:     #2a6a55;
+  --md-typeset-a-color:     #2a6a55;
 }
 
-/* Sidebar e header minimizzati */
-.md-header,
+/* ── Base ────────────────────────────────────────────────── */
+html, body {
+  font-family: var(--font-body) !important;
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  font-size: 16px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Header ──────────────────────────────────────────────── */
+.md-header {
+  background-color: var(--bg-surface) !important;
+  border-bottom: 1px solid var(--border) !important;
+  box-shadow: 0 1px 12px rgba(0,0,0,0.5) !important;
+  position: sticky;
+  top: 0;
+  z-index: 100;   /* stabile sopra tutto, mai sovrapposto */
+}
+
+.md-header__title {
+  font-family: var(--font-mono) !important;
+  font-weight: 500;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  color: var(--accent) !important;
+}
+
+.md-header__button {
+  color: var(--text-secondary) !important;
+}
+
+/* Tab bar */
 .md-tabs {
-    background-color: var(--cyber-sidebar) !important;
-    border-bottom: 1px solid var(--cyber-border) !important;
-    box-shadow: none !important;
+  background-color: var(--bg-surface) !important;
+  border-bottom: 1px solid var(--border) !important;
+  box-shadow: none !important;
+  z-index: 90;
 }
 
-.md-nav {
-    background-color: var(--cyber-sidebar) !important;
+.md-tabs__link {
+  color: var(--text-secondary) !important;
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  transition: color 0.2s ease;
 }
 
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--accent) !important;
+}
+
+/* ── Layout principale — nessuna sovrapposizione ─────────── */
+.md-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Sidebar sinistra (navigazione) */
 .md-sidebar--primary {
-    border-right: 1px solid var(--cyber-border);
+  background-color: var(--bg-surface) !important;
+  border-right: 1px solid var(--border);
+  width: 12.1rem;
+  z-index: 10;        /* z-index esplicito e basso */
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  flex-shrink: 0;
 }
 
-/* Link e testo senza glow */
+/* Sidebar destra (indice pagina) */
+.md-sidebar--secondary {
+  background-color: transparent !important;
+  z-index: 10;
+  flex-shrink: 0;
+}
+
+/* Contenuto centrale — padding corretto per non sbucare sotto sidebar */
+.md-content {
+  max-width: 860px;
+  padding: 0 1.5rem;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.md-main__inner {
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+}
+
+/* Area articolo */
+.md-content__inner {
+  padding-top: 1.8rem;
+  padding-bottom: 3rem;
+  min-width: 0; /* evita overflow del testo */
+}
+
+/* ── Navigazione sidebar ─────────────────────────────────── */
+.md-nav {
+  font-family: var(--font-mono) !important;
+  font-size: 0.78rem !important;
+}
+
+.md-nav__title {
+  color: var(--accent) !important;
+  font-size: 0.72rem !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.6rem 0.8rem 0.3rem;
+}
+
+.md-nav__item .md-nav__link {
+  color: var(--text-secondary) !important;
+  padding: 0.35rem 0.8rem;
+  border-radius: var(--radius-sm);
+  transition: all 0.18s ease;
+  line-height: 1.5;
+  display: block;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: var(--accent) !important;
+  background-color: var(--accent-dim);
+  text-decoration: none;
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--accent) !important;
+  font-weight: 500;
+  background-color: var(--accent-dim);
+  border-left: 2px solid var(--accent);
+  padding-left: calc(0.8rem - 2px);
+}
+
+/* ── Tipografia contenuto ────────────────────────────────── */
+.md-typeset {
+  font-family: var(--font-body) !important;
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text-primary);
+}
+
+.md-typeset h1 {
+  font-family: var(--font-body) !important;
+  font-size: 2rem !important;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--border-strong) !important;
+  padding-bottom: 0.5rem !important;
+  margin-bottom: 1.2rem !important;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h2 {
+  font-family: var(--font-body) !important;
+  font-size: 1.35rem !important;
+  font-weight: 600;
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--border) !important;
+  padding-bottom: 0.3rem !important;
+  margin-top: 2.2rem !important;
+  margin-bottom: 0.9rem !important;
+  letter-spacing: -0.005em;
+}
+
+.md-typeset h3 {
+  font-family: var(--font-mono) !important;
+  font-size: 1rem !important;
+  font-weight: 500;
+  color: var(--accent) !important;
+  border-bottom: none !important;
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.6rem !important;
+  letter-spacing: 0.02em;
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: var(--font-mono) !important;
+  font-size: 0.9rem !important;
+  color: var(--text-secondary) !important;
+  border-bottom: none !important;
+}
+
+.md-typeset p {
+  color: var(--text-primary) !important;
+  line-height: 1.85 !important;
+  margin-bottom: 1rem;
+}
+
+/* Testo em / i — usato molto nel blog */
+.md-typeset em {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* Testo strong */
+.md-typeset strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* ── Link ────────────────────────────────────────────────── */
 .md-typeset a {
-    color: var(--cyber-accent) !important;
-    text-decoration: none;
-    text-shadow: none !important;
-    transition: opacity 0.2s ease;
+  color: var(--accent) !important;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease, opacity 0.2s ease;
 }
 
 .md-typeset a:hover {
-    opacity: 0.8;
+  border-bottom-color: var(--accent);
+  opacity: 0.85;
 }
 
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
-    color: var(--cyber-text) !important;
-    text-shadow: none !important;
-    border-bottom: 1px solid var(--cyber-border);
-    padding-bottom: 0.3em;
-    font-weight: 300;
+/* ── Citazioni (blockquote) ──────────────────────────────── */
+.md-typeset blockquote {
+  color: var(--text-primary) !important;
+  font-style: italic;
+  border-left: 3px solid var(--accent) !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding: 0.75rem 1.1rem !important;
+  background-color: var(--accent-dim) !important;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0 !important;
+  line-height: 1.8;
 }
 
-/* Tabelle */
+.md-typeset blockquote p {
+  color: var(--text-primary) !important;
+  margin: 0;
+}
+
+/* ── Liste ───────────────────────────────────────────────── */
+.md-typeset ul li,
+.md-typeset ol li {
+  color: var(--text-primary);
+  line-height: 1.8;
+  margin-bottom: 0.25rem;
+}
+
+.md-typeset ul li::marker {
+  color: var(--accent);
+}
+
+/* ── Separatori ──────────────────────────────────────────── */
+.md-typeset hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ── Codice inline ───────────────────────────────────────── */
+.md-typeset code {
+  font-family: var(--font-mono) !important;
+  font-size: 0.87em;
+  color: var(--accent) !important;
+  background-color: rgba(77, 217, 172, 0.1) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-sm);
+  padding: 0.1em 0.4em;
+}
+
+/* ── Blocchi di codice ───────────────────────────────────── */
+.md-typeset pre {
+  border-radius: var(--radius-md) !important;
+  border: 1px solid var(--border) !important;
+  overflow-x: auto;
+}
+
+.md-typeset pre > code {
+  font-family: var(--font-mono) !important;
+  font-size: 0.85rem !important;
+  color: var(--accent) !important;
+  background-color: #0b0d10 !important;
+  border: none !important;
+  border-radius: var(--radius-md) !important;
+  padding: 1rem 1.2rem !important;
+  display: block;
+  line-height: 1.65;
+  box-shadow: none !important;
+}
+
+/* ── Tabelle ─────────────────────────────────────────────── */
 .md-typeset table {
-    background-color: var(--cyber-sidebar);
-    border-collapse: collapse;
+  font-size: 0.9rem;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-.md-typeset table th,
+.md-typeset table thead tr {
+  background-color: var(--bg-overlay) !important;
+}
+
+.md-typeset table th {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--accent) !important;
+  border: 1px solid var(--border) !important;
+  padding: 0.6rem 0.9rem;
+}
+
 .md-typeset table td {
-    border: 1px solid var(--cyber-border);
+  color: var(--text-primary);
+  border: 1px solid var(--border) !important;
+  padding: 0.55rem 0.9rem;
+  background-color: var(--bg-card);
 }
 
-/* Blocchi di codice senza pioggia */
-.md-typeset pre>code {
-    background-color: #111111 !important;
-    color: var(--cyber-accent) !important;
-    border: 1px solid var(--cyber-border);
-    border-radius: 4px;
-    box-shadow: none !important;
+.md-typeset table tr:hover td {
+  background-color: var(--bg-overlay);
+  transition: background-color 0.15s ease;
 }
 
-/* Scrollbar Minimal */
+/* ── Footer ──────────────────────────────────────────────── */
+.md-footer {
+  background-color: var(--bg-surface) !important;
+  border-top: 1px solid var(--border);
+}
+
+.md-footer-meta {
+  background-color: var(--bg-base) !important;
+}
+
+.md-footer__link {
+  color: var(--text-secondary) !important;
+  transition: color 0.2s ease;
+}
+
+.md-footer__link:hover {
+  color: var(--accent) !important;
+}
+
+/* ── Pulsante ricerca ────────────────────────────────────── */
+.md-search__input {
+  background-color: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-md);
+}
+
+.md-search__input::placeholder {
+  color: var(--text-muted) !important;
+}
+
+.md-search-result__meta {
+  background-color: var(--bg-overlay) !important;
+  color: var(--text-muted) !important;
+}
+
+.md-search-result__article {
+  background-color: var(--bg-card) !important;
+}
+
+/* ── Admonitions (note, warning, ecc.) ───────────────────── */
+.md-typeset .admonition,
+.md-typeset details {
+  background-color: var(--bg-card) !important;
+  border-color: var(--border-strong) !important;
+  border-radius: var(--radius-md) !important;
+  box-shadow: none !important;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background-color: var(--bg-overlay) !important;
+  color: var(--text-primary) !important;
+}
+
+/* ── Breadcrumb ──────────────────────────────────────────── */
+.md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+  color: var(--accent) !important;
+}
+
+/* ── Scrollbar personalizzata ────────────────────────────── */
 ::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--cyber-bg);
+  background: var(--bg-base);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--cyber-border);
-    border-radius: 3px;
+  background: var(--bg-overlay);
+  border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--cyber-accent);
+  background: var(--accent);
 }
 
-/* Migliora leggibilità del testo sotto il titolo */
-.md-content p,
-.md-content blockquote {
-    color: #D8D8D8 !important;
+/* ── Responsive — Mobile ─────────────────────────────────── */
+@media screen and (max-width: 76.1875em) {
+  /* Sidebar destra: nascosta su tablet */
+  .md-sidebar--secondary {
+    display: none;
+  }
+
+  .md-content {
+    max-width: 100%;
+    padding: 0 1rem;
+  }
 }
 
-/* Migliora contrasto delle citazioni */
-.md-content blockquote {
-    border-left: 3px solid #6AF089;
-    padding-left: 1rem;
-    opacity: 0.95;
+@media screen and (max-width: 60em) {
+  /* Sidebar sinistra: fuori canvas su mobile (comportamento MkDocs) */
+  .md-sidebar--primary {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 15rem;
+    transform: translateX(-100%);
+    z-index: 200;
+    transition: transform 0.25s ease;
+  }
+
+  /* Quando il drawer è aperto */
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(0);
+  }
+
+  .md-typeset h1 {
+    font-size: 1.6rem !important;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.2rem !important;
+  }
+
+  .md-content {
+    padding: 0 0.75rem;
+  }
+}
+
+/* ── Micro-animazioni ────────────────────────────────────── */
+.md-nav__link,
+.md-typeset a,
+.md-footer__link,
+.md-tabs__link {
+  transition: all 0.18s ease;
+}
+
+/* Fade-in del contenuto principale */
+.md-content__inner {
+  animation: fadeInUp 0.35s ease both;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Header: linea accent in basso al titolo h1 ──────────── */
+.md-typeset h1::after {
+  content: '';
+  display: block;
+  width: 3rem;
+  height: 2px;
+  background: var(--accent);
+  margin-top: 0.5rem;
+  border-radius: 2px;
+}
+
+/* ── Emoji di sezione nei titoli h3 ──────────────────────── */
+.md-typeset h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+/* ── Selezione testo ─────────────────────────────────────── */
+::selection {
+  background-color: var(--accent-glow);
+  color: var(--text-primary);
 }
