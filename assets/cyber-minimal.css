@@ -2,24 +2,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');
 
 :root {
-  --cyber-bg: #1A1A1A;
-  --cyber-sidebar: #161616;
-  --cyber-text: #E0E0E0;
-  --cyber-accent: #6AF089;
-  --cyber-border: #2A2A2A;
+    --cyber-bg: #1A1A1A;
+    --cyber-sidebar: #161616;
+    --cyber-text: #E0E0E0;
+    --cyber-accent: #6AF089;
+    --cyber-border: #2A2A2A;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color: var(--cyber-bg);
-  --md-default-fg-color: var(--cyber-text);
-  --md-primary-fg-color: var(--cyber-text);
-  --md-primary-bg-color: var(--cyber-sidebar);
-  --md-accent-fg-color: var(--cyber-accent);
-  --md-code-bg-color: var(--cyber-sidebar);
-  --md-typeset-a-color: var(--cyber-accent);
+    --md-default-bg-color: var(--cyber-bg);
+    --md-default-fg-color: var(--cyber-text);
+    --md-primary-fg-color: var(--cyber-text);
+    --md-primary-bg-color: var(--cyber-sidebar);
+    --md-accent-fg-color: var(--cyber-accent);
+    --md-code-bg-color: var(--cyber-sidebar);
+    --md-typeset-a-color: var(--cyber-accent);
 }
 
-body, html {
+body,
+html {
     font-family: 'Fira Code', 'Courier New', monospace !important;
     background-color: var(--cyber-bg);
     color: var(--cyber-text);
@@ -27,7 +28,8 @@ body, html {
 }
 
 /* Sidebar e header minimizzati */
-.md-header, .md-tabs {
+.md-header,
+.md-tabs {
     background-color: var(--cyber-sidebar) !important;
     border-bottom: 1px solid var(--cyber-border) !important;
     box-shadow: none !important;
@@ -53,7 +55,9 @@ body, html {
     opacity: 0.8;
 }
 
-.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
     color: var(--cyber-text) !important;
     text-shadow: none !important;
     border-bottom: 1px solid var(--cyber-border);
@@ -66,12 +70,14 @@ body, html {
     background-color: var(--cyber-sidebar);
     border-collapse: collapse;
 }
-.md-typeset table th, .md-typeset table td {
+
+.md-typeset table th,
+.md-typeset table td {
     border: 1px solid var(--cyber-border);
 }
 
 /* Blocchi di codice senza pioggia */
-.md-typeset pre > code {
+.md-typeset pre>code {
     background-color: #111111 !important;
     color: var(--cyber-accent) !important;
     border: 1px solid var(--cyber-border);
@@ -84,13 +90,29 @@ body, html {
     width: 6px;
     height: 6px;
 }
+
 ::-webkit-scrollbar-track {
     background: var(--cyber-bg);
 }
+
 ::-webkit-scrollbar-thumb {
     background: var(--cyber-border);
     border-radius: 3px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
     background: var(--cyber-accent);
+}
+
+/* Migliora leggibilità del testo sotto il titolo */
+.md-content p,
+.md-content blockquote {
+    color: #D8D8D8 !important;
+}
+
+/* Migliora contrasto delle citazioni */
+.md-content blockquote {
+    border-left: 3px solid #6AF089;
+    padding-left: 1rem;
+    opacity: 0.95;
 }
