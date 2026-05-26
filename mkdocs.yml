@@ -6,17 +6,23 @@ theme:
   name: material
   language: it
   font:
-    text: Fira Code
+    text: Inter
     code: Fira Code
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: green
+      accent: teal
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
-      accent: green
+      primary: teal
+      accent: teal
+  features:
+    - navigation.top          # pulsante "torna su"
+    - navigation.tabs         # tab principali in header
+    - navigation.sections     # gruppi espandibili nella sidebar
+    - search.highlight        # evidenzia i termini trovati
+    - content.code.copy       # bottone copia per i blocchi di codice
 
 plugins:
   - search
